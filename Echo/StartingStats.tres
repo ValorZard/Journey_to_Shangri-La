@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Echo/stats.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+backstory = "Backstory"
+charm = 0
+kind = 0
+smart = 0
+brave = 0

@@ -63,6 +63,21 @@ _global_script_classes=[ {
 "class": "HistoryRow",
 "language": "GDScript",
 "path": "res://addons/dialogic/Example Assets/History/HistoryRow.gd"
+}, {
+"base": "Control",
+"class": "Stats",
+"language": "GDScript",
+"path": "res://Control.gd"
+}, {
+"base": "Node",
+"class": "StatsFunc",
+"language": "GDScript",
+"path": "res://Echo/StatsFunc.gd"
+}, {
+"base": "Resource",
+"class": "stats",
+"language": "GDScript",
+"path": "res://Echo/stats.gd"
 } ]
 _global_script_class_icons={
 "DTS": "",
@@ -75,7 +90,10 @@ _global_script_class_icons={
 "DialogicParser": "",
 "DialogicResources": "",
 "DialogicUtil": "",
-"HistoryRow": ""
+"HistoryRow": "",
+"Stats": "",
+"StatsFunc": "",
+"stats": ""
 }
 
 [application]
