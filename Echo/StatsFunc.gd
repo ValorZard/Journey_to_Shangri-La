@@ -14,7 +14,7 @@ func _init(stats):
 	smart = stats.smart
 	
 func change_kind(value):
-	#changes value of kind stat (value can be neg or pos)
+	#changes value of kind stat (value can only be pos)
 	kind += value
 	
 func change_charm(value):
