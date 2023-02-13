@@ -1,0 +1,36 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are walking on the streets, dejected.\nThe clouds soar overhead, the sun daring to peek out at the people on the streets of Los Angeles."
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Non-sunny weather is strange here.\nLos Angeles is supposed to be sunny all the time\n"
+		},
+		{
+			"custom_slot": "",
+			"event_id": "dialogic_026",
+			"use_default_slot": true
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1676264579.json",
+		"name": "Los Angeles Act 1"
+	}
+}

@@ -4,12 +4,6 @@
 	],
 	"variables": [
 		{
-			"id": "1676253825-648",
-			"name": "Example Value",
-			"type": 0,
-			"value": "10"
-		},
-		{
 			"id": "1676256272-366",
 			"name": "brave",
 			"type": 0,
@@ -32,6 +26,12 @@
 			"name": "kind",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1676253825-648",
+			"name": "Example Value",
+			"type": 0,
+			"value": "10"
 		}
 	]
 }

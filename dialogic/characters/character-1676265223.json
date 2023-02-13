@@ -1,0 +1,29 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Professor",
+	"display_name_bool": true,
+	"id": "character-1676265223.json",
+	"mirror_portraits": false,
+	"name": "Professor",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 10,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Echo/Characters/Neutral_Professor.png"
+		},
+		{
+			"name": "Happy_Professor",
+			"path": "res://Echo/Characters/Happy_Professor.png"
+		},
+		{
+			"name": "Sad_Professor",
+			"path": "res://Echo/Characters/Sad_Professor.png"
+		}
+	],
+	"scale": 45,
+	"theme": ""
+}
