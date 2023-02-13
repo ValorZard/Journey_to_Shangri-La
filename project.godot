@@ -9,6 +9,11 @@
 config_version=4
 
 _global_script_classes=[ {
+"base": "Node",
+"class": "Backstory",
+"language": "GDScript",
+"path": "res://Echo/Backstory.gd"
+}, {
 "base": "Reference",
 "class": "DTS",
 "language": "GDScript",
@@ -64,11 +69,6 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://addons/dialogic/Example Assets/History/HistoryRow.gd"
 }, {
-"base": "Control",
-"class": "Stats",
-"language": "GDScript",
-"path": "res://Control.gd"
-}, {
 "base": "Node",
 "class": "StatsFunc",
 "language": "GDScript",
@@ -80,6 +80,7 @@ _global_script_classes=[ {
 "path": "res://Echo/stats.gd"
 } ]
 _global_script_class_icons={
+"Backstory": "",
 "DTS": "",
 "Dialogic": "",
 "DialogicAnimaPropertiesHelper": "",
@@ -91,7 +92,6 @@ _global_script_class_icons={
 "DialogicResources": "",
 "DialogicUtil": "",
 "HistoryRow": "",
-"Stats": "",
 "StatsFunc": "",
 "stats": ""
 }
@@ -99,6 +99,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Journey_to_Shangri-La"
+run/main_scene="res://Echo/Example Scene.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
