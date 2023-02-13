@@ -17,11 +17,6 @@
 			"text": "Non-sunny weather is strange here.\nLos Angeles is supposed to be sunny all the time\n"
 		},
 		{
-			"custom_slot": "",
-			"event_id": "dialogic_026",
-			"use_default_slot": true
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
