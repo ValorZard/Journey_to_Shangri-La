@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -252,8 +256,9 @@
 			"z_index": 0
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"background": "res://Echo/Backgrounds/UCLA.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"character": "",

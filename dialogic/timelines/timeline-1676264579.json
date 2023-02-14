@@ -7,8 +7,9 @@
 			"text": "You are walking on the streets, dejected.\nThe clouds soar overhead, the sun daring to peek out at the people on the streets of Los Angeles."
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"background": "res://Echo/Backgrounds/Streets of LA.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"character": "",
@@ -17,8 +18,9 @@
 			"text": "Non-sunny weather is strange here.\nLos Angeles is supposed to be sunny all the time- explains why those picture makers been moving here nowadays.\nIt had been rainy for the past few days, and now the sun has finally emerged from behind the clouds and people are cheering, finally putting their umbrellas away.\nYou sigh and continue on your way. \nPeople could always smile at the sun for its true self, but when you expressed who you truly are to your father, he threatened to hit you with his belt and chased you out of your childhood home."
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"character": "character-1676341086.json",
@@ -27,14 +29,19 @@
 			"text": "You aren’t my son! Come back when you’ve decided to be a real man, or go on and die! I don’t care."
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"background": "res://Echo/Backgrounds/Streets of LA.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That was weeks ago. Unfortunately, Father is quite the figure in your community–he’s a church leader–and everyone knows who you truly are now.\nThey shun you. Refuse to let you near their children and pets.\nYour friends actively avoid you.\nYou sigh again and continue down along the street to your favorite diner, just to look through the windows for a moment, just to remember.\nJust weeks ago, you had sat there with your friends, laughing over the faces you drew on your pancakes with syrup.\nNow, you spot them inside, laughing at the same old jokes, except there is an empty chair.\nYou trudge along before a staff member can shoo you away, and call you derogatory things."
+		},
+		{
+			"background": "res://Echo/Backgrounds/BackAlley.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"animation": "[Default]",
@@ -49,8 +56,8 @@
 			"position": {
 				"0": false,
 				"1": false,
-				"2": true,
-				"3": false,
+				"2": false,
+				"3": true,
 				"4": false
 			},
 			"type": 0,
@@ -134,6 +141,14 @@
 			"value": ""
 		},
 		{
+			"definition": "1676351999-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "True"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -179,6 +194,14 @@
 			"value": ""
 		},
 		{
+			"definition": "1676351999-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "False"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -193,6 +216,14 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"definition": "1676351999-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "False"
 		},
 		{
 			"character": "",
@@ -228,33 +259,46 @@
 			"text": "My… my maps… Mr. Kapoor from the University of Calcutta spent so much money getting this to me."
 		},
 		{
+			"condition": "",
+			"definition": "1676351999-970",
+			"event_id": "dialogic_012",
+			"value": "True"
+		},
+		{
 			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
+			"event_id": "dialogic_001",
 			"portrait": "",
-			"question": ""
+			"text": "You clutch Soot closer to yourself."
 		},
 		{
-			"choice": "You clutch Soot closer to yourself.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You even saved the kitten!"
 		},
 		{
-			"choice": "The old man gracefully scoops up the kitten and plucks the can off of its head.",
+			"event_id": "dialogic_013"
+		},
+		{
 			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
+			"definition": "1676351999-970",
+			"event_id": "dialogic_012",
+			"value": "False"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The old man gracefully scoops up the kitten and plucks the can off of its head."
 		},
 		{
 			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "There, there. You can’t pee all over my maps now, hm?"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "",
@@ -279,9 +323,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Are you in need of work, my boy? I am Professor Howard Allwright, in dire need of a research assistant!"
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"animation": "[Default]",
@@ -328,30 +369,16 @@
 			"text": "Nobody wants to be my research assistant, even if I pay above minimum wage! They all say my research is baloney - that looking for Shangri-La is dumb! It's not dumb!! I'll even provide food and lodging for my assistant... What do you say, kid? You seem capable!"
 		},
 		{
+			"condition": "",
+			"definition": "1676351999-970",
+			"event_id": "dialogic_012",
+			"value": "False"
+		},
+		{
 			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
+			"event_id": "dialogic_001",
 			"portrait": "",
-			"question": ""
-		},
-		{
-			"choice": "You even saved this kitten!",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "The professor gives you the kitten. You immediately cradle it, remembering how you would care for puppies back home.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
+			"text": "The professor gives you the kitten. youe immediately cradle it, remembering how you would care for puppies back home."
 		},
 		{
 			"character": "",
@@ -376,6 +403,9 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The kitten, named Soot, meows in affection."
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "character-1676265223.json",
@@ -459,6 +489,10 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
