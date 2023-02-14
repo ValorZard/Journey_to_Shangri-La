@@ -1,10 +1,6 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/UCLA.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",

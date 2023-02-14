@@ -1,8 +1,9 @@
 {
 	"events": [
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"animation": "[Default]",
@@ -256,7 +257,7 @@
 			"z_index": 0
 		},
 		{
-			"background": "res://Echo/Backgrounds/UCLA.jpg",
+			"background": "res://Echo/Backgrounds/UCLA2.png",
 			"event_id": "dialogic_021",
 			"fade_duration": 0.5
 		},
