@@ -1,0 +1,509 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are walking on the streets, dejected.\nThe clouds soar overhead, the sun daring to peek out at the people on the streets of Los Angeles."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Streets of LA.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Non-sunny weather is strange here.\nLos Angeles is supposed to be sunny all the time- explains why those picture makers been moving here nowadays.\nIt had been rainy for the past few days, and now the sun has finally emerged from behind the clouds and people are cheering, finally putting their umbrellas away.\nYou sigh and continue on your way. \nPeople could always smile at the sun for its true self, but when you expressed who you truly are to your father, he threatened to hit you with his belt and chased you out of your childhood home."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"character": "character-1676341086.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You aren’t my son! Come back when you’ve decided to be a real man, or go on and die! I don’t care."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Streets of LA.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That was weeks ago. Unfortunately, Father is quite the figure in your community–he’s a church leader–and everyone knows who you truly are now.\nThey shun you. Refuse to let you near their children and pets.\nYour friends actively avoid you.\nYou sigh again and continue down along the street to your favorite diner, just to look through the windows for a moment, just to remember.\nJust weeks ago, you had sat there with your friends, laughing over the faces you drew on your pancakes with syrup.\nNow, you spot them inside, laughing at the same old jokes, except there is an empty chair.\nYou trudge along before a staff member can shoo you away, and call you derogatory things."
+		},
+		{
+			"background": "res://Echo/Backgrounds/BackAlley.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wonder if you can truly find happiness in a world that actively rejects you.\nSuddenly, you hear a crash in an alleyway and stop mid-step.\nThere is a long mewl."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Investigate",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You cautiously check out the alleyway and find a small black kitten, its head stuck in a soup can."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s pawing against it, while continuously running into a wall."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Save the kitten.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676351999-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "True"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You gently pry the can off the kitten’s head and wrap it in the only jacket you had."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow~"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It rubs its small head against your hand gratefully.\nYou can see that it's missing a limb–it was likely born like this.\nI’m [PROTAG NAME]. From now on, your name will be “Soot.”\nThe kitten meows and licks your finger."
+		},
+		{
+			"choice": "Abandon the kitten, just like how your parents abandoned you.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676351999-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "False"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You shrug and continue on, briefly seeing it raise its leg over a yellowed piece of paper and start to pee.\nLife is about survival of the fittest, and you don’t want to risk getting rabies.\n"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Keep Walking",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676351999-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "False"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You shrug and continue on, briefly seeing it raise its leg over a yellowed piece of paper and start to pee.\nLife is about survival of the fittest, and you don’t want to risk getting rabies."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, you hear another sound."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MY MAPS!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You turn around to see an old man running at you with bags in his arms.\nThe old man is in a very unkempt business suit, with stains on it. His graying hair, which was originally brunette, was all frayed and in a mess, like an afro. He had a 5 o’clock shadow, and his pants had a sewn patch in them.\nHe heaves for breath."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My… my maps… Mr. Kapoor from the University of Calcutta spent so much money getting this to me."
+		},
+		{
+			"condition": "",
+			"definition": "1676351999-970",
+			"event_id": "dialogic_012",
+			"value": "True"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You clutch Soot closer to yourself."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You even saved the kitten!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1676351999-970",
+			"event_id": "dialogic_012",
+			"value": "False"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The old man gracefully scoops up the kitten and plucks the can off of its head."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There, there. You can’t pee all over my maps now, hm?"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The man folds up the yellowed piece of paper and puts it into his bag."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You there!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The man points at you and scurries closer, squinting his eyes at you."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you in need of work, my boy? I am Professor Howard Allwright, in dire need of a research assistant!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor cracks his back."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you can see, I'm not in the best shape anymore! And!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He spins around and whips out the yellow map."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nobody wants to be my research assistant, even if I pay above minimum wage! They all say my research is baloney - that looking for Shangri-La is dumb! It's not dumb!! I'll even provide food and lodging for my assistant... What do you say, kid? You seem capable!"
+		},
+		{
+			"condition": "",
+			"definition": "1676351999-970",
+			"event_id": "dialogic_012",
+			"value": "False"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor gives you the kitten. youe immediately cradle it, remembering how you would care for puppies back home."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The kitten affectionately rubs its head against your hand.\n\tYou smile, realizing that you shouldn’t have left it behind like that."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do ya say? Wanna become my research assistant?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I think I’ll name you Soot…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The kitten, named Soot, meows in affection."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "See, you can even care for this kitten!\nWhat do ya say? Wanna become my research assistant?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can see the professor give you desperate, puppy eyes."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Sure. I’ve been homeless for a while now–getting some work is good.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor pumps his fist in the air."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Then it's settled!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He pulls you into a one-armed hug.\nWelcome to the Shangri-La research team!"
+		},
+		{
+			"choice": "I think I'll pass. Helping research Shangri-La isn't my thing.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Game Ends."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Little did you know that the team only consisted of you and this oddball professor, and this kitten."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1676264579.json",
+		"name": "Los Angeles Act 1"
+	}
+}

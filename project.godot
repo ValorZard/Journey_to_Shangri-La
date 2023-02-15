@@ -98,7 +98,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Journey_to_Shangri-La"
+config/name="Journey to Shangri-La"
 run/main_scene="res://Echo/Example Scene.tscn"
 config/icon="res://icon.png"
 
