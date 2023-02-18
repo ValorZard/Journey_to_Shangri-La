@@ -99,7 +99,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Journey to Shangri-La"
-run/main_scene="res://Echo/Example Scene.tscn"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
