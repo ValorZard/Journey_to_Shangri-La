@@ -38,6 +38,30 @@
 			"name": "Picked up Soot",
 			"type": 0,
 			"value": "True"
+		},
+		{
+			"id": "1677207446-648",
+			"name": "Name",
+			"type": 0,
+			"value": "MC"
+		},
+		{
+			"id": "1677208041-787",
+			"name": "EB",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1677208058-366",
+			"name": "MB",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1677208075-146",
+			"name": "NB",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

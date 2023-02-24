@@ -1,0 +1,730 @@
+{
+	"events": [
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tonight's the night."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You have all the provisions you need to survive the trip."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s the perfect opportunity to get out before Father finds you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The rain and wind will cover your tracks and sounds."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The house smells like alcohol tonight. This will be one of the worst ones, if you don’t leave."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Distantly, Father calls for you. Glass shatters."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "WHERE THE FUCK ARE YOU, FUCKING PIECE OF SHIT?!"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your back stings from the memory of his belt."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "COME HERE THIS INSTANT YOU FUCK! I’LL BEAT THE DEVIL OUT OF YOU!!!! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Years ago, Father beat the Devil out of Roger–one of the guys in your church–and sent him to conversion therapy."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Roger had emerged from conversion therapy as a shell of himself, shaken and pale. He doesn’t talk to anyone nowadays. Not even with his wife."
+		},
+		{
+			"condition": "",
+			"definition": "1677208041-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The train will leave for the West tomorrow morning, to bring you as far away from New York as possible. You check your pocket change–it’s just enough."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208058-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The train will leave for the West tomorrow morning, to bring you as far away from Oklahoma as possible. You check your pocket change–it’s just enough."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208075-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As long as you get away from your hometown where Father is the head pastor–without him or anyone in the community noticing and dragging you to conversion therapy, to purification–you’ll be safe."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You check your pocket change–it’s just enough to compensate those who would be willing to let you ride in their car."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear the snap of Father smacking his belt against his own palm, as if testing just how strongly he wants to beat you."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Get the fuck out of my son, you Devil. You can’t hide from the wrath of God."
+		},
+		{
+			"choice": "Sneak downstairs",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take it slowly, avoiding the steps you know to be creaky."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, you make it to the main hall. The front door is within reach."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Behind you–"
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There you are, devil."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You run to the door and throw it open, out into the pouring rain and mud."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET BACK HERE RIGHT NOW!!! YOU CAN’T HIDE FROM GOD!!!"
+		},
+		{
+			"choice": "Climb down the window",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You slide the window open a little wider, cringing when it makes a sharp squeak."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[Name]?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear heavy boots creak against the stairs leading to your room."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Frantically, you throw the rope over and slide down, the coarse thick rope burning your hands."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, from above you-"
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "THERE YOU ARE, DEVIL!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The rope’s too short. You jump the rest of the way down, praying to whatever gods exist that you don’t break your legs."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It hurts, but you barely feel it due to the pure panic."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET BACK HERE YOU DEVIL!!! YOU CAN’T HIDE FROM GOD!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In record time, you hear the front door slam open, and you know Father is running after you, belt in hand."
+		},
+		{
+			"choice": "Hide",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You squeeze yourself under the bed and pull boxes to cover yourself."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Father’s footsteps make the floorboards creak."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The door slowly opens and Father enters, belt in hand."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fucking devil making men like men. I’ll drive it out, son. I’ll save you. God will save you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear his drunken steps shuffle around the room, then the assuring sound of the door opening and closing again."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You count to ten and hurry out from your hiding place, opening the door and running down the stairs, to the front door, to freedom–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, from behind you-"
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "THERE YOU ARE, DEVIL!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You run to the door and throw it open, out into the pouring rain and mud."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET BACK HERE RIGHT NOW!!! YOU CAN’T HIDE FROM GOD!!!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Adrenaline rushes through your veins, and you force yourself to run and keep fucking running or else he’ll catch you, beat you, force you into conversion therapy, into torture–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, there’s a loud roar of lightning that almost blows your eardrums off. You feel heat behind you."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "FUCK!!"
+		},
+		{
+			"condition": "",
+			"definition": "1677208041-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You spin around and see a car parked on the side of the road is on fire, the flames quickly spreading."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208058-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You spin around and see the grass between you and Father is on fire, the flames quickly spreading."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208075-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You spin around and see one of the houses is on fire, the flames quickly spreading."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Father is covering his eyes, as if he can’t see."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The lightning had blinded him."
+		},
+		{
+			"condition": "",
+			"definition": "1677208041-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You keep running until you reach the train, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At the train station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline, still? Fear?"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208058-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You keep running until you reach the train, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At the train station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline, still? Fear?"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208075-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You keep running until you reach the gas station, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Under the roof of a gas station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline, still? Fear?"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s the middle of the night, still. What if Father finds you?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t stop shaking. It’s cold. The sky flashes with lightning. Thunder and rain roars around you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your cheeks feel wet, and it’s not just from the rain."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It sounds close. Is that… the sound of a kitten?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "There’s a tiny, soaked box slowly making its way out into the rain, a tiny black tail peeking out from the box’s opening."
+		},
+		{
+			"choice": "I should check that out.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You walk over and gently pick up the small box."
+		},
+		{
+			"choice": "I’ll keep observing.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Once the box reaches the rain, it releases another meow and turns around, slowly making its way towards you. It walks into the leg of your bench."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You peer at it curiously."
+		},
+		{
+			"choice": "I should stay here.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Once the box reaches the rain, it releases another meow and turns around, slowly making its way towards you. It walks into the leg of your bench."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You peer at it curiously."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A small, black kitten peers at you from within and releases a long meow."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You pick it up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It reaches its paws towards you. You gently cradle it in your hands and notice one of its legs is missing and bleeding."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "!!!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no, you’re hurt. I'll help."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You gently treat the kitten’s wound as best as you can with what little provisions you have."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who in their right mind would cut off a kitten’s limb? Or was it an accident?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Once you finish, the kitten rubs its head against your hand and curls into your palm, basking in your warmth."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You smile."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think I’ll name you Soot."
+		},
+		{
+			"condition": "",
+			"definition": "1677208041-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The next day, you and Soot board the train West."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208058-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The next day, you and Soot board the train West."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1677208075-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The next day, you and Soot begin your journey away from home."
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677207980.json",
+		"name": "Prologue"
+	}
+}

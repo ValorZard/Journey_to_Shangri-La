@@ -1,11 +1,11 @@
 {
 	"color": "#ffffffff",
 	"description": "",
-	"display_name": "You",
-	"display_name_bool": true,
-	"id": "character-1676265208.json",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677208371.json",
 	"mirror_portraits": false,
-	"name": "Main Character",
+	"name": "Father",
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Echo/Characters/MC.png"
+			"path": ""
 		}
 	],
-	"scale": 60,
+	"scale": 100,
 	"theme": ""
 }

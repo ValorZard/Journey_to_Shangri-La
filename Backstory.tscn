@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Echo/Backstory.gd" type="Script" id=1]
+[ext_resource path="res://Echo/TestBackstory.tres" type="Resource" id=2]
+
+[node name="Backstory" type="Node"]
+script = ExtResource( 1 )
+starting_stats = ExtResource( 2 )

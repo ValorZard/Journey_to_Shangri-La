@@ -5,7 +5,7 @@
 [resource]
 script = ExtResource( 1 )
 backstory = "TestBackstory"
-charm = 5
-kind = 5
+charm = 0
+kind = 0
 smart = 0
-brave = 5
+brave = 0
