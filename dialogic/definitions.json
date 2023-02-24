@@ -4,12 +4,6 @@
 	],
 	"variables": [
 		{
-			"id": "1676253825-648",
-			"name": "Example Value",
-			"type": 0,
-			"value": "10"
-		},
-		{
 			"id": "1676256272-366",
 			"name": "brave",
 			"type": 0,
@@ -30,6 +24,42 @@
 		{
 			"id": "1676256261-787",
 			"name": "kind",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1676253825-648",
+			"name": "Example Value",
+			"type": 0,
+			"value": "10"
+		},
+		{
+			"id": "1676351999-970",
+			"name": "Picked up Soot",
+			"type": 0,
+			"value": "True"
+		},
+		{
+			"id": "1677207446-648",
+			"name": "Name",
+			"type": 0,
+			"value": "MC"
+		},
+		{
+			"id": "1677208041-787",
+			"name": "EB",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1677208058-366",
+			"name": "MB",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1677208075-146",
+			"name": "NB",
 			"type": 0,
 			"value": "0"
 		}
