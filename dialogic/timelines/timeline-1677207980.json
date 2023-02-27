@@ -5,6 +5,15 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -384,6 +393,27 @@
 			"text": "Adrenaline rushes through your veins, and you force yourself to run and keep fucking running or else he’ll catch you, beat you, force you into conversion therapy, into torture–"
 		},
 		{
+			"animation": "flash.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -465,6 +495,10 @@
 			"text": "You keep running until you reach the train, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
 		},
 		{
+			"background": "res://Echo/Backgrounds/Train2.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -486,6 +520,10 @@
 			"text": "You keep running until you reach the train, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
 		},
 		{
+			"background": "res://Echo/Backgrounds/Train2.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -505,6 +543,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You keep running until you reach the gas station, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -720,6 +762,10 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1677477516.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

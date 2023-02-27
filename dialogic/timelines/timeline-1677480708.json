@@ -1,0 +1,1485 @@
+{
+	"events": [
+		{
+			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/folk2-2.mp3",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You spend the night in the Professor’s office, after he serves you a gourmet meal of canned soup and crackers from the staff kitchen."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He wrenches open someone’s can of tuna for Soot and pours her a cold glass of milk."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Prof pats Soot’s head."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Who’s a good cat? You are, yes you are!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot affectionately meows and rubs her head against the Professor’s hand."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What an adorable little kitten!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He smiles and turns to you."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can spend the night on my couch, [YOUR NAME], I assure you it’s as comfortable as ever. If you need anything, I’ll be putting everything away–just holler!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He actually remains in the same room as you, scurrying around and putting everything away, so you know that you don’t need to holler at all."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You watch Soot lick up the milk and tuna for a few moments, then dive into your meal."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Looking"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "As you dive into your meal, your eyes curiously wander the room."
+		},
+		{
+			"choice": "Look at the whole office",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor’s office is warm and cozy. There are books, maps, boards, paintings, and just about everything scattered all over the place."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How the Professor knows where to stow away all the paraphernalia from his boxes–you have no idea."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Look at the wall",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On one wall is a map, with pins threading a path through the Pacific Ocean and to… India? It’s the only thing not dusty in here."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Look at the coffee table",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On the coffee table in front of you, you notice a book open with foreign letters–Chinese? Japanese? You can’t tell–written in it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s an illustration of a man–or rather, monkey? He has a tail–with a staff in hand. His pose is triumphant."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What an interesting piece of artwork."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Food’s more important, I’m hungry",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s been a long day. You walked through all of Los Angeles, asked every establishment if they were looking for work, got denied, then scared a thief away."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After eating, you find yourself nodding off."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2,
+			"waiting_skippable": true
+		},
+		{
+			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When you wake up again, there’s soft light shining through the closed window blinds, and a blanket draped over you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot is snuggled into your arms. She opens her eyes now and she yawns."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good morning, Soot."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You gently pet the kitten’s ear."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor is sitting at his crowded desk, reading a letter in his hand."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj, you’re getting married?!?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You notice there’s a hearty breakfast of toast and eggs set out for you on the small coffee table. You see the book is still open to the illustration of the monkey man."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You lean forward and notice there’s papers with messy handwriting that matches the format of the text. A translation?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The top of the page reads [i]Journey to the West[/i]."
+		},
+		{
+			"choice": "Read",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Might as well read something while you enjoy your breakfast."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot climbs onto the table and drinks from the platter of milk set out for her."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh. It’s a synopsis on that Chinese legend, [i]Journey to the West[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]In the Journey to the West, the monk Tripitaka journeys to deliver the sutras from the Buddha himself to the West. Tripitaka has the aid of four other companions:[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Sun Wukong, the mischievous Monkey King possessing immense combat strength.[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Sandy, the reliable and serious-headed companion with a straight face.[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Pigsy, the one who looks like a Pig, one who is-[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You see scribbled out words indicating the Professor is still working on the translation."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]And finally, the White Dragon Horse who is-[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You see the Professor notes subtleties in the translation he wants to polish up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]On their journey, they encounter various perils in the form of demons…[/i]"
+		},
+		{
+			"choice": "Don’t read",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You want to focus your energy on eating."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You already know the basic premise of the Journey to the West anyway. A monk carries holy writings to the west with the help of a bunch of Buddhist deities, or something like that."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "BUT RAJ WHAT ABOUT YOUR RESEARCH?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor slams his hand on the desk."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve worked all your life for this! Don’t throw it away! W-What?! AN ARRANGED MARRIAGE?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor flips the page and continues reading intensely."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But the beyuls, Raj, the beyuls! Don’t you want to find it?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You finish up eating. Beyuls? What are those?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows and walks along the coffee table, exploring. She paws at the illustration of Sun Wukong."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "AAAHHHHHH RAJ DON’T GIVE UP YOUR ACADEMIC DREAMS!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He grabs another piece of paper and starts scribbling down a letter."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After a few minutes, he folds it up and puts it in an envelope with a huff, writing down the address outside."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You spot that it’s directed to… Kolkata, India? To Dr. Rajesh Kapoor of the Anthropology department from the University of Calcutta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor puts the letter away."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Default",
+			"question": "Ah, [YOUR NAME], my boy! How are you this morning?"
+		},
+		{
+			"choice": "Alright.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "I’m glad you slept well!"
+		},
+		{
+			"choice": "Great!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "LOVELY!"
+		},
+		{
+			"choice": "Horrible.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "As expected from all the excitement last night!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "I myself am doing swell! Now, where are you off to this morning? I can escort you home!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Home…"
+		},
+		{
+			"choice": "I don’t have a home.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh no!"
+		},
+		{
+			"choice": "I am one with the streets.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Ah, you are a street man. A man who is one with streets. And the streets are one with you!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "What… does that mean?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m homeless."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh no!"
+		},
+		{
+			"choice": "I actually need a place…",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor tilts his head."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just arrived in Los Angeles yesterday and was looking for work. I don’t have any money or a… home."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "I’m so sorry to hear that! Well now…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He scratches his head."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In [i]this[/i] economy–wait, what year is it again? 1932?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1937, Professor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor snaps his fingers."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right! The economy is in a tight spot. It’s not easy to get a job anywhere, but… I do have a proposal for you, [YOUR NAME]!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You raise a brow."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone thinks my research is crazy, and all the youngsters are busy going out and about nowadays. No one’s interested in good old anthropological research!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, I can offer you a job! An office assistant you could help me clean up–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He gestures at all the paraphernalia lying haphazardly around the office. There’s barely any room to walk, and it’s very dusty."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And reach the high shelves without me having to break my back, and carrying my boxes! That would be swell! I love my research, but I’m just not as full of vigor as before!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor audibly cracks his back."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you say, [YOUR NAME]? How about becoming my assistant? You can live in my office!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows and lies atop the Sun Wukong illustration."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Happy_Professor",
+			"question": "And I… do owe you. For saving my research and my life!"
+		},
+		{
+			"choice": "Accept",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You remember seeing people on the street with signs indicating they would work for anything. If it really is that hard to get a job, you might as well accept."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor has a few screws loose–who walks with boxes of research in the middle of the night?–but you have found him to be kind thus far."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He didn’t have to give you a blanket last night, or give you and Soot food."
+		},
+		{
+			"choice": "Hesitate",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You aren’t sure what to say. This is an opportunity, but you’re not sure if you want to spend your life in an academic setting like this."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But then you remember seeing people lined up on the street with signs indicating they would work for anything."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Might as well accept."
+		},
+		{
+			"choice": "Decline",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t envision yourself being an assistant in an academic setting."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, Professor. I appreciate it, but I want to try other career paths."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods, even though he is a little disappointed."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I understand, [YOUR NAME]! Best of luck with your pursuits! Here, take this box of cookies before you leave!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And off you went in the streets of Los Angeles. You work multiple small jobs and eventually get a place for yourself and Soot!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Still, you can’t help but feel like there’s more to life than a 9-5 job."
+		},
+		{
+			"change_timeline": "timeline-1677480158.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes. Thank you, Professor."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "WOOOOOOOOOO! I FINALLY HAVE HELP!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And thus, over the course of a few months, you work for the Professor. You help him tidy up his office and all his research."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Since Professor Allwright is a Professor, he loves teaching you about his life’s work."
+		},
+		{
+			"background": "res://Echo/Backgrounds/UCLA.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s a Professor of anthropology at UCLA interested in beyuls, which are hidden, sacred valleys in the Himalayas only known to the inhabitants of the region."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He hopes to travel there someday, once he’s able to secure the funds. He’s very interested in Buddhism and their tales, particularly [i]Journey to the West[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He tells you a story from it at every meal you share together. And you share every meal together."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor makes sure you feel comfortable as his assistant and provides you and Soot with ample food everyday."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although the Professor mainly talks about his beyul research–and he is very passionate about it–he often curiously asks you questions about your life, and at one such meal he asks you about your upbringing."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were having a gourmet meal of beans, spinach, and chicken noodle soup. Yum."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "In these beyuls, you can’t kill any creatures or chop down a tree! All plant life must be respected!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If only the people in this country respected the environment as much as those in the beyuls, then we wouldn’t have so many problems!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "UCLA was the only place that would hire me for my research–so here I am!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Well, [YOUR NAME], enough about me! How about you? What motivated you to come to the City of Angels?"
+		},
+		{
+			"choice": "Tell the truth",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If the Professor asked you this months ago, you would immediately lie. You never want to go back to that place–just thinking about it is hard."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But as the months passed being this wacky Professor’s assistant, you start to see he’s nothing like the people back home."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You feel comfortable around him, almost like how comfortable you were with your own father before you came out to him."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I… told my father I was… homosexual. And he threatened to send me to conversion therapy. He would “beat the devil out of me.”"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So I ran as far away as I could, and ended up in Los Angeles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are afraid the Professor would recoil and treat you just as Father did. That he would oust you, and you’d be alone on the streets again…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "[YOUR NAME], I’m so sorry."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Immediately, the Professor walks over to your side of the dining table and hugs you."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "I don’t think you’re a monster. Your father is just a misguided soul. I would never cast you out for something like that."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You feel yourself start to cry. No one had ever accepted you like this, [i]ever[/i]."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Did you know? Back during the times of ancient Greece, homosexual relationships were considered normal?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hell, there was a famous army of male lovers called the Sacred Band of Thebes, who were unstoppable. Because of their romantic bond, no one could defeat them."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor sighs."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe, eventually, you’ll be able to love in public, but until that time comes, your secret is safe with me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor smiles and pats your head."
+		},
+		{
+			"choice": "Tell an altered truth",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The past is too painful to speak about–you’d rather not think about it."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wanted to marry a gal my father disapproved of. So I ran away with her, but we eventually fell out of love anyway. I’m too ashamed to go back, and would like to start anew."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sorry to hear that, [YOUR NAME]. I hope you find your true love someday."
+		},
+		{
+			"choice": "Lie",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The past is too painful to speak about–you’d rather remove yourself from it completely."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I couldn’t find work back home, so I thought I might have a chance in California."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, understandable. Work is hard to come by nowadays. I’m glad you decided to go, else I wouldn’t have you as my assistant!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "I’ll support you all the way, even if you don’t want to work here anymore!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Months later, the monotony of your office assistant life drastically changes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor was reading a newspaper when he suddenly yelled:"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "That damn Theo! Got there before me! I WAS SUPPOSED TO BE THE ONE TO GO TO TIBET!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were organizing some files across from him, and now you glance at the map on the wall, with all the pins."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor’s dream was to go to Tibet, but all the grants he applied for denied him on the claim that his research was “ridiculous.”"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "AHHHHH!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "THEO!!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Theo is the Professor’s arch-nemesis who was interested in Tibet. They have never actually met, but he was the only other academic interested in Tibet so the Professor considered him his rival."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He went to India with his wife. Now, he’s published a pamphlet announcing his intent to travel into Tibet itself. RAAAA!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor sets the newspaper down on the table and buries his head in his hands."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "What’s the use…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m never going to find the beyul now. Everyone just thinks it’s a fictional story made by that hack James Hilton! How can I ever prove it’s real to them now?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You remember how much the Professor hates James Hilton’s novel [i]Lost Horizon[/i] that described a fictional place of Shangri-La instead of the real, historical beyuls the Professor researches."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He starts sobbing."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Theo’s going to report that beyul is just a myth and everyone will believe him! Why didn’t the department fund me instead?! I know it exists! I just have to find it!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s my life’s work. And now… no one’s ever going to take my research seriously after Theo reports that “Shangri-La” isn’t real."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "THAT’S IT."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He abruptly stands."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’M GOING TO FIND THAT BEYUL AND PROVE IT’S REAL IF IT’S THE LAST THING I DO! EVEN IF IT COSTS ME MY ENTIRE RETIREMENT FUND, I’LL DO IT!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "EVEN IF I DIE!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You startle at that statement. The Professor is like a father to you, and you don’t want to lose him."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve seen how clumsy, impulsive, and absolutely not street smart he is after all these months."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re on your feet before you know it."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll come with you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The words leave your mouth before you know it, but when you say them… You know it’s what you want. You want to protect what little you have."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows and hops into the Professor’s arms."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor points somewhere vaguely west."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "ONWARD! TO THE BEYUL!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’LL STEP FOOT INTO THAT BEYUL IF IT’S THE LAST THING I DO–I SWEAR IT!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The rest of the month is spent preparing for the trip. The Professor uses [i]all[/i] of his retirement funds and organizes everything you need for your journey to Shangri-La."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a no turning back scenario, not just for the Professor but for you as well. But it has always been a no turning back scenario for you, ever since you ran away from Father."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Train.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor waves goodbye to California as he boards the ship to your first stop: Hawaii. This is the happiest you’ve ever seen him. He’s finally pursuing his lifelong dreams."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You think about your own dreams… You want to find a place where Father doesn’t beat you and the people don’t give you weird looks. A place where you belong."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And perhaps, people who accept you for who you are."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "As you board the ship to your first stop, Hawaii, you look back to the coast of the United States."
+		},
+		{
+			"choice": "Goodbye, home.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "See ya later, suckers!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "…",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677480708.json",
+		"name": "LA pt.2"
+	}
+}

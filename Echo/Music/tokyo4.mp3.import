@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tokyo4.mp3-35564211cd91efedb8c3ef42ea2f73bc.mp3str"
+
+[deps]
+
+source_file="res://Echo/Music/tokyo4.mp3"
+dest_files=[ "res://.import/tokyo4.mp3-35564211cd91efedb8c3ef42ea2f73bc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
