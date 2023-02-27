@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hawaii2.mp3-cef1a423e7ed306e542e1603ca7ef8ee.mp3str"
+
+[deps]
+
+source_file="res://Echo/Music/hawaii2.mp3"
+dest_files=[ "res://.import/hawaii2.mp3-cef1a423e7ed306e542e1603ca7ef8ee.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
