@@ -1,0 +1,25 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677554507.json",
+	"mirror_portraits": false,
+	"name": "Juan",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Echo/Characters/JUAN_NEUTRAL.png"
+		},
+		{
+			"name": "JUAN_HAPPY",
+			"path": "res://Echo/Characters/JUAN_HAPPY.png"
+		}
+	],
+	"scale": 38,
+	"theme": ""
+}

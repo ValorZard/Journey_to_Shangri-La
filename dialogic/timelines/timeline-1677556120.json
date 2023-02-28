@@ -1,0 +1,595 @@
+{
+	"events": [
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tokyo4.mp3",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As far as the eye could see, fires blazed as bright as the sun. The air was seasoned with the tang of gunpowder."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With every step he walked, another building, another person, another nuisance fell, and Hiroshi knew that the path to a beautiful future was being paved."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hurried footsteps came from behind, and, tightening his grip on his rifle, he whipped around."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was one of his soldiers, looking winded and tripping over his own feet in his hurry."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Speak!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Unable to regain his breath, the soldier pointed behind him and gestured frantically."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not bothering to wait for an explanation, Hiroshi shoved past the soldier and ran off in the indicated direction."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cries of anguish transformed into cries of battle, the further he ran."
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, past all the rubble and smoke, the roof of a buddhist monastery rose into sight, standing tall and untouched."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi arrived at the top of the hill to the monastery, but he was thrown onto the ground when one of his soldiers flew right into him!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With a grunt, he rolled out from under them, but he had barely gotten to his feet when a strong gust of wind sent him tumbling back to the ground."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "ARGHH!! What’s going on?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He dug his fingers into the rough dirt, crawling forward even though the wind made his eyes water and blur his vision."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In a brief moment of stillness, Hiroshi saw five monks standing in front of the temple facing his men, who were scattered onto the ground like he was."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nearly all of them were bleeding profusely and lifeless, but another look at the monks told him they didn’t carry any lethal weapons."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact, they had not a single weapon, although the one in the middle was holding an awfully large leaf?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]BANG[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To his left, Hiroshi saw the last of his soldiers here shooting with desperation."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The monks did not flinch whatsoever, but the one with the leaf swung it, creating another impossibly strong gust of wind."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi ducked his head and was barely able to see the blood spurt from the soldier where his bullet was returned to him."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Commander, what should we do?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was the soldier who had crashed into Hiroshi earlier. Turns out he hadn’t died yet, surprisingly."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gather reinforcements! Hurry!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the soldier scrambled off to call for help, Hiroshi turned back to find all the monks watching him."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cursing mentally, Hiroshi got to his feet, gripping his rifle tightly as he stepped forward."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The monks exchanged glances, then the one with the leaf fan retreated inside."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soon after, a faint golden light seeped out of the monastery."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi would’ve gladly liked to know the cause, but the other four monks were quickly encroaching upon him."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For people who value peace, they were surprisingly skilled at hand to hand combat, redirecting each and every one of Hiroshi’s attempts to shoot them."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not to mention that they outnumbered him."
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ugh!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He stumbled backwards breathlessly after a monk delivered a blow to his diaphragm."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He mentally prepared himself for another blow, but it never came because the monks retreated backwards, and the sound of many heavy footsteps told him why."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Reinforcements pushed the monks back steadily, and in this moment, Hiroshi could see that the light coming from the monastery was more intense than before."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He jumped to his feet and dashed towards the monastery, sensing that something was amiss."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The monks made to stop him, but the reinforcements kept them busy."
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At the center of the monastery, Hiroshi found the monk from earlier, standing behind the leaf fan, which was suspended in mid-air, and muttering rapidly."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Light emitted from said fan, and an array that had appeared on the floor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, wind blew violently from below and the light from the array shone even more intensely."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Without another thought, Hiroshi raised his rifle and took aim. In the moment he pulled the trigger the light and wind ceased, and in the next, so did the monk."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seeing that the monk was dead, he ran forward and picked up the leaf fan that had now fallen to the floor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He couldn’t help the smile that came to his face upon feeling the weight of it in his hand."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Commander! We’ve restrained the monks!"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good. Bring them in so I can give them a taste of their own medicine."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, as Hiroshi waited for the monks to be brought into the monastery, a fresh burning smell prompted him to turn around."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What greeted him was the sight of flames crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In desperation, Hiroshi swung the leaf fan, but there was no wind. Not even a slight breeze."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Confused, he swung it again. And again. And again."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Frantically, he waved it back and forth rapidly, but the fan showed no signs of its former prowess."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What did you do? What did you [i]do[/i]?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi ran towards the deceased monk, as if he would get answers, eyes darting around the monastery for an explanation."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then, on a table behind the monk, he glimpsed a drawing of the fan gracing the pages of a burning manuscript."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Without hesitation, he reached for it, throwing it onto the floor and stomping out the fire."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The manuscript was still hot when he picked it up, but he didn’t care. He needed to know what the monk had done to the fan."
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His eyes scanned what little was left as he exited the monastery, passing his soldiers and the captured monks. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Ancient artifact…Beyuls…Sun Wukong…[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nothing he could make sense of."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He cried out in anger, whipping out his rifle and killing one of the monks in a blind fit."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "KILL THEM!! KILL THEM ALL!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The subsequent sounds of gunfire told him his commands were followed."
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Since that day almost a year ago, Hiroshi had flipped through the half-burnt manuscript countless times. And each time, he could not decipher anything new."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Most of the words had been burnt away, but some fragments of drawings, much like the drawing of the fan, had remained."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There must be more."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He had seen the power the fan held. He had seen the potential. And he would have it. For Japan. For a better future."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now, Hiroshi was sitting in an empty restaurant, waiting for food… and news."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shopkeeper came over with a steaming bowl of ramen and set it in front of him, bowing slightly before hurrying away."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hearing the door to the restaurant bang open, Hiroshi stowed the manuscript and leaf fan away in his coat, sitting up as his subordinate approached."
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Commander, I have news."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Speak."
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There is this group of westerners we discovered in Hawaii, and have just received news that they have arrived in Tokyo."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... And?"
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of these westerners is … Professor Howard Allwright."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi’s eyebrows shot up. Ever since that incident, he had tried to find anyone who had done research on mystical Buddhist myths, including the one about beyuls."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, there were only a few people in the world who seemed to have any knowledge about it, and they included Howard Allwright of UCLA and Rajesh Ghoshal of the University of Calcutta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi had kept tabs on their research, but after a while, considered them a dead end."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s here?"
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "According to our intel, they are heading to the Himilyayas, and appear to be looking for… [i]beyuls[/i]. They also seem to have an artifact with them, an artifact similar to your own."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep an eye on them. And, if you notice their artifact has any mystical properties, I want them arrested and handed to me as soon as possible. Got that?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The spy saluted."
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, sir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The spy turned around and left."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As soon as the spy left, Hiroshi relaxed and abruptly burst into laughter."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hahaha! Finally! God himself has delivered a golden opportunity onto my lap! Soon, I will finally unlock the secrets of this damn fan."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Japan will finally be able to integrate all of Asia into the Empire, and NO ONE will be able to stop us."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi, with a satisfied smile, broke apart his wooden chopsticks and began eating."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677556120.json",
+		"name": "Tokyo pt.1"
+	}
+}
