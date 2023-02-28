@@ -1,0 +1,685 @@
+{
+	"events": [
+		{
+			"background": "res://Echo/Backgrounds/Ship.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/hawaii2.mp3",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"animation_repeat": 3,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The sun blazes above you as you walk off the deck of the ship that brought you here. It takes all your effort to hold Soot, who is trying her best to wriggle away from you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The Professor seems oblivious to the heat, and more importantly oblivious to the fact that they were at a place that was as far away from the mainland as one could imagine."
+		},
+		{
+			"choice": "Regret Decisions ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Holding Soot a little tighter, you turn around, ready to talk to the Professor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You knew you were the one to encourage the decision in the first place, but was it really worth leaving home for the possibility that the two of you would find Shangri-La?"
+		},
+		{
+			"choice": "Move Forward",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure it was far, but it's not like you had much of a home anyways."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor was nice enough to take you in, and he had already paid for your ticket to come to Hawaii."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two of you had decided to go to Shangri-La, and the two of you were going to make it! You turn around, ready to follow the professor."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "res://Echo/Backgrounds/Hawaii.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Before you could get any words in, the Professor yanked you over to one of those touristy areas, the air filled with the scent of the sea."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whatever he was saying was marred by loud noises of vendors selling their wares."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In the confusion, you almost find yourself lost, only able to hold onto Soot out of sheer luck."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When you stumble out of the arms and legs that you’ve gotten yourself into, you’re pitched forward into the arms of someone you’ve definitely not met before."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "JUAN_HAPPY",
+			"text": "Woah there bud, can’t have just anyone falling for me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Soot are gently pushed away from the man, who you notice is about your age and definitely looks like someone that all the girls back home would fawn over."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s still holding onto your arms to steady you, but once you find your footing he lets go, raising one slightly calloused man up to tousle his hair and wear his hat."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Are you good? Hello?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As he waves his hands in front of you you can’t help but notice that the end of his words are tinged with something you don't recognize and isn’t like the people you nearly got trampled over."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Was he not from Hawaii?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Finally, you break out of your stupor to see the man getting more frantic in front of you. Did you really not respond back already?"
+		},
+		{
+			"choice": "“I’m fine! All dandy! I’m actually looking for a man...”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m fine! All dandy! I’m actually looking for a man that I came here with. About this tall, silver hair, huge glasses?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If it was even possible, his smile grows more! "
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "JUAN_HAPPY",
+			"text": "Oh, el patron! Yes, I was just talking to him earlier, wanted to go to some Shan-gri-La? Of course I said I could take him there, anything for the patron. I’m Juan, Juan Martinez. The pleasure is all mine."
+		},
+		{
+			"choice": "“Who are you?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Calm down, chiquito, I mean no harm. I’m Juan, Juan Martinez, and I was actually coming to look for you. Your Profe sent me to come find you, we have an expedition that we’re going on together!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Still wary of the friendly man, you decide to follow him, the top of his head alerting you of his presence even as he manages to slip into the crowd."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Somehow, you manage to stumble your way to a clearing, where the Professor is talking to a set of burly men that look like they’re part of security."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "One of them looks you over, and you decide to:"
+		},
+		{
+			"choice": "Hide behind the Professor ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As much as the views that you and the Professor had differed from each other, he was the only person in the room that you knew."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You decide to move closer to the old man and listen in on his conversation."
+		},
+		{
+			"choice": "Glare at the man",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even though the man was scary, you didn’t want to be eyed over."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You move a little closer and glare at the man, triumphant as he turns away."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, now that you were in hearing range of the Professor, what he was saying caught your attention."
+		},
+		{
+			"choice": "Leave the area",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You must have gotten to the wrong place, and whatever the professor was doing, he could handle it himself."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, the professor notices you and calls you over with an excited wave."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… So as I was saying, we need immediate passage to the Himalayas for my young steward and I!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Exciting discoveries need to be made, and we have to go as soon as possible, possibly by boat through Tokyo, Japan, then for arrangements for us to be going to Tibet."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "For the sake of humanity, we must discover the secrets of that fantastic area, and bring it back for the rest of the world. I know that we will be able to find it!"
+		},
+		{
+			"character": "character-1677555513.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And the money?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course, the money will be there. I have enough and possibly more!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With that, he grabs a wad of bills and pushes it toward the second of the man, who has still not said a word."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Consider this a payment for making sure we get on a boat. The real treasure is knowing you helped us reach one of the greatest discoveries in the world."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With this, Juan steps in, taking the money and quickly counting it before giving it to the first man, who puts it away without a word."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "JUAN_HAPPY",
+			"text": "Sure señor! We will get to where you need to go, as soon as we can! Count on us."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However wide Juan’s smile was, there was something wrong with the situation."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How had the Professor met people that accepted to help so quickly? And would they have enough funds to continue the journey?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor did have to pay for the ship to Hawaii, and the stack of bills that he had handed over was hefty."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Were these people part of a traveling company, or were they trying to do something else to make money?"
+		},
+		{
+			"choice": "Intervene ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There had to be a better way to get to Shangri-La!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor and you did not know this people who had so willingly offered help, and there was something fishy about the whole situation."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! We don’t want to use your services, and we will find a better way to get to Shangri-La. Please return our money, and we will be out of your hair."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Finally, the silent man spoke with a snarl,"
+		},
+		{
+			"character": "character-1677555513.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not so fast. You paid us, and we have to compensate you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As he spoke, he reached forward to grab you, while the other man held back the Professor."
+		},
+		{
+			"choice": "Stay quiet",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There was no other way that the two of them could make it to Shangri-La without them. As much as the situation was odd, the best thing to do was to trust these people."
+		},
+		{
+			"character": "character-1677555513.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One more form of payment though, before we can fully pay you back."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of the men had spoken, but you weren't so sure as your hands were suddenly held behind your back."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You felt your vision grow hazy as you felt pain bloom in the back of your head. The man had somehow hit you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The last thing you remember before you pass out is the worried expletives of Juan as he runs towards you."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1677563399.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677553588.json",
+		"name": "Hawaii pt.1"
+	}
+}

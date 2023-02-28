@@ -1,0 +1,25 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry! Hawaii pt.2 is current being worked on!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Moving on to Tokyo pt.1..."
+		},
+		{
+			"change_timeline": "timeline-1677556120.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677563399.json",
+		"name": "Work in progress"
+	}
+}

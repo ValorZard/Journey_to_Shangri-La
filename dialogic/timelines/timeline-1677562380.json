@@ -1,0 +1,1145 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tokyo4.mp3",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Cargo Ship.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Juan manage to get the Professor to at least look like he’s a worker on the cargo ship well enough not to be ousted."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Some captains have horrible punishments for stowaways–Juan cheerily told you all the stories he’d heard and experienced on his own journey to Hawaii."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Delightful."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The cargo boat finally lands in Tokyo after a long trip, and the three of you–plus Soot tucked in your shirt–discreetly enter Tokyo."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Japan.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The city is bigger than you had imagined. There are street cars and trams, people walking to and fro everywhere. You feel like you can get lost."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "We’ve definitely lost the Mafia now."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Indeed, my boy!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor is as chipper as ever."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your stomach grumbles."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let’s drop by a restaurant!"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nice! Where to? Japan’s known for ramen, sushi… and fish. Well, I don’t know much about Japanese cuisine."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He drapes an arm over your shoulder."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "JUAN_HAPPY",
+			"question": "Why don’t you choose, [YOUR NAME]?"
+		},
+		{
+			"choice": "Any grub is fine by me!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Juan smiles."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "Then… let’s go there!"
+		},
+		{
+			"choice": "How about ramen?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Noodles! Nice."
+		},
+		{
+			"choice": "How about sushi?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fish? I’m down. I’ve had plenty of sushi in Hawaii, I can even give you pointers about Hawaiian customs!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "res://Echo/Backgrounds/J Food.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Together, hand in hand, you all head to the restaurant you had decided on together, passing through sheets of cloth to enter the warm, cozy restaurant."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Juan holds three fingers up."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Table for three please!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are all quickly ushered to a nearby table, sitting next to Juan while the Professor slides into the seat across from you two."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look at the menu placed before you and don’t understand the Japanese at all. There are small, English words below the pictures, which helps a lot."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You notice this restaurant sells ramen, fish, and everything in between. You see a lot of food you’re unfamiliar with, but the pictures look appetizing."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Juan is also squinting at the menu."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor adjusts his glasses and reads the menu himself, being the only person fluent in Japanese."
+		},
+		{
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Welcome to our restaurant. Are you ready to order?"
+		},
+		{
+			"choice": "Miso soup",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Tonkotsu ramen",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Sushi",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Gyoza",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Udon",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Tempura",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Katsudon",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Tamagoyaki",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "I’ll have the same."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor clears his throat and starts speaking to the waitress in Japanese. They speak together for a while, and both of them laugh after a few exchanges."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You notice her body language is less tense, more relaxed now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Juan leans forward after she leaves."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What did you talk about?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh nothing! I simply complimented the color palette of her restaurant and asked her where she learned English–which is very good, I tell you what–and she was complimenting my Japanese as well!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I told her I’m from the United States and am traveling to Tibet to research a sacred valley!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "She told me that she inherited this small shop from her late grandfather–bless him–and she’s running it all on her own! What a respectable young woman!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "I asked her about how Japan is nowadays, the politics–did you know just last year there was an attempted coup?–and then–"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Profe, haven’t you learned? Stop telling others you’re trying to find Shangri-La!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "It’s not Shangri-La, Juan!! It’s a beyul!!!! Shangri-La was made up by that hack James Hilton! It’s a beyul, Juan, a beyul–"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, alright, sheesh! Sorry, Profe!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It takes a while for your food to arrive–the young woman really was running the shop all on her own."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But when your food arrives, it’s fresh and beautifully presented."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The Professor amicably chats with the shopkeeper as she places the food on your table, before she leaves you to yourselves."
+		},
+		{
+			"choice": "“So, where to now, Professor?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Eat in silence.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor gladly speaks to fill in the silence."
+		},
+		{
+			"choice": "“How’s your food, Juan?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1677563720-862",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "JUAN_HAPPY",
+			"text": "Delicious! You have good taste, [YOUR NAME]."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Now that we’re in Japan, I want to look for the Temple of Bishamon! Perhaps after paying our respects, we will be blessed on our journey to the beyul!"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Bisha… mon? Why specifically that deity?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, I told you all about my research on the ride here, Juan. Remember?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Juan scratches the back of his head."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Sorry, Profe. It’s just… you tend to info dump and it’s hard to remember everything you said."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I attest to that."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Then I shall remind you!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Bishamon is another name for Sha Wujing, who we know as Sandy from the [i]Journey to the West[/i]. [YOUR NAME], do you remember what I taught you about him?"
+		},
+		{
+			"choice": "“Kind of.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You vaguely know that Sandy is the calmest and clearest-headed of the group consisting of Sun Wukong, Tripitaka, Pigsy, and the White Dragon Horse."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, aside from Tripitaka and the White Dragon Horse."
+		},
+		{
+			"choice": "“Yes.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You remember a lot about Sandy, but not everything. He was the calmest of the group consisting of Sun Wukong, Tripitaka, Pigsy, and the White Dragon Horse."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, aside from Tripitaka and the White Dragon Horse."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He tried to eat Tripitaka by leaping out of the Liusha river, but Sun Wukong stopped him and he joined the Journey to the West."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Apparently, he was originally from the heavens, but was turned into a man-eating demon as punishment, before he became Sandy."
+		},
+		{
+			"choice": "“Not really.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor does info dump a lot, so your memories of Sandy’s role in the story is vague. He was the calmest and clearest-headed of the group, aside from Tripitaka, the monk."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Sandy is also known as Sha Wujing, and the Japanese god of fortune: Bishamon. We can learn much about him by visiting a temple dedicated to him."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Since my research involves the [i]Journey to the West[/i] and the beyuls, it is likely he himself is connected to these sacred valleys. Let’s go!"
+		},
+		{
+			"background": "res://Echo/Backgrounds/Temple.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After you finish your meal, you head off to the Temple for Bishamon."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you walk together to the temple, you notice the Professor checking his inner coat pocket often. It must be that amulet he’s so protective of. Why?"
+		},
+		{
+			"background": "res://Echo/Backgrounds/temple-interior-5.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you enter the Temple for Bishamon, you see a statue of a figure dominating the center."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The most interesting part was the staff which rested upon his shoulder; crescent shaped on one end and fan shaped on the other."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wander the temple, examining the illustrations pasted on the walls and the artifacts laid out on the counters."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Behind the statue is a peculiar illustration depicting a figure much like the statue, except his skin was blue and nine skulls hung around his neck. He appeared much more fearsome than the statue."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you are exploring the temple, Juan comes up behind you to look over your shoulder."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The hum he lets out leads you to believe his interest is feigned, but nonetheless, his presence is reassuring."
+		},
+		{
+			"choice": "“What do you think of this temple, Juan?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "It’s quite nice, even though I don’t really understand the stories behind everything."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm, the closest thing I have in comparison are the Catholic churches back home. The mood is very different. This place feels… spiritual."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. It’s as if there’s…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t quite put a finger on the feeling."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As if…"
+		},
+		{
+			"choice": "Stay silent.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "This place feels… spiritual."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. It’s as if there’s…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t quite put a finger on the feeling."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As if…"
+		},
+		{
+			"choice": "“This place is… interesting.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Juan tilts his head at you."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "What do you mean?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The religious tones of this temple reminds me of home."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? How so?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My father was a pastor, so I would go to church every Sunday. There, religion felt like a duty. Here, however… feels spiritual. As if…"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As if there’s magic in the air?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You nod."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, exactly. Magic. As if some deity is here with us."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor joins the two of you in examining the illustration and statue."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So you’re saying this, became this?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You watch Juan point between the illustration of the horrifying demon, and the statue in the center of the temple."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Prof nods energetically."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Originally from the heavens, he was turned into a man-eating demon when he accidentally destroyed the Jade Emperor’s vase in anger."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, you hear someone clearing their throat gently, and all three of you turn towards the sound."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Apologies for my intrusion, but I think it’s about time I clarified: it was no accident."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You stare at the newcomer, thinking he looks oddly familiar."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "But you are–!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He exclaims and points again between the statue, illustration, and this time, the man as well."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take a closer look at the man, and notice the telling staff in his hand."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "‘Sandy’ chuckles softly, running a hand over his thick beard and nodding slowly."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor is practically jumping on the balls of his feet."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "If you really are, then you must know about this!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quickly, he pulls his amulet out of his coat and holds it in front of Sandy's face."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The moment he does so, the amulet starts to glow, getting brighter with every passing second."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You see Sandy’s mouth fall slightly open."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He looks as if he’s about to speak, but a shout from the entrance of the temple has you all frozen for a moment."
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are under arrest! Get down on your knees and drop the amulet!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You exchange glances with the others, and Sandy speaks first."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There is an exit in the back, hurry!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t understand why he sounds so panicked, but your instincts tell you not to question his intentions. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The three of you stumble around the displays and behind a wall just as a loud bang resonates in the air."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There is a metal clang, before the bangs come more rapidly. Realizing that it is gunfire, the three of you begin to make your way out of the temple with haste."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite the franticness of everything, you can’t help but wonder: [i]what is going on?[/i]"
+		},
+		{
+			"change_timeline": "timeline-1677480158.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677562380.json",
+		"name": "Tokyo pt.2"
+	}
+}
