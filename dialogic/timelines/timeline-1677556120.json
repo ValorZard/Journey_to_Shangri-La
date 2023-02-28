@@ -455,6 +455,10 @@
 			"text": "He had seen the power the fan held. He had seen the potential. And he would have it. For Japan. For a better future."
 		},
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -585,6 +589,30 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Hiroshi, with a satisfied smile, broke apart his wooden chopsticks and began eating."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"change_timeline": "timeline-1677562380.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

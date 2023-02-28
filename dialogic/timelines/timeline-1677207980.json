@@ -262,7 +262,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[Name]?"
+			"text": "[YOUR NAME]?"
 		},
 		{
 			"character": "",
@@ -659,6 +659,26 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -717,6 +737,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I think I’ll name you Soot."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"condition": "",

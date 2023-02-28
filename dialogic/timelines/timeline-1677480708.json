@@ -18,6 +18,47 @@
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
@@ -297,6 +338,27 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -344,6 +406,27 @@
 				"4": false
 			},
 			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -813,10 +896,16 @@
 			"text": "What do you say, [YOUR NAME]? How about becoming my assistant? You can live in my office!"
 		},
 		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow."
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Soot meows and lies atop the Sun Wukong illustration."
+			"text": "Soot lies atop the Sun Wukong illustration."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -947,6 +1036,27 @@
 				"4": false
 			},
 			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -1385,10 +1495,10 @@
 			"text": "It’s my life’s work. And now… no one’s ever going to take my research seriously after Theo reports that “Shangri-La” isn’t real."
 		},
 		{
-			"character": "",
+			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Soot meows."
+			"text": "Meow."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1445,10 +1555,16 @@
 			"text": "The words leave your mouth before you know it, but when you say them… You know it’s what you want. You want to protect what little you have."
 		},
 		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow."
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Soot meows and hops into the Professor’s arms."
+			"text": "Soot hops into the Professor’s arms."
 		},
 		{
 			"character": "",
@@ -1508,6 +1624,27 @@
 				"4": false
 			},
 			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -1577,10 +1714,10 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Soot meows."
+			"text": "Meow."
 		},
 		{
 			"change_timeline": "timeline-1677553588.json",
