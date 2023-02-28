@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Father's House.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -383,10 +383,6 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -545,7 +541,7 @@
 			"text": "You keep running until you reach the gas station, mud and rain in your shoes, your backpack and provisions absolutely soaked–"
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Gas Station.png",
 			"event_id": "dialogic_021"
 		},
 		{

@@ -10,7 +10,7 @@
 			"volume": 0
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Cargo Ship.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -118,7 +118,7 @@
 			"text": "The cargo boat finally lands in Tokyo after a long trip, and the three of you–plus Soot tucked in your shirt–discreetly enter Tokyo."
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Japan.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -233,7 +233,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/J Food.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -625,7 +625,7 @@
 			"text": " Since my research involves the [i]Journey to the West[/i] and the beyuls, it is likely he himself is connected to these sacred valleys. Let’s go!"
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Temple.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -641,7 +641,7 @@
 			"text": "As you walk together to the temple, you notice the Professor checking his inner coat pocket often. It must be that amulet he’s so protective of. Why?"
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/temple-interior-5.jpg",
 			"event_id": "dialogic_021"
 		},
 		{

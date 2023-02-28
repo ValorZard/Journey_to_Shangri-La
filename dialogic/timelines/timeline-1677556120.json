@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Village.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -82,7 +82,7 @@
 			"text": "Cries of anguish transformed into cries of battle, the further he ran."
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Temple.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -275,7 +275,7 @@
 			"text": "The monks made to stop him, but the reinforcements kept them busy."
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/temple-interior-5.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -387,7 +387,7 @@
 			"text": "The manuscript was still hot when he picked it up, but he didn’t care. He needed to know what the monk had done to the fan."
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Temple.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -455,7 +455,7 @@
 			"text": "He had seen the power the fan held. He had seen the potential. And he would have it. For Japan. For a better future."
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/J Food.png",
 			"event_id": "dialogic_021"
 		},
 		{

@@ -1597,7 +1597,7 @@
 			"text": "It’s a no turning back scenario, not just for the Professor but for you as well. But it has always been a no turning back scenario for you, ever since you ran away from Father."
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Ship.png",
 			"event_id": "dialogic_021"
 		},
 		{

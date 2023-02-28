@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Ship.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -179,7 +179,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Hawaii.png",
 			"event_id": "dialogic_021"
 		},
 		{
