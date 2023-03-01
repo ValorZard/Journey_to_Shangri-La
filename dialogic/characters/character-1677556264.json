@@ -13,9 +13,21 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://Echo/Characters/Hiroshi_Mad_Hat.png"
+		},
+		{
+			"name": "Hiroshi_Mad",
+			"path": "res://Echo/Characters/Hiroshi_Mad.png"
+		},
+		{
+			"name": "Hiroshi_happy_hat",
+			"path": "res://Echo/Characters/Hiroshi_happy_hat.png"
+		},
+		{
+			"name": "Hiroshi_happy",
+			"path": "res://Echo/Characters/Hiroshi_happy.png"
 		}
 	],
-	"scale": 100,
+	"scale": 60,
 	"theme": ""
 }

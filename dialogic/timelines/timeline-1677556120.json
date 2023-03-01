@@ -5,15 +5,6 @@
 			"event_id": "dialogic_021"
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://Echo/Music/tokyo4.mp3",
-			"volume": 0
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -60,7 +51,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Speak!"
 		},
 		{
@@ -106,7 +97,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Hiroshi_Mad",
 			"text": "ARGHH!! What’s going on?!"
 		},
 		{
@@ -172,7 +163,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Gather reinforcements! Hurry!"
 		},
 		{
@@ -323,7 +314,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Hiroshi_happy_hat",
 			"text": "Good. Bring them in so I can give them a taste of their own medicine."
 		},
 		{
@@ -337,6 +328,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What greeted him was the sight of flames crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -357,9 +369,9 @@
 			"text": "Frantically, he waved it back and forth rapidly, but the fan showed no signs of its former prowess."
 		},
 		{
-			"character": "",
+			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "What did you do? What did you [i]do[/i]?!"
 		},
 		{
@@ -417,7 +429,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "KILL THEM!! KILL THEM ALL!!"
 		},
 		{
@@ -485,7 +497,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Hiroshi_Mad",
 			"text": "Speak."
 		},
 		{
@@ -545,7 +557,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Hiroshi_Mad",
 			"text": "Keep an eye on them. And, if you notice their artifact has any mystical properties, I want them arrested and handed to me as soon as possible. Got that?"
 		},
 		{
@@ -575,7 +587,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Hiroshi_happy",
 			"text": "Hahaha! Finally! God himself has delivered a golden opportunity onto my lap! Soon, I will finally unlock the secrets of this damn fan."
 		},
 		{
