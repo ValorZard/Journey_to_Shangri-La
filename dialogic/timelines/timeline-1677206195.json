@@ -108,7 +108,7 @@
 			"text": "Hopefully LA opens new opportunities for you."
 		},
 		{
-			"choice": "North Carolina ( + Smarts )",
+			"choice": "Northern California ( + Smarts )",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -134,7 +134,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ahh, North Carolina."
+			"text": "Ahh, Northern California."
 		},
 		{
 			"character": "",
