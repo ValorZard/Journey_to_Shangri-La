@@ -1,0 +1,202 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I need somne fresh air. Do you wann come with me?"
+		},
+		{
+			"choice": "Yes.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "No.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You come with him as you both climb up to the top of the train."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, the view is so wonderful up here."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve spent most of my life with my nose in books doing research. Even when I went to London to study abroad, I never really let myself explore. I always told myself my education was more important. But… Now that I’m actually letting myself see the world, I regret all the chances I wasted before."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, it's okay. I never had a chance to go on an adventure like this. I only got lucky because I met the professor."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But, unlike you, I had all these chances, and I STILL decided to not take them."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You two sit in silence for a bit, everything feeling a bit awkward.\nRaj brought his knees to his chest and rocked for a little bit."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry for making things awkward. It’s just … yeah. Sorry, not good at talking to people."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s fine. I’ve only learned how to talk to people and stuff on this journey. I kind of had bad social skills too."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? You seem like you got it together"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You should have seen me back home. I wouldn’t have been kicked out if I had everything together."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You got kicked out of your house?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. I don’t want to say why, though. You’ll look at me differently."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? It can’t be that bad. You seem like a nice guy."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s what they all say, and then when they find out, they don’t look at me like a human anymore. I’m just.\n*Sigh*\nNot going to talk about it right now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both sit in silence for a while longer, watching the scenery pass by.\nAfter a while, you decide to break the silence."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "India is beautiful."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The mountains, the trees …"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And, you quietly whispered."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677844059.json",
+		"name": "Love Event: Raj 1"
+	}
+}

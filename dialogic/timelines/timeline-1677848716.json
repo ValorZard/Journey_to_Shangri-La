@@ -1,0 +1,169 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are in Gangtok, and you try looking for Raj after he went running off.\nYou find him at a bar. You decide to waltz down and sit down next to him."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t know you drank."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I don’t. I haven’t started yet, actually, but since I’m breaking all my family rules, might as well start, right?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj chuckles dryly as the bartender served him a glass of beer."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why are you doing this to yourself?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, I don’t know, maybe its the fact that I ran away from home and a potential marriage to go on a crazy trip with a bunch of strangers I don’t know, and then I find out it was all for nothing. Meaning, I just destroyed my reputation with my parents for FUCKING NOTHING!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He yells so loud that the entire bar turns and looks toward him. You both grin sheepishly and turn towards talking to each other."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Look, I’m sorry. I didn’t know."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, yeah, you “didn’t” know. No one knows anything! My parents didn’t know that I didn’t want to take over the family business, I didn’t know you guys would show up right before I was supposed to meet with my potential bride, no one knows anything!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hang your head."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " *Sigh* I’m sorry, I shouldn’t have taken it out on you. It's just that, I feel like all my life I’ve been dragged around by people telling me what to do and what not to do. Even you guys, you guys basically dragged me with you. So, for once, I want to make a decision about my life that’s wholly my own, and getting drunk sounds like a bad decision I want to do. So, don’t judge me or try to stop me."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I won’t. Instead, do you want me to join you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Laughs* Sure! This time, it's ME dragging you into something."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You also order a pint of beer, and when it arrives, you two clink your mugs together."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cheers!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both chug down your beers. Well, YOU do, Raj spits it out after a few sips."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ugh this stuff takes disgusting. Is this really what beer tastes like?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wipe the froth off your mouth. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pretty much! Welcome to adulthood, buddy."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both laugh your asses of and talk through the night as you drink. You know that you guys are going to have a hangover tomorrow, but it’s worth it to spend time with those you love."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677848716.json",
+		"name": "Love Event: Raj 2"
+	}
+}

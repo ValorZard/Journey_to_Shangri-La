@@ -1,0 +1,241 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both are in the beyul that Sun Wukong guards and lives in, and you find Raj sitting on the edge of a mountain cliff, with his legs dangling as he is looking over the beautiful mountain valley.\nRaj turns to look at you and waves."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come over here! Look at this view!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sit down next to him, and the both of you just take a moment to enjoy the pristine unspoiled environment in front of you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, I really didn’t believe that this place exists. Even after seeing the amulet, and what it could do, I still didn’t believe that the legends and myths were true. I thought they were silly tales for a more primitive age. But, this-"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj waves his arm at the valley."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For the rest of my life, I will never forget this view. Even when I’m 124 I won’t forget this view."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Will you tell your kids about it?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj chuckles."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t really want kids."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A shadow passes over Raj’s face for a bit."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t really want to get married at all."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj sighs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t … really like girls."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There is a pregnant pause, as your heart beat shoots up."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you … into men?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj turns to look to you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…. Maybe. I think so. I don’t know. I probably should shut up now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj starts to get up to go, but you stop him"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, wait, stay!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj awkwardly sits back down."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, you know how I said I got kicked out of the house?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…Yeah?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You gulp, and try to calm your beating heart."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…It’s because I’m gay."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "OH."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And, well, I think I’m into you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In what feels like 10 hours, but what was probably more like 10 seconds, you both stare into each other eyes."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I … I think I’m into you too."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both lean in and share a kiss as the sun goes down over the valley."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677848766.json",
+		"name": "Love Event: Raj 3"
+	}
+}
