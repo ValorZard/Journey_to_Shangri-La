@@ -572,6 +572,15 @@
 			"text": "Your cheeks feel wet, and it’s not just from the rain."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/hisnoot1.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "",

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hisnoot1.mp3-be59f25bcebceb38ea48c9e45e387a92.mp3str"
+
+[deps]
+
+source_file="res://Echo/Music/hisnoot1.mp3"
+dest_files=[ "res://.import/hisnoot1.mp3-be59f25bcebceb38ea48c9e45e387a92.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
