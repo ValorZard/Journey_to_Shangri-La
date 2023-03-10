@@ -9,7 +9,7 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 1,
+			"fade_length": 0,
 			"file": "res://Echo/Music/tense_intro1.mp3",
 			"volume": 0
 		},
@@ -576,7 +576,7 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 1,
+			"fade_length": 0,
 			"file": "res://Echo/Music/hisnoot1.mp3",
 			"volume": 0
 		},
