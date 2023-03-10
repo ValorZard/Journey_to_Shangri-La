@@ -10,7 +10,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "",
+			"file": "res://Echo/Music/tense_intro1.mp3",
 			"volume": 0
 		},
 		{
@@ -801,7 +801,16 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"change_timeline": "timeline-1677477516.json",
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"change_timeline": "timeline-1678420458.json",
 			"event_id": "dialogic_020"
 		}
 	],

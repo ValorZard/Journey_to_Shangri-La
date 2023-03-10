@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/homescreen3.mp3-07d8d2bc9363e8d8cb0b973f285e4662.mp3str"
+
+[deps]
+
+source_file="res://Echo/Music/homescreen3.mp3"
+dest_files=[ "res://.import/homescreen3.mp3-07d8d2bc9363e8d8cb0b973f285e4662.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
