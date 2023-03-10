@@ -1,13 +1,13 @@
 {
 	"color": "#ffffffff",
 	"description": "",
-	"display_name": "",
-	"display_name_bool": false,
+	"display_name": "Juan",
+	"display_name_bool": true,
 	"id": "character-1677554507.json",
 	"mirror_portraits": false,
 	"name": "Juan",
-	"nickname": "",
-	"nickname_bool": false,
+	"nickname": "???",
+	"nickname_bool": true,
 	"offset_x": 0,
 	"offset_y": 0,
 	"portraits": [
