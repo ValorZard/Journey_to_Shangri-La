@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://Echo/Characters/RAJ NEAUTRL.png"
 		}
 	],
-	"scale": 100,
+	"scale": 38,
 	"theme": ""
 }
