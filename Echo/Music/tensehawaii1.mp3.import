@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tensehawaii1.mp3-d68606ea808efc7aa6ed02d4e84f01ef.mp3str"
+
+[deps]
+
+source_file="res://Echo/Music/tensehawaii1.mp3"
+dest_files=[ "res://.import/tensehawaii1.mp3-d68606ea808efc7aa6ed02d4e84f01ef.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

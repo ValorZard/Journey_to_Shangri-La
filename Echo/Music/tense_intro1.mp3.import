@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tense_intro1.mp3-ecfded61e02da47eb459b91c0f81b852.mp3str"
+
+[deps]
+
+source_file="res://Echo/Music/tense_intro1.mp3"
+dest_files=[ "res://.import/tense_intro1.mp3-ecfded61e02da47eb459b91c0f81b852.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,535 @@
+{
+	"events": [
+		{
+			"background": "res://Echo/Backgrounds/Ship bedroom.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/homescreen3.mp3",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: JANUARY 1937"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LOCATION: STEAMBOAT ON THE PACIFIC OCEAN, ENROUTE TO HAWAII"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s the middle of the night."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outside, you hear waves gently push against the ship. Inside, you hear the Professor snoring generously."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then, you hear a whisper:"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, you awake?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah."
+		},
+		{
+			"condition": ">=",
+			"definition": "1676256272-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"definition": "1678425318-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1676256278-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"definition": "1678425318-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Want to see something very interesting?"
+		},
+		{
+			"choice": "“Yes.”",
+			"condition": "==",
+			"definition": "1678425318-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "“No.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s alright."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sounds disappointed."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have a good rest."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He slips away and you quickly drift back to sleep."
+		},
+		{
+			"change_timeline": "timeline-1677480158.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"definition": "1678425318-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "0"
+		},
+		{
+			"background": "res://Echo/Backgrounds/Stars.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj takes your hand and helps you up. Together, you climb above decks, to the blanket of stars up above."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj points at a specific collection of stars–a constellation."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Look. It’s Orion and Taurus."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He traces their shapes with his finger."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "See?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You realize Raj is still holding your hand."
+		},
+		{
+			"choice": "Let go.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj doesn’t react, but he puts that hand awkwardly in his pocket."
+		},
+		{
+			"choice": "Squeeze.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj turns to you and smiles."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Isn’t it beautiful? I used to be fascinated with constellations as a kid–until I learned that people were obsessed with using them to predict people’s futures and romantic endeavors."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think it’s stupid to believe in that kind of magic. We are all forgers of our own fate."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The stars may be pretty… but there’s no magic to it. They’re just that. Stars."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj breaths in the fresh night air."
+		},
+		{
+			"choice": "“Oh my gosh, what’s your sign?!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Personally, I’m a Gemini."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj laughs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You really know how to piss me off, don’t you?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sighs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, I’m a Libra."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"choice": "“I think stars are magical.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Disagreeing with me already?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, not really."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think they influence our personalities and love life. Not at all."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s just… something magical about looking at the stars."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No matter where we are in the world, we share the same sky."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s something… magical in that, don’t you think?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I want to stay here for a bit. Leave or stay, I don’t care."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Even though he says that, you can tell he’s a bit tense."
+		},
+		{
+			"choice": "“I’ll stargaze with you.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Raj sit together on deck and watch the stars."
+		},
+		{
+			"choice": "“I’ll head down now.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have a good rest."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You head down to your bed and retire for the night."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"change_timeline": "timeline-1677480158.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1678424833.json",
+		"name": "Raj Love Event LA to Hawaii"
+	}
+}

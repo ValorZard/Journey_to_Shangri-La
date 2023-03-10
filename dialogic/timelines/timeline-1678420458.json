@@ -413,7 +413,7 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "I’m sorry to hear that. Here, have some tea. Teas are a great help against headaches!"
 		},
 		{
@@ -459,7 +459,7 @@
 			"question": "Call me Raj."
 		},
 		{
-			"choice": "“Call me sweet patootie.” Wink.",
+			"choice": "“Call me sweet patootie.” (Wink.)",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -817,7 +817,7 @@
 			"text": "Raj sighs."
 		},
 		{
-			"character": "",
+			"character": "character-1677847888.json",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -921,7 +921,7 @@
 			"set_value": "1"
 		},
 		{
-			"character": "",
+			"character": "character-1677847888.json",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -1019,7 +1019,7 @@
 			"text": "Raj stares at you."
 		},
 		{
-			"character": "",
+			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[i]What?![/i]"
@@ -1315,7 +1315,7 @@
 			"text": "Trouble is inevitable, though."
 		},
 		{
-			"character": "",
+			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It takes real courage–or, perhaps, stupidity–to face it without fear."
@@ -1419,8 +1419,37 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"background": "",
 			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"change_timeline": "timeline-1678424833.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
