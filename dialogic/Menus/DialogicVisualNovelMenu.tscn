@@ -1,4 +1,4 @@
-[gd_scene load_steps=31 format=2]
+[gd_scene load_steps=33 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://dialogic/Menus/BackgroundImage.jpg" type="Texture" id=2]
@@ -14,6 +14,7 @@
 [ext_resource path="res://dialogic/Menus/DialogicMenus_LoadMenu.gd" type="Script" id=12]
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/Overlock/Overlock-Regular.ttf" type="DynamicFontData" id=13]
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultItalicFont.tres" type="DynamicFont" id=14]
+[ext_resource path="res://addons/dialogic/Documentation/Theme/Font/NotoSans-Regular.ttf" type="DynamicFontData" id=15]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -101,6 +102,10 @@ HSlider/styles/grabber_area = SubResource( 6 )
 HSlider/styles/grabber_area_highlight = null
 HSlider/styles/slider = SubResource( 7 )
 
+[sub_resource type="DynamicFont" id=17]
+size = 18
+font_data = ExtResource( 15 )
+
 [sub_resource type="DynamicFont" id=9]
 size = 20
 outline_size = 1
@@ -183,9 +188,6 @@ theme = SubResource( 8 )
 [node name="BG" type="ColorRect" parent="."]
 anchor_right = 1.0
 anchor_bottom = 1.0
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="Game" type="Control" parent="."]
 pause_mode = 1
@@ -204,6 +206,34 @@ theme = SubResource( 8 )
 script = ExtResource( 11 )
 Game = NodePath("../../Game")
 
+[node name="StatsMenu" type="Control" parent="Menus/MenuContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 855.0
+margin_top = 10.0
+margin_right = -11.0
+margin_bottom = -481.0
+
+[node name="ColorRect" type="ColorRect" parent="Menus/MenuContainer/StatsMenu"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0, 0, 0, 0.545098 )
+
+[node name="TextureRect" type="TextureRect" parent="Menus/MenuContainer/StatsMenu"]
+visible = false
+margin_right = 40.0
+margin_bottom = 40.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="Menus/MenuContainer/StatsMenu"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_fonts/normal_font = SubResource( 17 )
+text = "Kind: 0
+Bravery: 0
+Smarts: 0
+Charm: 0"
+scroll_active = false
+
 [node name="InGameMenu" type="HBoxContainer" parent="Menus/MenuContainer"]
 anchor_top = 1.0
 anchor_right = 1.0
@@ -213,6 +243,14 @@ margin_bottom = 0.700439
 theme = SubResource( 10 )
 custom_constants/separation = 20
 alignment = 1
+
+[node name="Stats_Button" type="Button" parent="Menus/MenuContainer/InGameMenu"]
+visible = false
+margin_left = 352.0
+margin_right = 393.0
+margin_bottom = 32.0
+text = "Stats"
+flat = true
 
 [node name="Save_Button" type="Button" parent="Menus/MenuContainer/InGameMenu"]
 margin_left = 382.0
@@ -243,6 +281,7 @@ text = "Settings"
 flat = true
 
 [node name="SubMenus" type="Control" parent="Menus/MenuContainer"]
+visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
 script = ExtResource( 5 )
@@ -448,9 +487,9 @@ __meta__ = {
 }
 
 [node name="Label" type="Label" parent="Menus/MenuContainer/SubMenus/MenuContent/CreditsMenu/VBox"]
-margin_top = 214.0
+margin_top = 134.0
 margin_right = 656.0
-margin_bottom = 291.0
+margin_bottom = 371.0
 text = "Designer:: 
 Writer:
 Artist:
@@ -560,6 +599,7 @@ __meta__ = {
 }
 
 [node name="MainMenu" type="Control" parent="Menus/MenuContainer"]
+visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
 script = ExtResource( 8 )
@@ -821,6 +861,11 @@ stream = ExtResource( 4 )
 volume_db = -0.25
 autoplay = true
 
+[connection signal="button_down" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_button_down"]
+[connection signal="button_up" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_button_up"]
+[connection signal="mouse_entered" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_mouse_entered"]
+[connection signal="mouse_exited" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_mouse_exited"]
+[connection signal="pressed" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/InGameMenu/Save_Button" to="Menus/MenuContainer" method="_on_Ingame_Save_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/InGameMenu/Load_Button" to="Menus/MenuContainer" method="_on_Ingame_Load_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/InGameMenu/History_Button" to="Menus/MenuContainer" method="_on_Ingame_History_Button_pressed"]

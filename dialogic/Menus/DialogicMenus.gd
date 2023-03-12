@@ -3,12 +3,16 @@ extends Control
 ## references
 onready var LooseWarning = $LooseProgressWarning
 onready var LooseSaveWarning = $LooseSaveWarning
+onready var StatsText = $StatsMenu/RichTextLabel
+
 export (NodePath) var Game
 
 # saved before pausing the game, used in case a save is created
 var saved_image
 
 var current_saved = false
+
+var current_stats_opened = false
 
 ################################################################################
 ##								PUBLIC
@@ -51,6 +55,13 @@ func resume_game():
 
 func _ready():
 	show()
+	
+func _process(delta):
+	StatsText.text =  "Kind:        " + Dialogic.get_variable("kind") + "\n"
+	StatsText.text += "Bravery: " + Dialogic.get_variable("brave") + "\n"
+	StatsText.text += "Smart:    " + Dialogic.get_variable("smart") + "\n"
+	StatsText.text += "Charm:   " + Dialogic.get_variable("charm")
+	
 
 # look for right click input to show the SAVE MENU
 func _input(event):
@@ -73,6 +84,7 @@ func _on_game_ended(_something):
 	$MenuAnimations.play_backwards("Fade")
 	yield(get_tree().create_timer(0.2), "timeout")
 	show()
+
 
 func _on_Ingame_Save_Button_pressed():
 	get_tree().set_input_as_handled()
@@ -107,3 +119,37 @@ func _on_Ingame_Settings_Button_pressed():
 func _on_Ingame_History_Button_pressed():
 	get_tree().set_input_as_handled()
 	Dialogic.toggle_history()
+
+
+#func _on_Stats_Button_mouse_entered():
+#	pause_game()
+#	$StatsMenu.show()
+#
+#func _on_Stats_Button_button_down():
+#	get_tree().paused = true
+##	pause_game()
+#	$StatsMenu.show()
+#
+#func _on_Stats_Button_button_up():
+#	get_tree().paused = false
+#
+##	resume_game()
+#	$StatsMenu.hide()
+#
+#func _on_Stats_Button_pressed():
+#	if not current_stats_opened:
+#		StatsText.text = "Charm: " + Dialogic.get_variable("charm")
+#		get_tree().paused = true
+#		pause_game()
+#		$StatsMenu.show()
+#		current_stats_opened = true
+#	else:
+#		get_tree().paused = false
+#		resume_game()
+#		$StatsMenu.hide()
+#		current_stats_opened = false
+#
+#
+#func _on_Stats_Button_mouse_exited():
+#	resume_game()
+#	$StatsMenu.hide()
