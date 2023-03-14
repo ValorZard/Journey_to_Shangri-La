@@ -970,7 +970,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "About 15 minutes pass, and you feel like walking in circles. Raj definitely doesn’t know where he’s going."
+			"text": "About 15 minutes pass, and you feel like you’re walking in circles. Raj definitely doesn’t know where he’s going."
 		},
 		{
 			"character": "character-1677554507.json",
@@ -1146,7 +1146,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Somehow, you manage to stumble your way to a clearing, where the Professor is talking to a set of burly men who look like they’re part of security."
+			"text": "Somehow, you manage to stumble your way to a clearing, where the Professor is talking to a set of burly men who look like they’re part of some security."
 		},
 		{
 			"character": "",
@@ -1182,7 +1182,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Even though the man was scary, you didn’t want to be eyed over."
+			"text": "Even though the man was scary, you don’t want to be eyed over."
 		},
 		{
 			"character": "",
@@ -1194,7 +1194,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "However, now that you were in hearing range of the Professor, what he was saying caught your attention."
+			"text": "However, now that you are within hearing range of the Professor, what he is saying catches your attention."
 		},
 		{
 			"choice": "Slide closer to the Professor.",
@@ -1215,7 +1215,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There are you, my young steward! Glad you’ve made it!"
+			"text": "There you are, my young steward! Glad you’ve made it!"
 		},
 		{
 			"choice": "Slide closer to Raj.",
@@ -1335,7 +1335,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Happy_Professor",
-			"text": "Exciting discoveries need to be made, and we have to go as soon as possible, possibly by boat through Tokyo, Japan, then make arrangements for us to drop by Kolkata for my good colleague Raj’s marriage."
+			"text": "Exciting discoveries need to be made, and we have to go as soon as possible, by boat through Tokyo, Japan, then make arrangements for us to drop by Kolkata for my good colleague Raj’s marriage."
 		},
 		{
 			"character": "",
@@ -1383,13 +1383,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "But the Professor naively grabs a wad of bills from his pouch and pushes it towards the burly men, who have still not said a word."
+			"text": "But the Professor naively grabs a wad of bills from his pouch and offers it to the burly men, who still have not said a word."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Consider this a payment for making sure we get on a boat. The real treasure is knowing you helped us reach one of the greatest discoveries in the world."
+			"text": "Consider this payment for making sure we get on a boat. The real treasure is knowing you helped us reach one of the greatest discoveries in the world."
 		},
 		{
 			"character": "character-1677847888.json",
@@ -1482,7 +1482,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The professor did have to pay for the ship to Hawaii, and the stack of bills that he had handed over was hefty."
+			"text": "The Professor did have to pay for the ship to Hawaii, and the stack of bills that he had handed over was hefty."
 		},
 		{
 			"character": "",
@@ -1518,7 +1518,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "MC_angry",
-			"text": "No! We don’t want to use your services, and we will find a better way to get to Shangri-La. Please return our money, and we will be out of your hair."
+			"text": "No! We don’t want to use your services, and we will find a better way to get to the beyuls. Please return our money, and we will be out of your hair."
 		},
 		{
 			"character": "",
@@ -1555,7 +1555,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There was no other way that the two of them could make it to Shangri-La without them. As much as the situation was odd, the best thing to do was to trust these people."
+			"text": "There was no other way that the two of them could make it to Kolkata and the beyuls in Tibet without them. As much as the situation was odd, the best thing to do was to trust these people."
 		},
 		{
 			"character": "character-1677555513.json",
@@ -1597,7 +1597,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The last thing you remember before you pass out is the worried expletives of Juan as he runs towards you."
+			"text": "The last things you remember before you pass out are the worried expletives of Juan as he runs towards you."
 		},
 		{
 			"animation": "[Default]",
