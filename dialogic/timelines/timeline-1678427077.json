@@ -67,8 +67,8 @@
 				"0": false,
 				"1": false,
 				"2": false,
-				"3": true,
-				"4": false
+				"3": false,
+				"4": true
 			},
 			"type": 0,
 			"z_index": 0
@@ -84,8 +84,8 @@
 			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
@@ -131,7 +131,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The air is filled with the scent of the sea, marred by loud noises of vendors selling their wares."
+			"text": "The air is filled with the scent of the sea and the loud noises of vendors selling their wares."
 		},
 		{
 			"character": "character-1676341130.json",
@@ -202,6 +202,69 @@
 				"4": false
 			},
 			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -303,7 +366,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "So we don’t get separated in these dense crowds."
 		},
 		{
@@ -326,6 +389,27 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -367,8 +451,8 @@
 			"position": {
 				"0": false,
 				"1": false,
-				"2": true,
-				"3": false,
+				"2": false,
+				"3": true,
 				"4": false
 			},
 			"type": 2,
@@ -400,6 +484,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "With how crowded the streets are, you inevitably get tangled into the crowd–losing Raj momentarily."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -434,6 +539,27 @@
 			"text": "Woah there bud, can’t have just anyone falling for me."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -460,8 +586,8 @@
 				"0": false,
 				"1": false,
 				"2": false,
-				"3": true,
-				"4": false
+				"3": false,
+				"4": true
 			},
 			"type": 2,
 			"z_index": 0
@@ -497,7 +623,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As he waves his hands in front of you you can’t help but notice that the end of his words are tinged with something you don't recognize. "
+			"text": "As he waves his hands in front of you, you can’t help but notice that the end of his words are tinged with something you don't recognize. "
 		},
 		{
 			"character": "",
@@ -532,7 +658,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "All dandy! I’m actually looking for a man that I came here with. "
 		},
 		{
@@ -584,6 +710,27 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -611,11 +758,33 @@
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": true,
 			"change_z_index": false,
-			"character": "character-1677847888.json",
+			"character": "character-1677554507.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -623,6 +792,47 @@
 				"2": true,
 				"3": false,
 				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
 			},
 			"type": 0,
 			"z_index": 0
@@ -649,28 +859,7 @@
 			"character": "character-1677554507.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Hey there! I’m just helping your friend from his Profe."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
+			"text": "Hey there! I’m just helping your friend find his Profe."
 		},
 		{
 			"character": "",
@@ -695,27 +884,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I was just talking with your Profe, follow me! We’ll go on a journey together!"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
 		},
 		{
 			"character": "character-1677847888.json",
@@ -762,7 +930,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "Alright Raj, I trust your street smarts."
 		},
 		{
@@ -770,6 +938,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "As you should."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -788,27 +977,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Look. I just talked with your Profe–he said to bring two travelers looking just like you to him. Trust me, amigo. I’m not lying."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
 		},
 		{
 			"character": "character-1677847888.json",
@@ -840,7 +1008,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "Come on, Raj. We’ve already lost sight of the Professor. Any help is beneficial."
 		},
 		{
@@ -856,15 +1024,24 @@
 			"text": "Bueno! Come, come, I’ll take you to your Profe!"
 		},
 		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. Hmph."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
-			"change_mirror_portrait": true,
+			"change_mirror_portrait": false,
 			"change_position": false,
 			"change_z_index": false,
-			"character": "character-1677847888.json",
+			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
+			"mirror_portrait": false,
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -875,15 +1052,6 @@
 			},
 			"type": 2,
 			"z_index": 0
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. Hmph."
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"character": "character-1677554507.json",
@@ -916,6 +1084,27 @@
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
 			"change_z_index": false,
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_002",
@@ -924,12 +1113,33 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": true,
-				"2": false,
+				"1": false,
+				"2": true,
 				"3": false,
 				"4": false
 			},
 			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -1042,6 +1252,48 @@
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677554507.json",
@@ -1203,27 +1455,6 @@
 			"text": "Howard! They’re scamming you!! They’re just gonna take our money and get away!"
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1286,7 +1517,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_angry",
 			"text": "No! We don’t want to use your services, and we will find a better way to get to Shangri-La. Please return our money, and we will be out of your hair."
 		},
 		{
@@ -1395,7 +1626,7 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1
+			"wait_seconds": 2
 		},
 		{
 			"change_timeline": "timeline-1677480158.json",
