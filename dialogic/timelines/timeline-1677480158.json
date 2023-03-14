@@ -21,6 +21,15 @@
 			"z_index": 0
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -31,12 +40,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Thanks for playing!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Roll credits :)"
 		}
 	],
 	"metadata": {

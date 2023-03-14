@@ -13,9 +13,29 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Echo/Characters/MC.png"
+			"path": "res://Echo/Characters/MC_Neutral.png"
+		},
+		{
+			"name": "MC_Happy",
+			"path": "res://Echo/Characters/MC_Happy.png"
+		},
+		{
+			"name": "MC_Happy2",
+			"path": "res://Echo/Characters/MC_Happy2.png"
+		},
+		{
+			"name": "MC_angry",
+			"path": "res://Echo/Characters/MC_angry.png"
+		},
+		{
+			"name": "MC_Sad",
+			"path": "res://Echo/Characters/MC_Sad.png"
+		},
+		{
+			"name": "MC_shocked",
+			"path": "res://Echo/Characters/MC_shocked.png"
 		}
 	],
-	"scale": 60,
+	"scale": 30,
 	"theme": ""
 }

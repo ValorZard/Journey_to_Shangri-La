@@ -156,8 +156,8 @@
 			"options": [
 
 			],
-			"portrait": "",
-			"question": "Want to see something very interesting?"
+			"portrait": "RAJ_HAPPY",
+			"question": "Want to see something interesting?"
 		},
 		{
 			"choice": "“Yes.”",
@@ -176,7 +176,7 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "That’s alright."
 		},
 		{
@@ -270,7 +270,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "Yeah."
 		},
 		{
@@ -290,6 +290,48 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -301,6 +343,27 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"definition": "1678425930-787",
@@ -322,13 +385,13 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "Isn’t it beautiful? I used to be fascinated with constellations as a kid–until I learned that people were obsessed with using them to predict people’s futures and romantic endeavors."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "I think it’s stupid to believe in that kind of magic. We are all forgers of our own fate."
 		},
 		{
@@ -344,7 +407,7 @@
 
 			],
 			"portrait": "",
-			"question": "Raj breaths in the fresh night air."
+			"question": "Raj breathes in the fresh night air."
 		},
 		{
 			"choice": "“Oh my gosh, what’s your sign?!”",
@@ -356,7 +419,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "Personally, I’m a Gemini."
 		},
 		{
@@ -368,13 +431,13 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "You really know how to piss me off, don’t you?"
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "…"
 		},
 		{
@@ -413,13 +476,13 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "Disagreeing with me already?"
 		},
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "No, not really."
 		},
 		{
@@ -443,13 +506,13 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "There’s something… magical in that, don’t you think?"
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "…"
 		},
 		{
@@ -458,8 +521,29 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "I want to stay here for a bit. Leave or stay, I don’t care."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -514,13 +598,33 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"background": "",
 			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1
+			"wait_seconds": 2
 		},
 		{
 			"change_timeline": "timeline-1678427077.json",

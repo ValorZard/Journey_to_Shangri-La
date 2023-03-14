@@ -1,6 +1,6 @@
 extends Control
 
-export(String) var starting_timeline = "1. Introduction"
+export(String) var starting_timeline = "Intro"
 
 ################################################################################
 ##								PUBLIC
@@ -20,7 +20,7 @@ func _ready():
 
 func _on_NewGame_Button_pressed():
 	get_parent().get_node("MenuMusic").playing = false
-	var dialog = Dialogic.start("Intro")
+	var dialog = Dialogic.start("LA pt.2 (revised)")
 	dialog.layer = 0
 	get_parent().add_game_node(dialog)
 	$Buttons/NewGame_Button.release_focus()
