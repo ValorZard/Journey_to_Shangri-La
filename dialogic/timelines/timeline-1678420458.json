@@ -25,8 +25,8 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": false,
-				"2": true,
+				"1": true,
+				"2": false,
 				"3": false,
 				"4": false
 			},
@@ -69,7 +69,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You jolt awake on the couch."
+			"text": "Months later, you wake up on the couch in the Professor’s office."
 		},
 		{
 			"character": "character-1676341130.json",
@@ -83,7 +83,7 @@
 			"options": [
 
 			],
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"question": "Good morning, Soot."
 		},
 		{
@@ -116,12 +116,6 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "That nightmare was months ago. Since then, you’ve traveled to Los Angeles and, through a series of fortunate events, became Professor Allwright’s assistant."
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": true,
@@ -130,7 +124,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -157,8 +151,8 @@
 				"0": false,
 				"1": false,
 				"2": false,
-				"3": false,
-				"4": true
+				"3": true,
+				"4": false
 			},
 			"type": 2,
 			"z_index": 0
@@ -194,8 +188,8 @@
 			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
-				"0": false,
-				"1": true,
+				"0": true,
+				"1": false,
 				"2": false,
 				"3": false,
 				"4": false
@@ -303,7 +297,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I know. I tried to stall as long as possible but… it’s reached a dangerous point. They’ve already sent so many letters. I have to go back [i]now[/i]."
+			"text": "I know. I tried to stall as long as possible but… it has reached a dangerous point. They’ve already sent so many letters. I have to go back [i]now[/i]."
 		},
 		{
 			"animation": "[Default]",
@@ -321,48 +315,6 @@
 				"1": false,
 				"2": false,
 				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
 				"4": false
 			},
 			"type": 2,
@@ -448,6 +400,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Raj holds his hand out to you."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677847888.json",
@@ -536,7 +509,7 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "Of course! I’ve been fascinated with debunking myths and magic ever since I was a lad. It’s only natural that I entered academia at my age. And I think… we [i]are[/i] the same age, aren't we?"
 		},
 		{
@@ -585,7 +558,7 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Oh, um… Well, I’ll have you know you have to write an entire dissertation on me if you want to receive a doctorate in Raj studies. Give up now. "
 		},
 		{
@@ -610,7 +583,7 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "That’s alright. You still have time to decide on your career. I guess… maybe I rushed into it…"
 		},
 		{
@@ -641,6 +614,27 @@
 			"z_index": 0
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -649,8 +643,8 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I don’t know. I may be tied up in family matters so long I’d have to pause my research."
+			"portrait": "Default",
+			"text": "I don’t know. I may be tied up in family matters for so long that I’d have to pause my research."
 		},
 		{
 			"character": "",
@@ -722,7 +716,7 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "Why… don’t you tag along? Having the two of you–"
 		},
 		{
@@ -735,12 +729,12 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The three of you along for the ride will entertain enough to not think about my doom–I mean, marriage!"
+			"text": "The three of you along for the ride will entertain me enough to not think about my doom–I mean, marriage!"
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Ha, besides… Maybe you can finally solve the mystery surrounding that amulet, Howard."
 		},
 		{
@@ -749,7 +743,7 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Speaking of which, can I see it?"
 		},
 		{
@@ -862,6 +856,27 @@
 			"set_value": "1"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -962,6 +977,27 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1005,6 +1041,26 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"definition": "1676256272-366",
 			"event_id": "dialogic_014",
 			"operation": "+",
@@ -1027,7 +1083,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Oh, nothing. I was talking to my breakfast."
 		},
 		{
@@ -1109,7 +1165,7 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1,
+			"wait_seconds": 2,
 			"waiting_skippable": false
 		},
 		{
@@ -1130,8 +1186,8 @@
 				"0": false,
 				"1": false,
 				"2": false,
-				"3": true,
-				"4": false
+				"3": false,
+				"4": true
 			},
 			"type": 0,
 			"z_index": 0
@@ -1305,13 +1361,13 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "My, you’re a brave one."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Trouble is inevitable, though."
 		},
 		{
@@ -1338,13 +1394,13 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "You won’t be lost as long as I’m here."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "…"
 		},
 		{
@@ -1445,7 +1501,7 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1
+			"wait_seconds": 2
 		},
 		{
 			"change_timeline": "timeline-1678424833.json",
@@ -1455,6 +1511,6 @@
 	"metadata": {
 		"dialogic-version": "1.4.5",
 		"file": "timeline-1678420458.json",
-		"name": "Short LA"
+		"name": "LA pt.2 (revised)"
 	}
 }
