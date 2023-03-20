@@ -634,7 +634,7 @@ alignment = 1
 margin_right = 256.0
 margin_bottom = 62.0
 custom_fonts/font = SubResource( 12 )
-text = "Game of tests"
+text = "Journey to Shangri-La"
 __meta__ = {
 "_edit_use_anchors_": false
 }
