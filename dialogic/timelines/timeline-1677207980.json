@@ -576,7 +576,7 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 0,
+			"fade_length": 1,
 			"file": "res://Echo/Music/hisnoot1.mp3",
 			"volume": 0
 		},
@@ -819,7 +819,7 @@
 			"wait_seconds": 1
 		},
 		{
-			"change_timeline": "timeline-1678420458.json",
+			"change_timeline": "timeline-1677477516.json",
 			"event_id": "dialogic_020"
 		}
 	],

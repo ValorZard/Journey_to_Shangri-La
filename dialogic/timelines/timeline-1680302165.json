@@ -163,13 +163,13 @@
 			"character": "character-1677556412.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Commander, what should we do?” "
+			"text": "Commander, what should we do?"
 		},
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "“Gather reinforcements! Hurry!!” "
+			"text": "Gather reinforcements! Hurry!! "
 		},
 		{
 			"character": "",
@@ -181,7 +181,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "Hiroshi_Mad",
-			"text": "“Damn it!”"
+			"text": "Damn it!"
 		},
 		{
 			"character": "",
@@ -193,7 +193,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Hiroshi: “What is that light? Where is it coming from?”"
+			"text": "What is that light? Where is it coming from?"
 		},
 		{
 			"character": "",
@@ -205,7 +205,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Ugh!”"
+			"text": "Ugh!"
 		},
 		{
 			"animation": "shake_x.gd",
@@ -275,7 +275,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "Hiroshi_Mad",
-			"text": "“Stop that witchcraft and surrender to the Imperial Army!”"
+			"text": "Stop that witchcraft and surrender to the Imperial Army!"
 		},
 		{
 			"character": "",
@@ -314,13 +314,13 @@
 			"character": "character-1677556412.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Commander! We’ve restrained the monks!” "
+			"text": "Commander! We’ve restrained the monks!"
 		},
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Good. Bring them in so I can give them a taste of their own medicine.” "
+			"text": "Good. Bring them in so I can give them a taste of their own medicine. "
 		},
 		{
 			"character": "",
@@ -358,7 +358,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "Hiroshi_Mad",
-			"text": "“What did you do? What did you [i]do[/i]?!?!” "
+			"text": "What did you do? What did you [i]do[/i]?!?! "
 		},
 		{
 			"character": "",
@@ -380,7 +380,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“KILL THEM!! KILL THEM ALL!!”"
+			"text": "KILL THEM!! KILL THEM ALL!!"
 		},
 		{
 			"character": "",

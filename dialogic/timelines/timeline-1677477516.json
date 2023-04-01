@@ -55,6 +55,24 @@
 		},
 		{
 			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: OCTOBER 1936\nLOCATION: LOS ANGELES, CALIFORNIA, UNITED STATES OF AMERICA"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The journey was long and arduous. There were times you had to go hungry so Soot could eat, but eventually you make it to Los Angeles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wander the streets of Los Angeles, marveling at how different it feels from home. \nThe streets are wider, the way people talk and walk and live is so different from home. \nIt feels better here, but you can’t help but feel alone."
+		},
+		{
+			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -1146,6 +1164,6 @@
 	"metadata": {
 		"dialogic-version": "1.4.5",
 		"file": "timeline-1677477516.json",
-		"name": "LA (revised) pt.1"
+		"name": "LA pt.1 (revised)"
 	}
 }
