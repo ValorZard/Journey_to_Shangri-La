@@ -33,13 +33,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "This is the end of the Demo!"
+			"text": "This is the end of your journey to Shangri-la"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Thanks for playing!"
+			"text": "Maybe make some new choices and try again?\nBest of luck on your journey."
 		},
 		{
 			"change_scene": "res://dialogic/Menus/DialogicVisualNovelMenu.tscn",
@@ -48,7 +48,7 @@
 	],
 	"metadata": {
 		"dialogic-version": "1.4.5",
-		"file": "timeline-1677480158.json",
-		"name": "Demo End"
+		"file": "timeline-1680373082.json",
+		"name": "Bad End"
 	}
 }

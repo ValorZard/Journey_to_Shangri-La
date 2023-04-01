@@ -90,6 +90,27 @@
 			"text": "[i]Mrowwwww[/i]"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Sad",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -122,7 +143,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy",
 			"text": "Here you go Soot."
 		},
 		{
@@ -177,6 +198,27 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -203,447 +245,16 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[i]Meow[/i]"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You pop your head into different stores and restaurants, asking if they need a helping hand. Unfortunately, no one’s hiring. Makes sense, especially with the unemployment rate nowadays."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Before you know it, it’s dark out. You have no money, no food, and no shelter."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It’s not much different than how you had been living while on the road. Cars pass through the dark streets, lighting up the night somewhat."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "As you wander the dark streets of Los Angeles, you pass a university campus with its large, towering brick buildings."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "University, huh? You wonder if you would ever have the chance to attend such an institution one day."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It sounds like a dream."
-		},
-		{
-			"animation": "[No Animation]",
-			"animation_length": 1,
-			"animation_wait": false,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
 			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 1,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You don’t see any other pedestrians on the street, except for this old man carrying large boxes and muttering to himself about “Raj” and “Shangri-La” and “beyul.”"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He passes you on the street, not really paying attention to his surroundings."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": true,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": true,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 1,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 1,
-			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "What a strange character."
-		},
-		{
-			"background": "res://Echo/Backgrounds/BackAlley.png",
-			"event_id": "dialogic_021"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You pass dark alleyways in search of a comfortable, safe-ish corner to curl up in when–"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "CRASH!"
-		},
-		{
-			"character": "character-1676341108.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "AHHHHH!!!!"
-		},
-		{
-			"animation": "[No Animation]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 1,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You spin around to see the old man’s boxes crash to the ground, papers and other random trinkets scattering on the street."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He’s been pulled into a dark alleyway, where a man with a bandana covering his face holds a knife right at him."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "GIVE ME EVERYTHING! NOW!!!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The old man raises his hands in the air as a sign of peace."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Don’t take my research, please! It’s not like you can even understand it!"
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Shut up. Drop everything old man!!"
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Sad_Professor",
-			"text": "No please, my precious research, you don’t understand–it’s all from India, and–"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief swings the knife wildly."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "DO IT NOW!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The old man whimpers and tremblingly reaches into his pocket, slowly pulling out his wallet."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Too fucking slow."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You are paralyzed in place, watching in horror as the thief pats the trembling old man down, taking away a pocket watch, a tattered wallet, pieces of candy, and… an amulet."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief squints at the amulet as he dangles it in the air, as if this was the jackpot. It is old and ornate, with an antique design you’d never seen before."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The old man lunges forward for it–"
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "NO STOP–PLEASE! NOT MY RESEARCH! IT’S MY LIFE’S WORK!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief chuckles and kicks the old man in the stomach. He falls."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ha–and where’d you get this, old man?"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The old man struggles to get on his feet again, futilely reaching for the amulet."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "No… GIVE IT BACK PLEASE! I’VE RESEARCHED ALL MY LIFE FOR THIS!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief chuckles again."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Well old man, looks like your life will end today and my life of luxury is just about to begin!"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief lunges forward with his knife."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Your heart races as you ensure Soot is tucked snuggly in your shirt. The violence reminds you of Father. The fear in the old man’s eyes reminds you of… yourself."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You must act."
+			"text": "That’s all the food we have left, Soot. Let’s get going. "
 		},
 		{
 			"character": "",
@@ -652,10 +263,10 @@
 
 			],
 			"portrait": "",
-			"question": "All the thief has is his knife. He looks desperate and is significantly smaller than you. You wonder if you would one day threaten others out of desperation like this."
+			"question": "What should you do?"
 		},
 		{
-			"choice": "Distract",
+			"choice": "Look for work.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -670,98 +281,17 @@
 			"set_value": "1"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You grab a trash can from the alleyway, take a breath, and throw it as far away from you as possible. "
+			"background": "res://Echo/Backgrounds/Gas Station.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "When it crashes against the dark alleyway wall, it makes a loud sound that rings throughout the entire block."
+			"text": "You begin to look for work. You can’t live off scraps forever.\nYou pop your head into different stores and restaurants, asking if they need a helping hand.\nNo one’s hiring. Makes sense, considering the unemployment rate nowadays."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief abruptly stops his attack and frantically looks around."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He pockets the old man’s things and starts to run, but you quickly intercept him, wrangle the knife out of his hands, and make him drop everything he’d stolen."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It’s a surprisingly easy fight, thanks to your experience on the road."
-		},
-		{
-			"choice": "Run away",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You run away, as far as you can from the scene, trying to wipe the old man’s terrified expression from your mind. You run to a phone booth and call the Police, notifying them of the location of the crime."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "A few days later, you see a paper with the face of that same old man… and his obituary.\nYou live the rest of your days in a daze, just scraping by at a dead-end job you got as a waiter."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The only light in your life is coming home everyday and being able to spend time with Soot. Watching the kitten grow into a full grown cat has been the joy of your existence."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You hope that, someday, you can have an impact on a person’s life… maybe find someone whom you can love and trust completely."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Perhaps it can atone for the gnawing guilt and emptiness you feel."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "[All]",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 1,
-			"z_index": 0
-		},
-		{
-			"change_timeline": "timeline-1677480158.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"choice": "Fight",
+			"choice": "Scavenge.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -776,31 +306,118 @@
 			"set_value": "1"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You don’t have much but… you did train in boxing as a child. You don’t consider yourself very good, just good enough to ward off the bullies at school who kept picking on you."
+			"background": "res://Echo/Backgrounds/BackAlley.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You quickly ensure Soot is safely secure in your shirt, then run directly for the thief."
+			"text": "You find an alleyway and start digging through the trash."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What luck! You find a half-eaten hamburger!"
+		},
+		{
+			"choice": "Feed it to Soot.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Quickly, you kick the thief in the leg, then wrangle the knife out of his hands and grab his collar. He drops the amulet and all the other items he had stolen from the old man."
+			"text": "Soot sniffs it and turns her head away."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Sad",
+			"text": "Yeah… it doesn’t look that great to me either."
+		},
+		{
+			"choice": "Eat it.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take a bite of the intact parts. \nIt’s surprisingly good!"
+		},
+		{
+			"choice": "Share it with Soot.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot sniffs it and turns her head away."
 		},
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Get the hell out of here."
+			"text": "It’s all mine, then, Soot~"
 		},
 		{
-			"choice": "Trick",
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take a bite of the intact parts.\nIt’s surprisingly good!"
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Mrow[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She paws for it."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Happy2",
+			"text": "Oh, [i]now[/i] you want it. Very well."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two of you eat it together."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Beg.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -818,99 +435,33 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You run towards the two, yelling."
+			"text": "You grab a piece of cardboard and write “HOMELESS PLEASE HELP,” then sit on the sidewalk and wait.\nAs people pass you on the street, you say:"
 		},
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "HEY! STOP!"
+			"portrait": "MC_Sad",
+			"text": "Please, help me. I’m homeless. I don’t have any food."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The thief turns away from the old man and points his knife at you."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You want some of this, kid? I’ll carve ya up like a plump Halloween pumpkin!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You take a shaky breath. Maybe you should have stayed out of this."
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I-I’m his son. He doesn’t have anything valuable, I swear. We don’t have much, please don’t kill him. H-He’s the only one I have left. That’s my mother’s heirloom, please, it’s all we have…"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You conjure tears to your eyes, but they don’t necessarily feel fake. Seeing the old man in so much pain–you can’t help but empathize."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief hesitates, and you take that opportunity to attack. You lunge towards the thief and wrangle the knife out of his hands, forcing him to drop everything else had stolen from the old man."
+			"text": "Some of them drop a coin into your hat. Most don’t.\nAfter a few hours, you still don’t have enough for a meal.\nYou realize begging won’t help your situation."
 		},
 		{
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Now that the thief is thoroughly disarmed, you push him away from yourself and the old man."
-		},
-		{
-			"character": "character-1677478828.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Fuck you!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The thief runs away into the night."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The old man is still on the ground, his torn apart wallet and research papers strewn haphazardly on the ground."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He’s cradling the amulet to his chest. It looks like something that wouldn’t originate in Los Angeles, let alone the United States, at all."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Something that wouldn’t belong to a humble, weak old man obsessed with research."
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
-			"change_mirror_portrait": true,
+			"change_mirror_portrait": false,
 			"change_position": false,
 			"change_z_index": false,
-			"character": "character-1676265223.json",
+			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
+			"mirror_portrait": false,
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -923,165 +474,7 @@
 			"z_index": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The old man quickly puts away the amulet and looks up at you. He smiles, though the fear he had felt only moments before was clearly still there."
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://Echo/Music/folk2-2.mp3",
-			"volume": 0
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Happy_Professor",
-			"text": "I’m Professor Allwright! Thank you for saving my research–and my life too! Can you help an old man back onto his feet?"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Sure."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You step forward and help him up."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "What’s your name, sonny?"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "[YOUR NAME]."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ah, thanks again for saving my life’s work! I-I have to treat you to a meal."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He grasps his head and sways a bit. You hold onto his arm to give him support."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "So sorry! All this excitement has messed with my blood sugar. I should be getting home now."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He sighs and looks at all his papers and trinkets strewn about."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Could you help me get everything together? I promise, I’ll pay you for your help, [YOUR NAME]. Whatever you want for saving my research!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "As you pick up all the Prof’s papers and other strange items and place them back in their boxes, you think about what exactly you could get."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Food. Water. Shelter. A job. At this point, you were still buzzed from having survived that encounter."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "You say the first thing on your mind:"
-		},
-		{
-			"choice": "Cat food.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256261-787",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"choice": "A place for the night.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "A meal.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The Professor nods."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Of course! Let’s head back to my office–it’s closer than my home really and I need to sort and put away these papers anyway–and I’ll reward you with just that, [YOUR NAME]."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "After cleaning up, you help the Professor walk towards his college office. Both of you are shaken from that ordeal, yet somehow the Professor is unusually chipper."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "His hand keeps reaching into his shirt pocket and fiddling with something–likely to check on that amulet."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You wonder how important that piece of jewelry is."
-		},
-		{
-			"change_timeline": "timeline-1677480708.json",
+			"change_timeline": "timeline-1678420458.json",
 			"event_id": "dialogic_020"
 		}
 	],
