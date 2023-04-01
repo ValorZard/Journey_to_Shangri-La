@@ -72,132 +72,28 @@
 			"text": "You wander the streets of Los Angeles, marveling at how different it feels from home. \nThe streets are wider, the way people talk and walk and live is so different from home. \nIt feels better here, but you can’t help but feel alone."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
 			"portrait": "",
-			"question": "The journey was long and arduous, and there were times you had to go hungry so Soot could eat, but eventually you make it to Los Angeles, the city of angels."
-		},
-		{
-			"choice": "Think about the past",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
+			"text": "[i]Meow[/i]"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Everything is so different now. You never thought you’d ever leave your hometown, or that you’d ever be alone."
+			"text": "You hug Soot."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You can’t go back, no matter what. To live in a place that actively persecutes you–it makes you shiver."
+			"text": "[i]Mrowwwww[/i]"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Father and the others would torture you and force you to live a lie."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "If anything, you want to live honestly, as your own person."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Maybe, with someone who could love and accept you as you are."
-		},
-		{
-			"choice": "Think about the future",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Hope flutters in your heart. Los Angeles is a new place to restart, a place where you can get honest work and make your own living."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Besides, this is where Hollywood is! You could become a famous actor, get rich, live well!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You can’t help but feel that such thinking is overly optimistic."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It would be nice, if, maybe, you could find someone who loves and accepts you for who you are."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You step forward, hopeful for the future."
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You wander the streets of Los Angeles, marveling at how different it feels from home."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The streets are wider, the way people talk and walk and live is so different from home."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It feels better here but you can’t help but feel alone."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Soot meows, and you clutch her tighter to your chest."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "At least you have Soot, and Soot has you."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Soot meows again. She’s hungry."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Your stomach growls too. You feel slightly dizzy from the hunger and thirst that you don’t know how much longer you can walk."
+			"text": "She must be hungry.\nYour stomach growls too. You feel slightly dizzy from hunger and thirst."
 		},
 		{
 			"character": "",
@@ -209,7 +105,7 @@
 			"question": "You pull out your last piece of bread. It definitely looks suspicious–is that mold on its edge?"
 		},
 		{
-			"choice": "Feed her your last piece of bread",
+			"choice": "Feed her your last piece of bread.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -236,7 +132,7 @@
 			"text": "You rip off the moldy spot and toss it away, then let Soot lick the good parts off your palm."
 		},
 		{
-			"choice": "Wait until you can get better food",
+			"choice": "Wait until you can get better food.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -254,20 +150,22 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "This isn’t good bread, anyway. The mold spores could have spread to the seemingly fine sides. You don’t want to risk getting Soot and yourself sick."
+			"text": "This isn’t good bread, anyway. The mold spores could have spread to the seemingly fine sides. You don’t want to risk getting Soot and yourself sick.\nYou toss it away."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You toss it away."
-		},
-		{
-			"choice": "Share your last piece of bread",
+			"choice": "Share your last piece of bread.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"character": "",
@@ -280,9 +178,35 @@
 		},
 		{
 			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You really need to get some decent food and a job soon."
+		},
+		{
+			"choice": "Pet Soot.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Hug Soot tighter.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You pet Soot and keep her close as you begin to look for work in Los Angeles. You can’t live off scraps forever."
+			"text": "[i]Meow[/i]"
 		},
 		{
 			"character": "",
