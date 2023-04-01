@@ -75,7 +75,7 @@
 			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]Meow[/i]"
+			"text": "[i]Meow.[/i]"
 		},
 		{
 			"character": "",
@@ -87,7 +87,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]Mrowwwww[/i]"
+			"text": "[i]Mrowwwww.[/i]"
 		},
 		{
 			"animation": "[Default]",
@@ -248,7 +248,7 @@
 			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]Meow[/i]"
+			"text": "[i]Meow.[/i]"
 		},
 		{
 			"character": "character-1676265208.json",
@@ -393,7 +393,7 @@
 			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]Mrow[/i]"
+			"text": "[i]Mrow.[/i]"
 		},
 		{
 			"character": "",
@@ -474,8 +474,147 @@
 			"z_index": 0
 		},
 		{
-			"change_timeline": "timeline-1678420458.json",
-			"event_id": "dialogic_020"
+			"background": "res://Echo/Backgrounds/UCLA.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you wander the streets of Los Angeles, you pass a university campus with large, towering brick buildings. \nUniversity, huh? You are around the age that most attend, but it wasn’t like you have the money to go. And what would you study anyways?\nOn the walls surrounding the university, you see a job opportunity posted on a flyer:\nHIRING ACADEMIC ASSISTANT. WILL ORGANIZE PAPERS AND GRAB BOOKS FROM THE TOPS OF SHELVES. AND DE-CLUTTER. AND CARRY HEAVY BOXES OF [b]PRECIOUS RESEARCH[/b]! CONTACT: HOWARD ALLWRIGHT, PHD.\nBelow is his contact info and address. Apparently, an interview is required, but not a resume. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Excellent."
+		},
+		{
+			"choice": "“Well, Soot, what do you think?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow.[/i]"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Happy",
+			"text": "Exactly. I think this is a job opportunity I can’t let slip by! Let’s go."
+		},
+		{
+			"choice": "Grab the poster.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is a job opportunity you can’t let slip by you! \nYou head to the address."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "res://Echo/Backgrounds/UCLA2.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It requires you to enter the campus of this university, which you read as the University of California, Los Angeles.\nAnd… you quickly become lost. The place feels like an utter maze."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Sad",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You try to ask for help from anyone, but everyone rushes past you, heads down. Some of them grimace at you, as if you were a disgusting creature.\nOh.\nYou had been traveling for weeks without a single shower. That made sense."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, you find the Anthropology building and enter it, looking at the directory for Professor Howard Allwright’s office. \nIt’s three floors up, and after climbing the stairs you make it to the door."
 		}
 	],
 	"metadata": {
