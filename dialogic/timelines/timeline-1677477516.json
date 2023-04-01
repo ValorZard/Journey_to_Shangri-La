@@ -455,13 +455,34 @@
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
-			"change_mirror_portrait": false,
+			"change_mirror_portrait": true,
 			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": false,
+			"mirror_portrait": true,
 			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -555,12 +576,12 @@
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
-			"change_mirror_portrait": false,
+			"change_mirror_portrait": true,
 			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": false,
+			"mirror_portrait": true,
 			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
@@ -582,12 +603,12 @@
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
-			"change_mirror_portrait": false,
+			"change_mirror_portrait": true,
 			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": false,
+			"mirror_portrait": true,
 			"portrait": "MC_Sad",
 			"portrait_definition": "",
 			"position": {
@@ -607,7 +628,7 @@
 			"text": "You try to ask for help from anyone, but everyone rushes past you, heads down. Some of them grimace at you, as if you were a disgusting creature.\nOh.\nYou had been traveling for weeks without a single shower. That made sense."
 		},
 		{
-			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"background": "res://Echo/Backgrounds/prof_office.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -615,6 +636,140 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Eventually, you find the Anthropology building and enter it, looking at the directory for Professor Howard Allwright’s office. \nIt’s three floors up, and after climbing the stairs you make it to the door."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take in a breath and knock on the door, underneath a sign reading “Professor Howard Allwright - Anthropology.”"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "MC_shocked",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]CRASH![/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The door slams open."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HELLO!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You: Uh, hi."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor adjusts his glasses."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you here to apply to be my assistant?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Yes, sir."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, no, no–sirs aren’t needed! Come in, come in."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor ushers you into his office. It’s cluttered and very dusty."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sit, sit."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sit on the couch with Soot."
 		}
 	],
 	"metadata": {

@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"background": "res://Echo/Backgrounds/prof_office.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
