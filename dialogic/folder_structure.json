@@ -47,7 +47,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -96,7 +96,8 @@
 				"timeline-1677563399.json",
 				"timeline-1678424833.json",
 				"timeline-1678427077.json",
-				"timeline-1678420458.json"
+				"timeline-1678420458.json",
+				"timeline-1680302165.json"
 			],
 			"folders": {
 				"Old timelines": {
@@ -107,11 +108,11 @@
 						"timeline-1677480708.json",
 						"timeline-1677553588.json",
 						"timeline-1677555794.json",
-						"timeline-1677556120.json",
 						"timeline-1677562380.json",
 						"timeline-1677844059.json",
 						"timeline-1677848716.json",
-						"timeline-1677848766.json"
+						"timeline-1677848766.json",
+						"timeline-1677556120.json"
 					],
 					"folders": {
 

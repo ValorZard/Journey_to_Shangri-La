@@ -1,0 +1,430 @@
+{
+	"events": [
+		{
+			"background": "res://Echo/Backgrounds/Village.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tense_intro1.mp3",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: JULY 1936"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LOCATION: CHINA"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As far as the eye could see, fires blazed as bright as the sun. The air was seasoned with the tang of gunpowder."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With every step he walked, another building, another person, another nuisance fell, and Hiroshi knew that the path to a beautiful future was being paved. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He was Hiroshi Hashimoto, son of Kazuya Hashimoto and commander of the 12th division of the Imperial Army of Japan."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He was destined for glory, and would remove anything that stood in his way."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Temple.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, past all the rubble and smoke, the roof of a Buddhist monastery rose into sight, standing tall and untouched."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi arrived at the top of the hill to the monastery, but  was thrown onto the ground when one of his soldiers flew right into him."
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"animation_repeat": 2,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Hiroshi_Mad",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With a grunt, he rolled out from under them, but he had barely gotten to his feet when a strong gust of wind sent him tumbling back to the ground. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In a brief moment of stillness, Hiroshi saw five monks standing in front of the temple facing his men, who were scattered onto the ground like he was. \nMost of his men were bleeding and lifeless, but another look at the monks told him they didn’t carry any lethal weapons. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They had not a single weapon, but the one in the middle was holding an awfully large leaf? "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To his left, Hiroshi saw the last of his soldiers desperately shooting at the monks. \nThe monk with the leaf swung it again, creating another impossibly strong gust of wind. "
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"animation_repeat": 2,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]BANG[/i]"
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Commander, what should we do?” "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "“Gather reinforcements! Hurry!!” "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the soldier scrambled off to call for help, Hiroshi turned back to find all the monks watching him. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Hiroshi_Mad",
+			"text": "“Damn it!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi got to his feet, gripping his rifle tightly as he stepped forward. \nThe monks exchanged glances, then the one with the leaf fan retreated inside. \nSoon after, a faint golden light seeped out of the monastery."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Hiroshi: “What is that light? Where is it coming from?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For people who value peace, they were surprisingly skilled at hand to hand combat, redirecting each and every one of Hiroshi’s attempts to shoot them. \nNot to mention that they outnumbered him. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ugh!”"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 4,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He stumbled backwards breathlessly after a monk delivered a blow to his diaphragm."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Reinforcements pushed the monks back steadily. At this moment, Hiroshi saw that the light coming from the monastery was more intense than before.\nHe jumped to his feet and dashed towards the monastery, towards the light. "
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 2,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/temple-interior-5.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At the center of the monastery, Hiroshi found a monk standing behind the leaf fan and muttering rapidly. \nThe fan was suspended in mid-air as if by wind… or [i]magic[/i].  It emitted a bright light, the wind starting to violently churn all around it."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Hiroshi_Mad",
+			"text": "“Stop that witchcraft and surrender to the Imperial Army!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The monk refused to stop chanting. Hiroshi raised his rifle and took aim. \nThe moment he pulled the trigger, the light and wind ceased, and in the next, so did the monk. \nHiroshi picked up the leaf fan that had now fallen to the floor. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Hiroshi_happy_hat",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He couldn’t help the smile that came to his face upon feeling the weight of it in his hand."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Commander! We’ve restrained the monks!” "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Good. Bring them in so I can give them a taste of their own medicine.” "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, as Hiroshi waited for the monks to be brought into the monastery, a fresh burning smell prompted him to turn around."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Flames were crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls. \nIn desperation, Hiroshi swung the leaf fan, but there was no wind. Not even a slight breeze. \nHe frantically waved it back and forth rapidly, but the fan showed no signs of its former power."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Hiroshi_Mad",
+			"text": "“What did you do? What did you [i]do[/i]?!?!” "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi ran towards the deceased monk, as if he would get answers, eyes darting around the monastery for an explanation. \nThen, on a table behind the monk, he glimpsed a drawing of the fan gracing the pages of a burning manuscript. \nWithout hesitation, he reached for it, throwing it onto the floor and stomping out the fire. \nThe manuscript was still hot when he picked it up, but he didn’t care. \nHe needed to know what the monk had done to the fan. "
+		},
+		{
+			"background": "res://Echo/Backgrounds/Temple.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His eyes scanned what little was left as he exited the monastery, passing his soldiers and the captured monks. \n[i]Ancient artifact…Beyuls…Sun Wukong…[/i]\nNothing he could make sense of.\nHe cried out in anger, whipping out his rifle and killing one of the monks in a blind fit. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“KILL THEM!! KILL THEM ALL!!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The subsequent sounds of gunfire told him his commands were followed. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"change_timeline": "timeline-1677206195.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1680302165.json",
+		"name": "Hiroshi Prologue"
+	}
+}
