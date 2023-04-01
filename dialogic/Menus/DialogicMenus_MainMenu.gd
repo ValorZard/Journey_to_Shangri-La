@@ -20,7 +20,7 @@ func _ready():
 
 func _on_NewGame_Button_pressed():
 	get_parent().get_node("MenuMusic").playing = false
-	var dialog = Dialogic.start("LA pt.2 (revised)")
+	var dialog = Dialogic.start("Hiroshi Prologue")
 	dialog.layer = 0
 	get_parent().add_game_node(dialog)
 	$Buttons/NewGame_Button.release_focus()
