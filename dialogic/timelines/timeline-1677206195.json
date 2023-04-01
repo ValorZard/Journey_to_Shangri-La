@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Stars.jpg",
 			"event_id": "dialogic_021"
 		},
 		{

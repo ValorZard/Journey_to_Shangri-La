@@ -61,13 +61,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The house smells like alcohol tonight. This will be one of the worst ones, if you don’t leave."
+			"text": "The house feels too silent tonight. This will be one of the worst ones, if you don’t leave."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Distantly, Father calls for you. Glass shatters."
+			"text": "Distantly, Father calls for you."
 		},
 		{
 			"character": "character-1677208371.json",
@@ -112,13 +112,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Years ago, Father beat the Devil out of Roger–one of the guys in your church–and sent him to conversion therapy."
+			"text": "Years ago, Father beat the Devil out of Roger–one of the guys in your church–and sent him away."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Roger had emerged from conversion therapy as a shell of himself, shaken and pale. He doesn’t talk to anyone nowadays. Not even with his wife."
+			"text": "Roger returned as a shell of himself, shaken and pale. He doesn’t talk to anyone nowadays. Not even with his wife."
 		},
 		{
 			"condition": "",
@@ -160,7 +160,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As long as you get away from your hometown where Father is the head pastor–without him or anyone in the community noticing and dragging you to conversion therapy, to purification–you’ll be safe."
+			"text": "As long as you get away from your hometown where Father is the head pastor–without him or anyone in the community noticing and dragging you to [i]purification[/i]–you’ll be safe."
 		},
 		{
 			"character": "",
@@ -238,7 +238,7 @@
 			"text": "GET BACK HERE RIGHT NOW!!! YOU CAN’T HIDE FROM GOD!!!"
 		},
 		{
-			"choice": "Climb down the window",
+			"choice": "Climb out the window",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -292,25 +292,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The rope’s too short. You jump the rest of the way down, praying to whatever gods exist that you don’t break your legs."
+			"text": "The rope’s too short. You jump the rest of the way down, praying to whatever god exists that you don’t break your legs."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It hurts, but you barely feel it due to the pure panic."
+			"text": "It [i]hurts[/i], but you barely feel it due to the pure [i]panic[/i]."
 		},
 		{
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "GET BACK HERE YOU DEVIL!!! YOU CAN’T HIDE FROM GOD!!!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "In record time, you hear the front door slam open, and you know Father is running after you, belt in hand."
 		},
 		{
 			"choice": "Hide",
@@ -341,19 +335,19 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fucking devil making men like men. I’ll drive it out, son. I’ll save you. God will save you."
+			"text": "Fucking devil making men sin. I’ll drive it out, son. I’ll save you. God will save you."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You hear his drunken steps shuffle around the room, then the assuring sound of the door opening and closing again."
+			"text": "You hear his steps shuffle around the room, then the assuring sound of the door opening and closing again."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You count to ten and hurry out from your hiding place, opening the door and running down the stairs, to the front door, to freedom–"
+			"text": "You count to ten and hurry out from your hiding place, opening the door and running down the stairs, to the front door, to [i]freedom[/i]–"
 		},
 		{
 			"character": "",
@@ -386,7 +380,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Adrenaline rushes through your veins, and you force yourself to run and keep fucking running or else he’ll catch you, beat you, force you into conversion therapy, into torture–"
+			"text": "In record time, you hear the front door slam open, and you know Father is running after you, belt in hand."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Adrenaline rushes through your veins, and you force yourself to run and keep fucking running or else he’ll catch you, beat you, force you to be \"cured\", into torture–"
 		},
 		{
 			"animation": "flash.gd",
@@ -498,7 +498,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "At the train station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline, still? Fear?"
+			"text": "At the train station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline? Fear?"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -523,7 +523,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "At the train station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline, still? Fear?"
+			"text": "At the train station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline? Fear?"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -548,7 +548,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Under the roof of a gas station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline, still? Fear?"
+			"text": "Under the roof of a gas station, you curl up on a bench. You can’t stop trembling. Is this happiness? Is this relief? Adrenaline? Fear?"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -584,7 +584,7 @@
 			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Meow."
+			"text": "[i]Meow[/i]"
 		},
 		{
 			"character": "",
@@ -639,7 +639,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You peer at it curiously."
+			"text": "You glance at it curiously."
 		},
 		{
 			"choice": "I should stay here.",
@@ -658,7 +658,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You peer at it curiously."
+			"text": "You glance at it curiously."
 		},
 		{
 			"event_id": "dialogic_013"
@@ -687,7 +687,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A small, black kitten peers at you from within and releases a long meow."
+			"text": "A small black kitten peers at you and releases a long meow."
 		},
 		{
 			"character": "",
@@ -699,7 +699,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It reaches its paws towards you. You gently cradle it in your hands and notice one of its legs is missing and bleeding."
+			"text": "It reaches its paws towards you. You gently cradle it in your hands and notice one of its legs, no more than a stump, is bleeding."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -826,6 +826,6 @@
 	"metadata": {
 		"dialogic-version": "1.4.5",
 		"file": "timeline-1677207980.json",
-		"name": "Prologue"
+		"name": "MC Prologue"
 	}
 }
