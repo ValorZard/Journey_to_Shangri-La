@@ -1129,7 +1129,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
+			"portrait": "MC_Sad",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1147,7 +1147,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "How about another time?"
 		},
 		{
@@ -1181,7 +1181,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
+			"portrait": "MC_Sad",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1199,7 +1199,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "How about another time?"
 		},
 		{
@@ -1302,7 +1302,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
+			"portrait": "MC_Sad",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1320,7 +1320,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "How about another time?"
 		},
 		{
@@ -1354,7 +1354,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
+			"portrait": "MC_Sad",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1372,7 +1372,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "How about another time?"
 		},
 		{
@@ -1431,7 +1431,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
+			"portrait": "MC_Sad",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1449,7 +1449,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "How about another time?"
 		},
 		{
@@ -1554,6 +1554,257 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor clears his throat."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Uh, let me be honest with you, [YOUR NAME]."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I've posted job advertisements for a couple months already. Whenever I interview someone and offer them the job, they decline. I can’t imagine why."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You understand. The Professor is quite the personality and… he has an interest in magic? \nHis research project almost sounds delusional."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Just know that I fully understand if you want to decline this offer."
+		},
+		{
+			"choice": "“Yes, I accept.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You need a job anyway, and even though the Professor has a few screws loose, he seems like an honest individual.\nYou had no home to go back to anyway. And besides… magic? This was kind of interesting."
+		},
+		{
+			"choice": "“I need to think about this.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Take your time, [YOUR NAME]."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow.[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Magic, Journey to the West, and beyuls, huh? They are certainly interesting topics.\nYou think about any other job you could potentially get.\nFlipping burgers.\nCleaning dishes.\nServing customers.\nWait–why do you envision yourself with food?!"
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Hrrrr.[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right, you must be hungry.\nYour stomach growls just to prove its point."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you hungry, [YOUR NAME]? Here, you can have my sandwich–and I’ll go steal some tuna from the staff room for your cat."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries, I’m not hungry."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can tell when a boy is starved! Eat, I’ll be back."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor leaves the room.\nNow alone, you start eating the sandwich. Before you know it, you’ve shoveled it down your throat. \nThe Professor returns with a can of tuna for Soot."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Purrrrrr.[/i]"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "You’re very welcome, Soot!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He pets her.\nThe Professor is kind. You wonder if you can ever find an employer as kind as him."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Happy2",
+			"text": "You: I accept."
+		},
+		{
+			"choice": "“I… don’t envision myself working here.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, Professor. I appreciate it, but I want to try other career paths."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods, even though he is a little disappointed."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I understand, [YOUR NAME]! Best of luck with your pursuits! Here, take this box of cookies before you leave!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And off you went in the streets of Los Angeles. You work multiple small jobs.\nStill, you can’t help but feel like there’s more to life than a job washing dishes."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "timeline-1680373082.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Excellent!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For the next few months, you work under the Professor. You tidy up his office and carry his heavy boxes of paper and research items.\nThe months glide by, until a certain colleague from India arrives to visit the Professor…"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "timeline-1678420458.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
