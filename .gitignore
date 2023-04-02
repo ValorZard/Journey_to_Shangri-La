@@ -10,5 +10,7 @@ export_presets.cfg
 .mono/
 data_*/
 
-# Add build folder
+# build ignores
 build/
+*.zip
+*.exe
