@@ -1600,6 +1600,10 @@
 			"text": "The last things you remember before you pass out are the worried expletives of Juan as he runs towards you."
 		},
 		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -1618,10 +1622,6 @@
 			},
 			"type": 1,
 			"z_index": 0
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_023",
