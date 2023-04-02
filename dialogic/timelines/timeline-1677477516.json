@@ -577,7 +577,7 @@
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": true,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
@@ -586,7 +586,28 @@
 			"portrait_definition": "",
 			"position": {
 				"0": false,
-				"1": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
 				"2": false,
 				"3": false,
 				"4": false
@@ -727,7 +748,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You: Uh, hi."
+			"text": "Uh, hi."
 		},
 		{
 			"character": "",
@@ -917,7 +938,13 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Happy_Professor",
-			"text": "In the Journey to the West, the monk Tripitaka journeys to deliver the sutras from the Buddha himself to the West. Tripitaka has the aid of four other companions: Sun Wukong, the mischievous Monkey King possessing immense combat strength. Sandy, the serious-headed companion with a straight face. Pigsy, the one who looks like a Pig, who often causes trouble. And finally, the reliable White Dragon Horse. On their journey, they encounter various perils in the form of demons…"
+			"text": "[i]In the Journey to the West, the monk Tripitaka journeys to deliver the sutras from the Buddha himself to the West. Tripitaka has the aid of four other companions: Sun Wukong, the mischievous Monkey King possessing immense combat strength. [/i]"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Sandy, the serious-headed companion with a straight face. Pigsy, the one who looks like a Pig, who often causes trouble. And finally, the reliable White Dragon Horse. On their journey, they encounter various perils in the form of demons…[/i]"
 		},
 		{
 			"character": "",
@@ -929,17 +956,604 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Default",
+			"question": "Alright, next question. Do you believe in magic?"
 		},
 		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3
+			"choice": "“Um.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
-			"change_timeline": "timeline-1677477516.json",
-			"event_id": "dialogic_020"
+			"choice": "“Kind of.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Not really.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Understandable, understandable."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He pulls out an amulet from his pocket and shows it to you. \nIt looks ancient, like something that wouldn’t originate in Los Angeles, let alone the United States, at all."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "This amulet is [i]magical[/i]. I am [i]convinced[/i] it’s connected to the [i]Journey to the West[/i]! My colleague, Raj, found this nearby the sacred valleys of Tibet! \nThere must be some treasure hidden within this priceless artifact. It’s the discovery of a lifetime."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "If I can even [i]open[/i] it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor tries to pry open the amulet’s center, to no avail.\nHe sighs."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone thinks my research is crazy, and all the youngsters are busy going out and about nowadays. No one’s interested in good old anthropological research!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "So, I offer you the job! An office assistant to help me clean up–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He gestures at all the paraphernalia lying haphazardly around the office. There’s barely any room to walk, and it’s very dusty."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And to reach the high shelves without me having to break my back, and to carry my boxes! That would be swell! \nI love my research, but I’m just not as full of vigor as before!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor audibly cracks his back."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "What do you say, [YOUR NAME]? How about becoming my assistant? You can live in my office! I know many are struggling with housing nowadays.\nOf course, if you have any questions–I’ll be happy to answer them!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "That was indeed a lot of information, all at once."
+		},
+		{
+			"choice": "“What are the sacred valleys of Tibet?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, they are also known as beyuls! Within the hills and valleys of Tibet are sacred, magical lands called [i]beyuls[/i], watched over by Buddhist deities.\nThese beyuls are considered places of paradise… and fictional by most people."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "But I know they exist! Beyuls are my life’s work."
+		},
+		{
+			"choice": "“Who is Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+		},
+		{
+			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no. He’s going to info-dump again!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh, I think I’m alright without knowing!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "The Professor frowns."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about another time?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Of course! Ask about it anytime, [YOUR NAME]."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no. He’s going to info-dump again!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh, I think I’m alright without knowing!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "The Professor frowns."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about another time?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Happy_Professor",
+			"question": "Of course! Ask about it anytime, [YOUR NAME]."
+		},
+		{
+			"choice": "“Who is Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "“Who is Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+		},
+		{
+			"choice": "“What are the sacred valleys of Tibet?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, they are also known as beyuls! Within the hills and valleys of Tibet are sacred, magical lands called [i]beyuls[/i], watched over by Buddhist deities.\nThese beyuls are considered places of paradise… and fictional by most people."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "But I know they exist! Beyuls are my life’s work."
+		},
+		{
+			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no. He’s going to info-dump again!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh, I think I’m alright without knowing!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "The Professor frowns."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about another time?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Of course! Ask about it anytime, [YOUR NAME]."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no. He’s going to info-dump again!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh, I think I’m alright without knowing!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "The Professor frowns."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about another time?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Happy_Professor",
+			"question": "Of course! Ask about it anytime, [YOUR NAME]."
+		},
+		{
+			"choice": "“What are the sacred valleys of Tibet?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, they are also known as beyuls! Within the hills and valleys of Tibet are sacred, magical lands called [i]beyuls[/i], watched over by Buddhist deities.\nThese beyuls are considered places of paradise… and fictional by most people."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I know they exist! Beyuls are my life’s work."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh no. He’s going to info-dump again!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh, I think I’m alright without knowing!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "The Professor frowns."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about another time?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Happy_Professor",
+			"question": "Of course! Ask about it anytime, [YOUR NAME]."
+		},
+		{
+			"choice": "“What are the sacred valleys of Tibet?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, they are also known as beyuls! Within the hills and valleys of Tibet are sacred, magical lands called [i]beyuls[/i], watched over by Buddhist deities.\nThese beyuls are considered places of paradise… and fictional by most people."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "But I know they exist! Beyuls are my life’s work."
+		},
+		{
+			"choice": "“Who is Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "“Who is Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+		},
+		{
+			"choice": "“What are the sacred valleys of Tibet?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, they are also known as beyuls! Within the hills and valleys of Tibet are sacred, magical lands called [i]beyuls[/i], watched over by Buddhist deities.\nThese beyuls are considered places of paradise… and fictional by most people."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I know they exist! Beyuls are my life’s work."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
