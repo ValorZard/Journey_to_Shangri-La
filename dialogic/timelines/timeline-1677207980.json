@@ -810,13 +810,13 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1
+			"wait_seconds": 3
 		},
 		{
 			"change_timeline": "timeline-1677477516.json",

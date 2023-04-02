@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/prof_office.jpg",
+			"background": "res://Echo/Backgrounds/prof study.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -1495,13 +1495,13 @@
 			"z_index": 0
 		},
 		{
-			"background": "",
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 2
+			"wait_seconds": 3
 		},
 		{
 			"change_timeline": "timeline-1678424833.json",
