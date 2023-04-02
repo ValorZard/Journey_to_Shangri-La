@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/prof_office.jpg-8e645213e9970887a99ccfc60cb16df0.stex"
+path="res://.import/prof study.png-9233f02c406da67d2d0687b5b3e5359a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Echo/Backgrounds/prof_office.jpg"
-dest_files=[ "res://.import/prof_office.jpg-8e645213e9970887a99ccfc60cb16df0.stex" ]
+source_file="res://Echo/Backgrounds/prof study.png"
+dest_files=[ "res://.import/prof study.png-9233f02c406da67d2d0687b5b3e5359a.stex" ]
 
 [params]
 

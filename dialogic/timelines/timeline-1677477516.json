@@ -628,7 +628,7 @@
 			"text": "You try to ask for help from anyone, but everyone rushes past you, heads down. Some of them grimace at you, as if you were a disgusting creature.\nOh.\nYou had been traveling for weeks without a single shower. That made sense."
 		},
 		{
-			"background": "res://Echo/Backgrounds/prof_office.jpg",
+			"background": "res://Echo/Backgrounds/prof study.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -770,6 +770,167 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You sit on the couch with Soot."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "So, I have a few interview questions for you, my boy. What’s your name?"
+		},
+		{
+			"choice": "Tell him your name.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "[YOUR NAME]. And this is Soot."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Chirp[/i]."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "A pleasure to meet you, [YOUR NAME] and Soot! I am Professor Howard Allwright."
+		},
+		{
+			"choice": "Don't tell him your name.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Definitely not [YOUR NAME]. And this is Soot."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Chirp[/i]."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Very well, Definitely Not [YOUR NAME] and Soot! It’s a pleasure to meet you! I am Professor Howard Allwright."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Happy",
+			"text": "No, no, I was joking! My name is [YOUR NAME]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor scratches his head."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Default",
+			"question": "Alright, next question. Have you heard the story of [i]Journey to the West[/i]?"
+		},
+		{
+			"choice": "“Yes.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Excellent!"
+		},
+		{
+			"choice": "“Never heard of it.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What?! It’s a classic in Buddhist literature!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor starts to tell you the entire story…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "In the Journey to the West, the monk Tripitaka journeys to deliver the sutras from the Buddha himself to the West. Tripitaka has the aid of four other companions: Sun Wukong, the mischievous Monkey King possessing immense combat strength. Sandy, the serious-headed companion with a straight face. Pigsy, the one who looks like a Pig, who often causes trouble. And finally, the reliable White Dragon Horse. On their journey, they encounter various perils in the form of demons…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was… a lot of information."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1677477516.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

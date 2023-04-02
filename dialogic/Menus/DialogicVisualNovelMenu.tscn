@@ -217,6 +217,7 @@ margin_bottom = -481.0
 [node name="ColorRect" type="ColorRect" parent="Menus/MenuContainer/StatsMenu"]
 anchor_right = 1.0
 anchor_bottom = 1.0
+margin_left = 48.0
 color = Color( 0, 0, 0, 0.545098 )
 
 [node name="TextureRect" type="TextureRect" parent="Menus/MenuContainer/StatsMenu"]
@@ -225,8 +226,11 @@ margin_right = 40.0
 margin_bottom = 40.0
 
 [node name="RichTextLabel" type="RichTextLabel" parent="Menus/MenuContainer/StatsMenu"]
-anchor_right = 1.0
-anchor_bottom = 1.0
+anchor_right = 0.627
+anchor_bottom = 1.009
+margin_left = 59.0
+margin_right = 58.934
+margin_bottom = 0.0189896
 custom_fonts/normal_font = SubResource( 17 )
 text = "Kind: 0
 Bravery: 0
