@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/prof study.png",
+			"background": "res://Echo/Backgrounds/Study Room.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -207,7 +207,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You’re familiar with the Professor (since you’ve been working for him for the past few months), but this person is younger, almost your age."
+			"text": "You’re familiar with the Professor, but this person is younger, almost your age."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -264,40 +264,28 @@
 			"text": "But the beyuls, Raj, the beyuls! Don’t you want to find it?!"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ah, the beyuls."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The mythical, sacred valleys of Tibet, and the Professor’s main topic of research."
-		},
-		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "I do, but there’s nothing I can do about it. I’d disgrace my entire family if I refused this lifelong commitment."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "So I have to return to Kolkata as soon as possible, or else my family and the bride’s family will suspect me of unfaithfulness. I can’t bear that shame on my name."
+			"text": "So I have to return to Kolkata as soon as possible, or else mine and the bride’s family will suspect me of unfaithfulness. I can’t bear that shame on my name."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "RAJ DON’T GIVE UP YOUR ACADEMIC DREAMS!"
+			"text": "But Raj! Don’t give up on your academic dreams!"
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I know. I tried to stall as long as possible but… it has reached a dangerous point. They’ve already sent so many letters. I have to go back [i]now[/i]."
+			"text": "I know. I tried to stall as long as possible but… it has reached a dangerous point. \nThey’ve already sent so many letters. I have to go back [i]now[/i]."
 		},
 		{
 			"animation": "[Default]",
@@ -686,7 +674,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You can discuss research on the way."
+			"text": "You can discuss research along the way."
 		},
 		{
 			"character": "",
@@ -723,7 +711,7 @@
 			"character": "character-1676341130.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]Meow.[/i]"
+			"text": "[i]Mrrrrrrrow.[/i]"
 		},
 		{
 			"character": "character-1677847888.json",
@@ -747,14 +735,14 @@
 			"text": "Speaking of which, can I see it?"
 		},
 		{
-			"background": "res://Echo/Backgrounds/Study Room.jpg",
+			"background": "res://Echo/Backgrounds/prof study.png",
 			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The Professor pulls out an ancient amulet from his pocket and holds it out for Raj to examine."
+			"text": "The Professor pulls out the ancient amulet from his pocket."
 		},
 		{
 			"character": "character-1677847888.json",
@@ -1031,7 +1019,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Good idea. I have to get back or my family will be on my ass."
+			"text": "Good idea. I have to get back or my family will be onto me quicker than a lion.."
 		},
 		{
 			"choice": "“Oh, I’d love to try you~”",
@@ -1236,7 +1224,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "After a few days of getting ready and Raj sending a letter to his family in Kolkata, you finally board the ship together."
+			"text": "After a few days of getting ready, you finally board the ship together."
 		},
 		{
 			"character": "",
