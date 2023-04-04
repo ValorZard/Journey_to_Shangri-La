@@ -61,7 +61,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The house feels too silent tonight. This will be one of the worst ones, if you don’t leave."
+			"text": "The house feels too silent tonight. "
 		},
 		{
 			"character": "",
@@ -73,7 +73,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "WHERE THE FUCK ARE YOU, FUCKING PIECE OF SHIT?!"
+			"text": " My son, where are you?"
 		},
 		{
 			"animation": "shake_x.gd",
@@ -100,19 +100,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your back stings from the memory of his belt."
+			"text": "You take a measured breath. As much as you loved your father, you knew staying here wasn’t going to help. \nYou can never mold yourself to his expectations–you simply can’t change who you are.\nYou set the letter you had written for him on your desk. No matter how many times you had told him that you couldn’t change, he kept insisting, kept trying to “fix” you.\nHopefully after you’re gone, he will understand."
 		},
 		{
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "COME HERE THIS INSTANT YOU FUCK! I’LL BEAT THE DEVIL OUT OF YOU!!!! "
+			"text": " I want to help you, [YOUR NAME]. You don’t have to be like this anymore."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Years ago, Father beat the Devil out of Roger–one of the guys in your church–and sent him away."
+			"text": "Years ago, Father had helped Roger, one of the young men in your church–by sending him away. When Roger returned, he was an entirely different person. The church thanked God for “saving” him from the Devil."
 		},
 		{
 			"character": "",
@@ -175,7 +175,44 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You hear the snap of Father smacking his belt against his own palm, as if testing just how strongly he wants to beat you."
+			"text": "You hear Father mutter a prayer under his breath."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dear Lord, save my son. Help him see the truth. Give him the courage to receive help. Amen."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Father sighs."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I just want to talk. The Devil has somehow influenced you, and I want to help you get better. Don’t you want to be sinless in the eyes of God?"
+		},
+		{
+			"choice": "Call out to him.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Sad",
+			"text": "Yes, Father? What will we talk about?"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "character-1677208371.json",
@@ -184,7 +221,7 @@
 
 			],
 			"portrait": "",
-			"question": "Get the fuck out of my son, you Devil. You can’t hide from the wrath of God."
+			"question": "You have to decide your next move, quickly."
 		},
 		{
 			"choice": "Sneak downstairs",
@@ -821,6 +858,12 @@
 		{
 			"change_timeline": "timeline-1677477516.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Father sighs."
 		}
 	],
 	"metadata": {
