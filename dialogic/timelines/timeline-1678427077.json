@@ -176,7 +176,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ugh, it’s so crowded here. Come on. Let’s get to our lodgings ASAP."
+			"text": "Ugh, it’s so crowded here. Come on. Let’s get to our lodgings as soon as possible."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -261,8 +261,8 @@
 				"0": false,
 				"1": false,
 				"2": false,
-				"3": false,
-				"4": true
+				"3": true,
+				"4": false
 			},
 			"type": 2,
 			"z_index": 0
@@ -292,7 +292,7 @@
 
 			],
 			"portrait": "",
-			"question": "Come on, we have to find him before he gets in trouble. You know how that old Professor is!"
+			"question": "Come on, we have to find him before he gets into trouble. You [i]know[/i] how Howard is!"
 		},
 		{
 			"choice": "“Let’s go!”",
@@ -412,12 +412,6 @@
 			"z_index": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The crowds are so dense, that you find yourself almost lost, only able to keep Raj within sight by sheer luck."
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -451,8 +445,8 @@
 			"position": {
 				"0": false,
 				"1": false,
-				"2": false,
-				"3": true,
+				"2": true,
+				"3": false,
 				"4": false
 			},
 			"type": 2,
@@ -510,7 +504,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "When you stumble out of the arms and legs that you’ve gotten yourself into, you’re pitched forward into the arms of someone you’ve definitely not met before."
+			"text": "When you stumble out of the arms and legs that you had gotten yourself into, you’re pitched forward into the arms of someone you’ve definitely not met before."
 		},
 		{
 			"animation": "[Default]",
@@ -520,7 +514,7 @@
 			"character": "character-1677554507.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "JUAN_HAPPY",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -533,7 +527,7 @@
 			"z_index": 0
 		},
 		{
-			"character": "character-1677554507.json",
+			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "JUAN_HAPPY",
 			"text": "Woah there bud, can’t have just anyone falling for me."
@@ -569,7 +563,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He’s still holding onto your arms to steady you, but once you find your footing he lets go, raising one slightly calloused hand up to tousle his hair."
+			"text": "He’s still holding onto your arms to steady you, but once you find your footing he lets go, raising one hand up to tousle his hair."
 		},
 		{
 			"animation": "[Default]",
@@ -614,7 +608,28 @@
 			"z_index": 0
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
 			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
 			"text": "Are you good? Hello?"
@@ -982,7 +997,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. Hmph."
+			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. \nHmph."
 		},
 		{
 			"character": "character-1677847888.json",
@@ -1027,7 +1042,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. Hmph."
+			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. \nHmph."
 		},
 		{
 			"event_id": "dialogic_013"
@@ -1236,7 +1251,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "This is sketchy. Stay close to me."
+			"text": "This is suspicious. Stay close to me."
 		},
 		{
 			"choice": "Slide closer to Juan.",
@@ -1329,7 +1344,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "…So as I was saying, we need immediate passage to the Himalayas for my young steward and I! "
+			"text": "So, as I was saying, we would love to have faster passage to where we need to go!"
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1377,13 +1392,13 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Again, too much info, Howard! We don’t have a lot of money, sirs. We’re actually quite poor."
+			"text": "Again, too much info, Howard! We don’t have money, sirs. We’re actually quite poor."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "But the Professor naively grabs a wad of bills from his pouch and offers it to the burly men, who still have not said a word."
+			"text": "But the Professor naively grabs a wad of bills from his pouch and offers it to the burly men."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1452,7 +1467,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Howard! They’re scamming you!! They’re just gonna take our money and get away!"
+			"text": "Howard! They’re [i]scamming[/i] you!! They’re just going to take our money and run away!"
 		},
 		{
 			"character": "character-1677847888.json",
@@ -1482,7 +1497,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The Professor did have to pay for the ship to Hawaii, and the stack of bills that he had handed over was hefty."
+			"text": "The Professor did have to pay for the ship to Hawaii, and the stack of bills that he had handed over was quite hefty."
 		},
 		{
 			"character": "",
@@ -1512,19 +1527,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There had to be a better way to get to Shangri-La! You don’t know these people who had so willingly offered help, and there was something fishy about the whole situation."
+			"text": "You don’t know these people who had so willingly offered help, and there was something fishy about the whole situation."
 		},
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "MC_angry",
-			"text": "No! We don’t want to use your services, and we will find a better way to get to the beyuls. Please return our money, and we will be out of your hair."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Finally, one of the silent burly men speaks with a snarl."
+			"text": "No! We don’t want to use your services, and we will find a better way to get to where we need to go. Please return our money, and we will be out of your hair."
 		},
 		{
 			"character": "character-1677555513.json",
@@ -1555,7 +1564,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There was no other way that the two of them could make it to Kolkata and the beyuls in Tibet without them. As much as the situation was odd, the best thing to do was to trust these people."
+			"text": "There was no other way that the two of them could make it to Kolkata and the beyuls in Tibet without them. They would make the journey far easier.\nAs much as the situation was odd, the best thing to do was to trust these people."
 		},
 		{
 			"character": "character-1677555513.json",
@@ -1597,7 +1606,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The last things you remember before you pass out are the worried expletives of Juan as he runs towards you."
+			"text": "The last things you remember are the worried expletives of Juan as he runs towards you."
 		},
 		{
 			"background": "res://Echo/Backgrounds/Black Screen.jpg",
@@ -1636,6 +1645,6 @@
 	"metadata": {
 		"dialogic-version": "1.4.5",
 		"file": "timeline-1678427077.json",
-		"name": "Hawaii (revised) pt.1"
+		"name": "Hawaii pt. 1 (revised)"
 	}
 }
