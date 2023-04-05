@@ -236,6 +236,37 @@
 			"text": "You hush yourself.\nJust like before, no amount of words were going to convince him otherwise."
 		},
 		{
+			"choice": "Stay quiet.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hush yourself."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Son?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sighs."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Please, my son, I just want to help you. Come out and talk to me."
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -284,7 +315,19 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There you are, devil."
+			"text": "There you are, [YOUR NAME]. Don’t be afraid."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Father takes a slow step forward."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just want to help you, my son."
 		},
 		{
 			"character": "",
@@ -296,7 +339,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET BACK HERE RIGHT NOW!!! YOU CAN’T HIDE FROM GOD!!!"
+			"text": "[YOUR NAME]!"
 		},
 		{
 			"choice": "Climb out the window",
@@ -347,7 +390,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "THERE YOU ARE, DEVIL!"
+			"text": "There you are, [YOUR NAME]. Please, be careful! Don’t hurt yourself!"
 		},
 		{
 			"character": "",
@@ -365,7 +408,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET BACK HERE YOU DEVIL!!! YOU CAN’T HIDE FROM GOD!!!"
+			"text": "[YOUR NAME]!"
 		},
 		{
 			"choice": "Hide",
@@ -390,13 +433,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The door slowly opens and Father enters, belt in hand."
+			"text": "The door slowly opens and Father enters."
 		},
 		{
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fucking devil making men sin. I’ll drive it out, son. I’ll save you. God will save you."
+			"text": "I’ll save you from the Devil’s grasp, my son. God will save you. Please, I only want to help you, [YOUR NAME]."
 		},
 		{
 			"character": "",
@@ -420,7 +463,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "THERE YOU ARE, DEVIL!"
+			"text": "There you are, [YOUR NAME]."
 		},
 		{
 			"character": "",
@@ -432,7 +475,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET BACK HERE RIGHT NOW!!! YOU CAN’T HIDE FROM GOD!!!"
+			"text": "[YOUR NAME]!"
 		},
 		{
 			"event_id": "dialogic_013"
