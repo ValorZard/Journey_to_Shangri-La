@@ -1581,12 +1581,18 @@
 		},
 		{
 			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just know that I fully understand if you want to decline this offer."
+		},
+		{
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "Just know that I fully understand if you want to decline this offer."
+			"question": "So what do you say? Will you accept the job?"
 		},
 		{
 			"choice": "“Yes, I accept.”",

@@ -112,13 +112,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Years ago, Father had helped Roger, one of the young men in your church–by sending him away. When Roger returned, he was an entirely different person. The church thanked God for “saving” him from the Devil."
+			"text": "Years ago, Father had helped Roger–one of the young men in your church–by sending him away. The church thanked God for “saving” him from the Devil."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Roger returned as a shell of himself, shaken and pale. He doesn’t talk to anyone nowadays. Not even with his wife."
+			"text": "But Roger returned as a shell of himself, shaken and pale. He doesn’t talk to anyone nowadays. Not even with his wife."
 		},
 		{
 			"condition": "",
@@ -212,10 +212,34 @@
 			"text": "Yes, Father? What will we talk about?"
 		},
 		{
-			"event_id": "dialogic_013"
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There are programs that will cure you of homosexuality. I want to discuss some of them with you."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, Father. I don’t need to be “cured.” "
 		},
 		{
 			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Remember Leviticus, my son: “Thou shalt not lie with mankind, as with womankind: it is abomination.”\nI do not want you to be condemned to hellfire, [YOUR NAME]. You must change if you want to enter Heaven. \nPlease, my son, I just want to help you. Come out and talk to me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hush yourself.\nJust like before, no amount of words were going to convince him otherwise."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265208.json",
 			"event_id": "dialogic_010",
 			"options": [
 

@@ -126,12 +126,6 @@
 			"text": "They had not a single weapon, but the one in the middle was holding an awfully large leaf? "
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "To his left, Hiroshi saw the last of his soldiers desperately shooting at the monks. \nThe monk with the leaf swung it again, creating another impossibly strong gust of wind. "
-		},
-		{
 			"animation": "shake_x.gd",
 			"animation_length": 1,
 			"animation_repeat": 2,
@@ -158,6 +152,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[i]BANG[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To his left, Hiroshi saw the last of his soldiers desperately shooting at the monks. \nThe monk with the leaf swung it again, creating another impossibly strong gust of wind. "
 		},
 		{
 			"character": "character-1677556412.json",
