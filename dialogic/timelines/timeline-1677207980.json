@@ -484,13 +484,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "In record time, you hear the front door slam open, and you know Father is running after you, belt in hand."
+			"text": "In record time, you hear the front door slam open, and you know Father is running after you."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not going to hurt you, [YOUR NAME]! Please, come back!"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Adrenaline rushes through your veins, and you force yourself to run and keep fucking running or else he’ll catch you, beat you, force you to be \"cured\", into torture–"
+			"text": "Adrenaline rushes through your veins, and you force yourself to run and [i]keep running or else he’ll catch you, force you to be \"cured\"–[/i]"
 		},
 		{
 			"animation": "flash.gd",
@@ -523,7 +529,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "FUCK!!"
+			"text": "Aargh!!"
 		},
 		{
 			"condition": "",
@@ -673,7 +679,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your cheeks feel wet, and it’s not just from the rain."
+			"text": "Father is kind and has taken care of you all your life, but when it came to his beliefs… he was uncompromising. You will miss him, but running away was necessary for your sanity.\nAs you look up at the cloudy sky, you wonder how your life will play out from here on, now that you are truly alone.\nYour cheeks feel wet, and it’s not just from the rain."
 		},
 		{
 			"audio_bus": "Master",
@@ -688,7 +694,7 @@
 			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]Meow[/i]"
+			"text": "[i]Meow.[/i]"
 		},
 		{
 			"character": "",
@@ -703,7 +709,7 @@
 
 			],
 			"portrait": "",
-			"question": "There’s a tiny, soaked box slowly making its way out into the rain, a tiny black tail peeking out from the box’s opening."
+			"question": "There’s a small, soaked box slowly making its way out into the rain, a tiny black tail peeking out from the box’s opening."
 		},
 		{
 			"choice": "I should check that out.",
@@ -925,12 +931,6 @@
 		{
 			"change_timeline": "timeline-1677477516.json",
 			"event_id": "dialogic_020"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Father sighs."
 		}
 	],
 	"metadata": {
