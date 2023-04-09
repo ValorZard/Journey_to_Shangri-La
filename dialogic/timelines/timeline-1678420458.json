@@ -14,18 +14,6 @@
 			"volume": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "DATE: JANUARY 1937"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "LOCATION: LOS ANGELES, CALIFORNIA, UNITED STATES OF AMERICA"
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -44,6 +32,18 @@
 			},
 			"type": 0,
 			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: JANUARY 1937"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LOCATION: LOS ANGELES, CALIFORNIA, UNITED STATES OF AMERICA"
 		},
 		{
 			"character": "",
@@ -597,7 +597,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He sighed."
+			"text": "He sighs."
 		},
 		{
 			"character": "character-1677847888.json",
