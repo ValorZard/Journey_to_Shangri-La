@@ -34,6 +34,26 @@
 		{
 			"name": "MC_shocked",
 			"path": "res://Echo/Characters/MC_shocked.png"
+		},
+		{
+			"name": "MC_Happy_W_soot",
+			"path": "res://Echo/Characters/MC_Happy_W_soot.png"
+		},
+		{
+			"name": "MC_angry_W_soot",
+			"path": "res://Echo/Characters/MC_angry_W_soot.png"
+		},
+		{
+			"name": "MC_Neutral_W_soot",
+			"path": "res://Echo/Characters/MC_Neutral_W_soot.png"
+		},
+		{
+			"name": "MC_sad_W_soot",
+			"path": "res://Echo/Characters/MC_sad_W_soot.png"
+		},
+		{
+			"name": "MC_shocked_W_soot",
+			"path": "res://Echo/Characters/MC_shocked_W_soot.png"
 		}
 	],
 	"scale": 30,

@@ -18,26 +18,6 @@
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
@@ -61,7 +41,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -247,27 +227,6 @@
 			"z_index": 0
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -366,7 +325,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"text": "So we don’t get separated in these dense crowds."
 		},
 		{
@@ -399,7 +358,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -429,27 +388,6 @@
 				"4": false
 			},
 			"type": 1,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": true,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
 			"z_index": 0
 		},
 		{
@@ -488,7 +426,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "MC_shocked",
+			"portrait": "MC_shocked_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -541,7 +479,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -564,27 +502,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "He’s still holding onto your arms to steady you, but once you find your footing he lets go, raising one hand up to tousle his hair."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": true
-			},
-			"type": 2,
-			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
@@ -673,7 +590,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"text": "All dandy! I’m actually looking for a man that I came here with. "
 		},
 		{
@@ -733,7 +650,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -806,27 +723,6 @@
 				"1": false,
 				"2": true,
 				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
 				"4": false
 			},
 			"type": 2,
@@ -963,7 +859,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1023,7 +919,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"text": "Come on, Raj. We’ve already lost sight of the Professor. Any help is beneficial."
 		},
 		{
@@ -1056,7 +952,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1090,27 +986,6 @@
 				"1": false,
 				"2": false,
 				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
 				"4": false
 			},
 			"type": 2,
@@ -1275,27 +1150,6 @@
 			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
 			"portrait": "(Don't change)",
@@ -1532,7 +1386,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_angry",
+			"portrait": "MC_angry_W_soot",
 			"text": "No! We don’t want to use your services, and we will find a better way to get to where we need to go. Please return our money, and we will be out of your hair."
 		},
 		{

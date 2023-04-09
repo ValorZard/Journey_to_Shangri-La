@@ -14,26 +14,6 @@
 			"volume": 0
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": true,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
 			"animation": "1-fade_in.gd",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -41,7 +21,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -98,7 +78,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -143,7 +123,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"text": "Here you go Soot."
 		},
 		{
@@ -206,7 +186,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -404,7 +384,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy2",
+			"portrait": "MC_Happy_W_soot",
 			"text": "Oh, [i]now[/i] you want it. Very well."
 		},
 		{
@@ -440,7 +420,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"text": "Please, help me. I’m homeless. I don’t have any food."
 		},
 		{
@@ -461,28 +441,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": true,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -529,7 +488,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"text": "Exactly. I think this is a job opportunity I can’t let slip by! Let’s go."
 		},
 		{
@@ -548,7 +507,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -582,28 +541,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": true,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -630,7 +568,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": true,
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -673,28 +611,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": true,
-			"portrait": "MC_shocked",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "shake_x.gd",
-			"animation_length": 1,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676341130.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
+			"portrait": "MC_shocked_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -765,7 +682,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"text": "Yes, sir."
 		},
 		{
@@ -854,7 +771,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
+			"portrait": "MC_Happy_W_soot",
 			"text": "No, no, I was joking! My name is [YOUR NAME]."
 		},
 		{
@@ -881,7 +798,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": true,
-			"portrait": "Default",
+			"portrait": "MC_Neutral_W_soot",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1129,7 +1046,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1181,7 +1098,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1302,7 +1219,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1354,7 +1271,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1431,7 +1348,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Sad",
+			"portrait": "MC_sad_W_soot",
 			"text": "Oh, I think I’m alright without knowing!"
 		},
 		{
@@ -1697,7 +1614,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy2",
+			"portrait": "MC_Happy_W_soot",
 			"text": "You: I accept."
 		},
 		{
