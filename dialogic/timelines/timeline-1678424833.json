@@ -216,7 +216,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He slips away and you quickly drift back to sleep."
+			"text": "He slips away. You quickly drift back to sleep."
 		},
 		{
 			"change_timeline": "timeline-1678427077.json",
@@ -241,7 +241,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Raj takes your hand and helps you up. Together, you climb above decks, to the blanket of stars up above."
+			"text": "Raj takes your hand. Together, you climb above decks, to the blanket of stars up above."
 		},
 		{
 			"character": "",
@@ -516,13 +516,156 @@
 			"text": "…"
 		},
 		{
-			"event_id": "dialogic_013"
+			"choice": "“I agree. There’s no magic to them.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "Ha. You truly are a kindred spirit.\n…"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Default",
+			"question": "But I wonder… Why do you believe that?"
+		},
+		{
+			"choice": "Tell the truth.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Sad",
+			"text": "When I was a kid, my mother died giving birth to my baby brother. No matter how hard the nurses tried, they couldn’t save my brother either.\nMy father couldn’t tell the plain truth to four year old me, so he took me outside one night, to stargaze. \nHe pointed up at the two brightest stars and said, “Look. There’s Mama and the baby. God put them in Heaven.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You shake your head."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Every night, I would throw rocks at the stars, to try to knock them down and bring them back to Earth… back into my life.\nI was angry at God for taking away my mother and brother and putting them somewhere unreachable.\nHa.\nI know. I was a dumb kid, but I missed them so much, you know?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It is quiet. You hear the gentle waves brush against the ship and wonder whether you’ve shared too much."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, I’ve stopped believing in such fairytales. They’re made up to give people false hope."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, you feel a hand on your shoulder.\nIt’s Raj’s."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "I want to stay here for a bit. Leave or stay, I don’t care."
+			"text": "I’m sorry to hear that."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You place your hand over his."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Thanks."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The next few minutes are spent in silence, quietly watching the stars together."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"choice": "Lie.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You shrug."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "There’s no proof that anything’s magical.\nOnce I see magic in action, I’ll believe it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj nods."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "You take a scientific approach to life.\nInteresting."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj stretches a bit."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "I want to stay here for a bit. Leave or stay, you have free will. Do as you please."
 		},
 		{
 			"animation": "[Default]",
@@ -552,7 +695,7 @@
 
 			],
 			"portrait": "",
-			"question": "Even though he says that, you can tell he’s a bit tense."
+			"question": "Despite saying that, he’s a bit tense."
 		},
 		{
 			"choice": "“I’ll stargaze with you.”",
@@ -568,6 +711,18 @@
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All the tension leaves Raj’s shoulders."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "I won’t stop you."
 		},
 		{
 			"character": "",
