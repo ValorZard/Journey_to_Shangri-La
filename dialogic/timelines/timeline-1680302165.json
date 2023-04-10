@@ -355,6 +355,27 @@
 			"text": "Flames were crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls. \nIn desperation, Hiroshi swung the leaf fan, but there was no wind. Not even a slight breeze. \nHe frantically waved it back and forth rapidly, but the fan showed no signs of its former power."
 		},
 		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "Hiroshi_Mad",
@@ -375,6 +396,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "His eyes scanned what little was left as he exited the monastery, passing his soldiers and the captured monks. \n[i]Ancient artifact…Beyuls…Sun Wukong…[/i]\nNothing he could make sense of.\nHe cried out in anger, whipping out his rifle and killing one of the monks in a blind fit. "
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677556264.json",
