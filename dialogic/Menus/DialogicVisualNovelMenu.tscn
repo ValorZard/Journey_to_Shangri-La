@@ -209,7 +209,7 @@ Game = NodePath("../../Game")
 [node name="StatsMenu" type="Control" parent="Menus/MenuContainer"]
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_left = 855.0
+margin_left = 798.0
 margin_top = 10.0
 margin_right = -11.0
 margin_bottom = -481.0
@@ -233,10 +233,10 @@ margin_bottom = 40.0
 anchor_right = 0.627
 anchor_bottom = 1.009
 margin_left = 59.0
-margin_right = 58.934
-margin_bottom = 0.0189896
+margin_right = 79.195
+margin_bottom = 0.0190048
 custom_fonts/normal_font = SubResource( 17 )
-text = "Kind: 0
+text = "Kindness: 0
 Bravery: 0
 Smarts: 0
 Charm: 0"
