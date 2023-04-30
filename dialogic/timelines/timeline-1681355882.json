@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/Ship.png",
+			"background": "res://Echo/Backgrounds/Hawaii_Cell_In.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -412,6 +412,10 @@
 			"z_index": 0
 		},
 		{
+			"background": "res://Echo/Backgrounds/Hawaii_Cell_Out.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -762,6 +766,69 @@
 			"text": "Come on, let’s go!"
 		},
 		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -799,7 +866,470 @@
 			"value": ""
 		},
 		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_sad_W_soot",
+			"text": "The amulet is important to Professor Allwright, Raj. It’s a relic–we can’t just leave it in the hands of some Mafia!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods eagerly."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "I knew you understood me, [YOUR NAME]!"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Fine, then. But we have to be very careful, alright?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The three of you sneak through the compound, eyes peeled and ears pricked for guards.\nYou have to find the amulet, as quickly as possible."
+		},
+		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eventually, the three of you tiptoe by a room with its door propped open. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You can’t pass without them possibly seeing you."
+		},
+		{
+			"choice": "Peek into the room.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take a chance and peek into the room. There are two men here, one facing the door and the other with his back to it.\nGood thing you looked. It’d be too dangerous to run past an open door."
+		},
+		{
+			"choice": "Continue to sneak pass.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You take a step forward–"
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear movement in the room, steps hurrying to the door.\nThe three of you run back the way you came and hide around the corner of the hall. Two buff men stride out of the room and look around."
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thought I saw something."
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, you did get only three hours of sleep last night. I [i]told[/i] you not to take the night patrol."
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shut up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They walk back into the room, the door even more open now.\nYou must wait for them to leave before passing the door, lest they see you [i]for sure[/i]."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You signal for Raj and the Professor to wait, and listen in on the men:"
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "–-miracle that we found someone the Japanese want."
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. Who knew the Japanese were into this “beyul” bullshit?"
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah. Who knew the Japanese were into this “beyul” bullshit?"
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, what’s a beyul anyway?"
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ever heard of the mythical city of Shangri-La? Like El Dorado but in Asia, or Atlantis… but in Asia. \nThat’s how the old guy explained it, remember?"
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have a clue why the Japanese would be interested in this drivel?"
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Probably something to do with weapons–you know the usual with every country–but hey, money’s money, right?"
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ha, we’re gonna be so [i]rich[/i]."
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " Anyways, I’m starved. Let’s get some grub."
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is this thing safe here?"
+		},
+		{
+			"character": "character-1682837104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, who would steal a piece of junk?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You shoot a look at Raj and the Professor. \nRaj looks confused, but the Professor is… [i]horrified[/i].\n\nThe two men walk out of the room.\nYou take this opportunity to continue down the hall, peeking into the open room as you sneak past.\nOn the table, you spot the amulet!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "The amulet!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor rushes inside and reunites with the piece of jewelry. He hugs it, then places it securely in his pocket."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "I’d say you are very lucky, Howard… if I even believed in luck."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You give the Professor a thumbs up.\nTogether, you find another exit with no guards and run outside.\nOnce outside, however, the guards stationed there notice you."
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " HEY!"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You frantically run. You and Raj run just fine, but the Professor seems to be falling behind, every breath of his more like a wheeze."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, Juan appears and joins you. \nHe supports the Professor with one arm, eventually catching up with you and Raj."
+		},
+		{
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_001",
+			"portrait": "JUAN_HAPPY",
+			"text": "Haha, turns out they didn’t like me very much… and me freeing you either! Now they’re out for my guts."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "Good for you, Juan. Now you know how it feels to be one of us!"
+		},
+		{
+			"background": "res://Echo/Backgrounds/Hawaii.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You all run through the streets of Honolulu towards the ship you had just left yesterday–and somehow manage to get on board before anyone can grab you.\nJuan runs along with you, hiding among the members of your party as you board the ship, just managing to slip away from the Mafia.\nJust as the ship begins to depart, the Mafia catches up."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Ship.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1682837047.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey! Stop this ship! You have stowaways!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They continue to run along the side of the ship, shouting at it–\nbut the ship only blares its signal, completely drowning them out.\nEveryone breathes a sigh of relief as you all try to decompress from just escaping with your lives.\nJuan exhaustedly follows the three–"
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "–-Four of you to your cabin."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		}
 	],
 	"metadata": {
