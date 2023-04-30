@@ -1198,13 +1198,13 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "So, as I was saying, we would love to have faster passage to where we need to go!"
+			"text": "So, as I was saying, we would love to have a faster passage to Kolkata!"
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Happy_Professor",
-			"text": "Exciting discoveries need to be made, and we have to go as soon as possible, by boat through Tokyo, Japan, then make arrangements for us to drop by Kolkata for my good colleague Raj’s marriage."
+			"text": "Exciting discoveries need to be made, and we have to go as soon as possible, as we are making arrangements for us to drop by Kolkata for my good colleague Raj’s marriage."
 		},
 		{
 			"character": "",
@@ -1418,7 +1418,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There was no other way that the two of them could make it to Kolkata and the beyuls in Tibet without them. They would make the journey far easier.\nAs much as the situation was odd, the best thing to do was to trust these people."
+			"text": "There was no other way that you all could make it to Kolkata and the beyuls in Tibet without them. They would make the journey far easier.\nAs much as the situation was odd, the best thing to do was to trust these people."
 		},
 		{
 			"character": "character-1677555513.json",
@@ -1460,7 +1460,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The last things you remember are the worried expletives of Juan as he runs towards you."
+			"text": "The last things you remember are Juan’s worried expletives as he runs towards you."
 		},
 		{
 			"background": "res://Echo/Backgrounds/Black Screen.jpg",

@@ -1280,7 +1280,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You all run through the streets of Honolulu towards the ship you had just left yesterday–and somehow manage to get on board before anyone can grab you.\nJuan runs along with you, hiding among the members of your party as you board the ship, just managing to slip away from the Mafia.\nJust as the ship begins to depart, the Mafia catches up."
+			"text": "You all run through the streets of Honolulu towards the ship you had just left yesterday–and somehow manage to get on board before anyone can grab you.\nYou don’t know where it’s taking you, but it’s better than staying with the Mafia.\nJuan runs along with you, hiding among the members of your party as you board the ship, just managing to slip away from the Mafia.\nJust as the ship begins to depart, the Mafia catches up."
 		},
 		{
 			"background": "res://Echo/Backgrounds/Ship.png",
@@ -1311,6 +1311,10 @@
 			"text": "–-Four of you to your cabin."
 		},
 		{
+			"background": "res://Echo/Backgrounds/Ship bedroom.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
@@ -1319,7 +1323,168 @@
 			"character": "character-1677554507.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "Default",
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You are with the Professor, Raj, Juan, and Soot in your cabin–all of you catching your breath."
+		},
+		{
+			"choice": "Check on Soot.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You had been holding Soot tightly all along, and finally you let them walk around and stretch."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Sad",
+			"text": "How are you, Soot?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot blinks up at you."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meowwww[/i]."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Happy_W_soot",
+			"text": "Good, Soot. I’m glad."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You pet Soot’s head."
+		},
+		{
+			"choice": "Check on the Professor.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor is collapsed on the carpet, wheezing."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Neutral_W_soot",
+			"text": "Are you okay, Professor?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1329,6 +1494,209 @@
 				"4": false
 			},
 			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He nods exhaustedly and smiles, holding up the amulet."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "At least I have this!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You pat the Professor on the back and get him a glass of water."
+		},
+		{
+			"choice": "Check on Raj.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj is catching his breath and wiping the sweat off his brow with a handkerchief."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Neutral_W_soot",
+			"text": "Raj, are you okay?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Relatively."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Default",
+			"question": "Are [i]you[/i] okay?"
+		},
+		{
+			"choice": "“I’m exhausted, but glad we made it out.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "Me too."
+		},
+		{
+			"choice": "“Yeah, I’m glad the Professor got the amulet back.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "Raj: You have a good heart, [YOUR NAME]. That’s rare, nowadays."
+		},
+		{
+			"choice": "“Very much so, thanks to you.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"definition": "1676256284-918",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "No need to thank me. Thank your own sharp mind."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
 			"z_index": 0
 		}
 	],
