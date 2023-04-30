@@ -792,7 +792,7 @@
 			"text": "The three of you sneak away from the exit, eyes peeled and ears pricked for guards.\nYou have to find another exit, as quickly as possible."
 		},
 		{
-			"choice": "",
+			"choice": "Side with the Professor.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
