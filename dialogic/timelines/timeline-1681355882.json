@@ -77,7 +77,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "DATE: FEBRUARY 1937\nLOCATION: ???\nYou wake up on a cold, hard floor. \nAs you slowly get up and rub your tired eyes, only to come face to face with iron bars."
+			"text": "DATE: FEBRUARY 1937\nLOCATION: ???\nYou wake up on a cold, hard floor. \nYou slowly get up and rub your tired eyes, only to come face to face with iron bars."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -668,8 +668,8 @@
 			"change_z_index": false,
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"mirror_portrait": true,
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -686,6 +686,120 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Amigos, no need to get violent! I assure you, nothing’s wrong!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You have to make a decision quickly!"
+		},
+		{
+			"choice": "Side with Raj.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I agree with Raj. We need to get out of here as soon as possible. They could kill us!"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "I knew you had sense, [YOUR NAME]."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "But, my research…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Neutral_W_soot",
+			"text": " It’s okay, Professor. Maybe we’ll find some other artifact once we arrive at the beyuls."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I doubt it…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Raj grabs both of your hands."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come on, let’s go!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You all start running for the exit down the hall, when you spot two guards flanking the door."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Damn it! We can’t go that way."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We need to find another way out."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quietly, now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The three of you sneak away from the exit, eyes peeled and ears pricked for guards.\nYou have to find another exit, as quickly as possible."
+		},
+		{
+			"choice": "",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
