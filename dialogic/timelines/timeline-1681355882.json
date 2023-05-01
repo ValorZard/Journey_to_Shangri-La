@@ -1311,19 +1311,15 @@
 			"text": "–-Four of you to your cabin."
 		},
 		{
-			"background": "res://Echo/Backgrounds/Ship bedroom.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
-			"character": "character-1677554507.json",
+			"character": "[All]",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": true,
@@ -1332,19 +1328,53 @@
 				"3": false,
 				"4": false
 			},
-			"type": 2,
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1.5
+		},
+		{
+			"background": "res://Echo/Backgrounds/Ship bedroom.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677554507.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
 			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1353,19 +1383,19 @@
 				"3": false,
 				"4": true
 			},
-			"type": 2,
+			"type": 0,
 			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1374,19 +1404,19 @@
 				"3": false,
 				"4": false
 			},
-			"type": 2,
+			"type": 0,
 			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1395,7 +1425,7 @@
 				"3": true,
 				"4": false
 			},
-			"type": 2,
+			"type": 0,
 			"z_index": 0
 		},
 		{
@@ -1679,15 +1709,20 @@
 			"z_index": 0
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "MC_Neutral_W_soot",
+			"portrait": "(Don't change)",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -1696,7 +1731,7 @@
 				"3": false,
 				"4": false
 			},
-			"type": 0,
+			"type": 2,
 			"z_index": 0
 		}
 	],
