@@ -1,0 +1,389 @@
+{
+	"events": [
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: FEBRUARY 1937"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LOCATION: TOKYO, JAPAN"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi grumbles as he flips through a thick tomb of thin pages with not a single hint about the banana leaf fan."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A glance at the stack of books on his desk tells him he’s going to have a long night."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then, he hears a knock on his door."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come in."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi looks up and stiffens at the sight of the imposing silhouette in the doorway."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Hiroshi_happy_hat",
+			"text": "Father."
+		},
+		{
+			"character": "character-1682965672.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It is just us, there is no need for that."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi swiftly reaches for his chair, pulling it back in offering."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After all that you’ve done for me, it would be wrong not to, [i]sir[/i]. "
+		},
+		{
+			"character": "character-1682965672.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I will not be staying long."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He watches intently as the man he had long looked up to approaches, his eyes scanning the pages of the open books. "
+		},
+		{
+			"character": "character-1682965672.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If I asked you to bring forth a hurricane, would you be able to do it?"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Not yet, sir."
+		},
+		{
+			"character": "character-1682965672.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not yet, hm?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi didn’t like the hint of disappointment in his voice. This man had taken him in when his parents died, raised him on good moral values, trained him, disciplined him.\nHe couldn’t disappoint him."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Hiroshi_happy_hat",
+			"text": "Yes, but I have discovered clues you might be interested in."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi flips through the books rapidly. "
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And what would that be?"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hidden valleys, [i]sacred[/i] valleys known as ‘beyuls’. It seems that the secrets of the fan and other artifacts are all there. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He flips through another couple pages and points out certain passages, glancing at Father each time. \nFather hums and nods as he receives the information. \nHe looks expectantly towards Hiroshi."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But nothing about how to get the fan to work again?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi meets his father figure’s gaze for a moment, as if searching for something."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "No."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The elder man sighs and places a hand firmly on Hiroshi’s shoulder.\nHiroshi averts his eyes, but a firm shake from Father makes him look up."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do not seek to impress me. Seek to become a man that our [i]country[/i] can be proud of."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The stomp of Hiroshi’s foot as he stood at attention resonated throughout the office. \nHe nods resolutely."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For the Empire."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For the Empire."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nHis father’s grip on his shoulder tightens. "
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That being said, we cannot claim to have all the information in the world. \nBut we make it our goal to be able to do so."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, the elder man leans in close to Hiroshi’s ear."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do not forget that Japan’s power consists of more than its military.\nExpand your reach. Expand our influence. Make Japan proud."
+		},
+		{
+			"background": "res://Echo/Backgrounds/Cargo Ship.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi stood by the port, looking out over the Pacific.\nWhen he hears multiple footsteps approach from behind, he turns around.\nThere stood three gruff men, undoubtedly with weapons concealed.\nThey likely had more people hidden nearby in case anything were to happen.\nHiroshi was no fool, especially not when it came to the mafia. \nPrior to the meeting, he had arranged for subordinate officers to be stationed in the area."
+		},
+		{
+			"character": "character-1682966980.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have you got the down payment?"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am a man of my word.\nAnd for your sake, I hope you are too."
+		},
+		{
+			"character": "character-1682966980.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph.\nYou want us to track down anyone who knows about these [i]‘b-rolls’[/i]?"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Beyuls[/i]. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi stares down the mafiosos, to ensure they understood the weight of this assignment."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You folks have an advantage when it comes to dealing outside Japan.\nIf you can provide this service to your country, we might turn a blind eye to a few things."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The mafiosos glanced between themselves."
+		},
+		{
+			"character": "character-1682966980.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And the money?"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi pulled out an envelope, which the Mafioso swiped from him hastily.\nHe immediately flipped it open, counting the bills.\nWhen he looked up at Hiroshi again, slight displeasure was visible in his expression."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t get too greedy."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The mafioso clicked his tongue, but tucked the envelope into his clothes."
+		},
+		{
+			"character": "character-1682966980.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve got yourself a deal, military man."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682964819.json",
+		"name": "Hiroshi LA"
+	}
+}
