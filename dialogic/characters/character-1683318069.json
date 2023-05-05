@@ -3,19 +3,19 @@
 	"description": "",
 	"display_name": "",
 	"display_name_bool": false,
-	"id": "character-1677556412.json",
+	"id": "character-1683318069.json",
 	"mirror_portraits": false,
-	"name": "Soldier",
+	"name": "Banana Fan",
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
-	"offset_y": 120,
+	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Helena/NPCs/JapaneseSoldier.PNG"
+			"path": "res://Helena/Props/banana_fan.PNG"
 		}
 	],
-	"scale": 25,
+	"scale": 40,
 	"theme": ""
 }

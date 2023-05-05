@@ -90,7 +90,7 @@
 			"animation_length": 1,
 			"animation_repeat": 2,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_002",
@@ -130,7 +130,7 @@
 			"animation_length": 1,
 			"animation_repeat": 2,
 			"change_mirror_portrait": false,
-			"change_position": false,
+			"change_position": true,
 			"change_z_index": false,
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_002",
@@ -160,6 +160,26 @@
 			"text": "To his left, Hiroshi saw the last of his soldiers desperately shooting at the monks. \nThe monk with the leaf swung it again, creating another impossibly strong gust of wind. "
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1677556412.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -176,6 +196,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "As the soldier scrambled off to call for help, Hiroshi turned back to find all the monks watching him. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677556264.json",
@@ -266,10 +306,57 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683318069.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "At the center of the monastery, Hiroshi found a monk standing behind the leaf fan and muttering rapidly. \nThe fan was suspended in mid-air as if by wind… or [i]magic[/i].  It emitted a bright light, the wind starting to violently churn all around it."
+			"text": "At the center of the monastery, Hiroshi found a monk standing behind the leaf fan and muttering rapidly. "
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 2,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683318069.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The fan was suspended in mid-air as if by wind… or [i]magic[/i].  It emitted a bright light, the wind starting to violently churn all around it."
 		},
 		{
 			"character": "character-1677556264.json",
@@ -282,6 +369,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The monk refused to stop chanting. Hiroshi raised his rifle and took aim. \nThe moment he pulled the trigger, the light and wind ceased, and in the next, so did the monk. \nHiroshi picked up the leaf fan that had now fallen to the floor. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1683318069.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
@@ -352,7 +460,62 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Flames were crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls. \nIn desperation, Hiroshi swung the leaf fan, but there was no wind. Not even a slight breeze. \nHe frantically waved it back and forth rapidly, but the fan showed no signs of its former power."
+			"text": "Flames were crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls."
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 2,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683318069.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In desperation, Hiroshi swung the leaf fan, but there was no wind. Not even a slight breeze. "
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"animation_repeat": 2,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683318069.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He frantically waved it back and forth rapidly, but the fan showed no signs of its former power."
 		},
 		{
 			"animation": "shake_x.gd",
@@ -380,6 +543,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "Hiroshi_Mad",
 			"text": "What did you do? What did you [i]do[/i]?!?! "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683318069.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "",
