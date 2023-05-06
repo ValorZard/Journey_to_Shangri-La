@@ -332,7 +332,7 @@
 			"text": "At the center of the monastery, Hiroshi found a monk standing behind the leaf fan and muttering rapidly. "
 		},
 		{
-			"animation": "shake_x.gd",
+			"animation": "shake_y.gd",
 			"animation_length": 2,
 			"change_mirror_portrait": false,
 			"change_position": false,
@@ -392,7 +392,7 @@
 			"z_index": 0
 		},
 		{
-			"animation": "[Default]",
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": false,
@@ -437,9 +437,10 @@
 			"text": "However, as Hiroshi waited for the monks to be brought into the monastery, a fresh burning smell prompted him to turn around."
 		},
 		{
-			"animation": "[Default]",
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": false,
 			"change_z_index": false,
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_002",
@@ -453,7 +454,7 @@
 				"3": false,
 				"4": false
 			},
-			"type": 0,
+			"type": 2,
 			"z_index": 0
 		},
 		{

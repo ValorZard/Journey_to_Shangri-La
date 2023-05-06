@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1683346205.json",
+	"mirror_portraits": false,
+	"name": "LA Interlude3",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 75,
+	"offset_y": -35,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Helena/LA_Interlude/LA_Interlude_ Panel3.PNG"
+		}
+	],
+	"scale": 75,
+	"theme": ""
+}
