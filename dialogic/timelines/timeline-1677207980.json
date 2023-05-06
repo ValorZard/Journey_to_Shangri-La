@@ -49,13 +49,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s the perfect opportunity to get out before Father finds you."
+			"text": "The rain and wind will cover your tracks and sounds."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The rain and wind will cover your tracks and sounds."
+			"text": "It’s the perfect opportunity to get out before Father finds you."
 		},
 		{
 			"character": "",
@@ -100,7 +100,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You take a measured breath. As much as you loved your father, you knew staying here wasn’t going to help. \nYou can never mold yourself to his expectations–you simply can’t change who you are.\nYou set the letter you had written for him on your desk. No matter how many times you had told him that you couldn’t change, he kept insisting, kept trying to “fix” you.\nHopefully after you’re gone, he will understand."
+			"text": "You take a measured breath. As much as you loved your father, you knew staying here wasn’t going to help. \nYou could never mold yourself to his expectations–you simply couldn’t change who you are.\nYou set the letter you had written for him on your desk. No matter how many times you had told him that you couldn’t change, he kept insisting, kept trying to “fix” you.\nHopefully, after you’re gone, he will understand."
 		},
 		{
 			"character": "character-1677208371.json",
@@ -112,7 +112,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Years ago, Father had helped Roger–one of the young men in your church–by sending him away. The church thanked God for “saving” him from the Devil."
+			"text": "Years ago, Father had helped Roger—one of the young men in your church—by sending him away. The church thanked God for “saving” him from the Devil."
 		},
 		{
 			"character": "",
@@ -233,7 +233,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You hush yourself.\nJust like before, no amount of words were going to convince him otherwise."
+			"text": "You hush yourself.\nJust like before, no amount of words are going to convince him otherwise."
 		},
 		{
 			"choice": "Stay quiet.",
@@ -496,7 +496,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Adrenaline rushes through your veins, and you force yourself to run and [i]keep running or else he’ll catch you, force you to be \"cured\"–[/i]"
+			"text": "Adrenaline rushes through your veins, and you force yourself to run and [i]keep running or else he’ll catch you, force you to be \"cured\"—[/i]"
 		},
 		{
 			"animation": "flash.gd",
@@ -580,7 +580,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Father is covering his eyes, as if he can’t see."
+			"text": "Father is covering his eyes as if it hurts to see."
 		},
 		{
 			"character": "",
@@ -673,7 +673,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You can’t stop shaking. It’s cold. The sky flashes with lightning. Thunder and rain roars around you."
+			"text": "You can’t stop shaking. It’s cold. The sky flashes with lightning. Thunder and rain roar around you."
 		},
 		{
 			"character": "",
@@ -743,7 +743,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Once the box reaches the rain, it releases another meow and turns around, slowly making its way towards you. It walks into the leg of your bench."
+			"text": "Once the box reaches the rain, it releases another meow and turns around, slowly making its way toward you. It walks into the leg of your bench."
 		},
 		{
 			"character": "",
@@ -762,7 +762,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Once the box reaches the rain, it releases another meow and turns around, slowly making its way towards you. It walks into the leg of your bench."
+			"text": "Once the box reaches the rain, it releases another meow and turns around, slowly making its way toward you. It walks into the leg of your bench."
 		},
 		{
 			"character": "",
@@ -809,7 +809,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It reaches its paws towards you. You gently cradle it in your hands and notice one of its legs, no more than a stump, is bleeding."
+			"text": "It reaches its paws toward you. You gently cradle it in your hands and notice one of its legs, no more than a stump, is bleeding."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -818,9 +818,29 @@
 			"text": "!!!"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_sad_W_soot",
 			"text": "Oh no, you’re hurt. I'll help."
 		},
 		{
@@ -850,7 +870,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy_W_soot",
 			"text": "I think I’ll name you Soot."
 		},
 		{
