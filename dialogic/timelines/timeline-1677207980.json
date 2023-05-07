@@ -270,6 +270,42 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nFine, then. I will take matters into my own hands."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear the slide of Father’s belt, and the slight [i]slap[/i] as he tests its impact against his own palm.\nA warning sign."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Son, the Devil has taken a hold of you. Come here, and I’ll free you from his clutches.\nAs the Word says: “He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear the [i]smack[/i] of the belt against Father’s palm again."
+		},
+		{
+			"character": "character-1677208371.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is for your own good, my son."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This was all too familiar. You still feel the bruises from the other times he had “disciplined” you."
+		},
+		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -514,7 +550,7 @@
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m not going to hurt you, [YOUR NAME]! Please, come back!"
+			"text": "Please, come back to God!"
 		},
 		{
 			"character": "",
