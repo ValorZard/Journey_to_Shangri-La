@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/lightningstrike1.ogg-40511607f0b184a908379e5a634c8660.oggstr"
+
+[deps]
+
+source_file="res://Echo/Music/lightningstrike1.ogg"
+dest_files=[ "res://.import/lightningstrike1.ogg-40511607f0b184a908379e5a634c8660.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=24.0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hiroshiLAfather1.ogg-aca8d1cad93d3de18a736a458bf81676.oggstr"
+
+[deps]
+
+source_file="res://Echo/Music/hiroshiLAfather1.ogg"
+dest_files=[ "res://.import/hiroshiLAfather1.ogg-aca8d1cad93d3de18a736a458bf81676.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

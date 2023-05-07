@@ -10,7 +10,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://Echo/Music/tense_intro1.mp3",
+			"file": "res://Echo/Music/hiroshiprologue1.ogg",
 			"volume": 0
 		},
 		{
@@ -371,7 +371,7 @@
 			"text": "The monk refused to stop chanting. Hiroshi raised his rifle and took aim. \nThe moment he pulled the trigger, the light and wind ceased, and in the next, so did the monk. \nHiroshi picked up the leaf fan that had now fallen to the floor. "
 		},
 		{
-			"animation": "[No Animation]",
+			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": true,
@@ -388,7 +388,7 @@
 				"3": false,
 				"4": false
 			},
-			"type": 2,
+			"type": 1,
 			"z_index": 0
 		},
 		{
@@ -464,53 +464,10 @@
 			"text": "Flames were crawling up from where he had killed the monk, eating away shelves of books and scrolls along the walls."
 		},
 		{
-			"animation": "shake_x.gd",
-			"animation_length": 2,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1683318069.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "In desperation, Hiroshi swung the leaf fan, but there was no wind. Not even a slight breeze. "
-		},
-		{
-			"animation": "shake_x.gd",
-			"animation_length": 1,
-			"animation_repeat": 2,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1683318069.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
 		},
 		{
 			"character": "",
@@ -544,26 +501,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "Hiroshi_Mad",
 			"text": "What did you do? What did you [i]do[/i]?!?! "
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1683318069.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 1,
-			"z_index": 0
 		},
 		{
 			"character": "",

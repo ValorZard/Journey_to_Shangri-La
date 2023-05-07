@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hiroshiprologue1.ogg-c222ebe879e293c383e11800f784ead5.oggstr"
+
+[deps]
+
+source_file="res://Echo/Music/hiroshiprologue1.ogg"
+dest_files=[ "res://.import/hiroshiprologue1.ogg-c222ebe879e293c383e11800f784ead5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

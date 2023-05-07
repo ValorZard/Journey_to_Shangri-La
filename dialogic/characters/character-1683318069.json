@@ -9,13 +9,13 @@
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
-	"offset_y": 0,
+	"offset_y": -70,
 	"portraits": [
 		{
 			"name": "Default",
 			"path": "res://Helena/Props/banana_fan.PNG"
 		}
 	],
-	"scale": 40,
+	"scale": 15,
 	"theme": ""
 }
