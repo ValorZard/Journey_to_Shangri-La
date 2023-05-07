@@ -67,7 +67,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He was destined for glory, and would remove anything that stood in his way."
+			"text": "He was destined for glory and would remove anything that stood in his way."
 		},
 		{
 			"background": "res://Echo/Backgrounds/Temple.png",
@@ -83,7 +83,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi arrived at the top of the hill to the monastery, but  was thrown onto the ground when one of his soldiers flew right into him."
+			"text": "Hiroshi arrived at the top of the hill to the monastery but was thrown onto the ground when one of his soldiers flew right into him."
 		},
 		{
 			"animation": "shake_x.gd",
@@ -239,7 +239,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "For people who value peace, they were surprisingly skilled at hand to hand combat, redirecting each and every one of Hiroshi’s attempts to shoot them. \nNot to mention that they outnumbered him. "
+			"text": "For people who value peace, they were surprisingly skilled at hand-to-hand combat, redirecting each and every one of Hiroshi’s attempts to shoot them. \nNot to mention that they outnumbered him. "
 		},
 		{
 			"character": "character-1677556264.json",
@@ -272,13 +272,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He stumbled backwards breathlessly after a monk delivered a blow to his diaphragm."
+			"text": "He stumbled backward, breathless after a monk delivered a blow to his diaphragm."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Reinforcements pushed the monks back steadily. At this moment, Hiroshi saw that the light coming from the monastery was more intense than before.\nHe jumped to his feet and dashed towards the monastery, towards the light. "
+			"text": "Reinforcements pushed the monks back steadily. At this moment, Hiroshi saw that the light coming from the monastery was more intense than before.\nHe jumped to his feet and dashed toward the monastery, toward the light. "
 		},
 		{
 			"animation": "shake_x.gd",
@@ -506,7 +506,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi ran towards the deceased monk, as if he would get answers, eyes darting around the monastery for an explanation. \nThen, on a table behind the monk, he glimpsed a drawing of the fan gracing the pages of a burning manuscript. \nWithout hesitation, he reached for it, throwing it onto the floor and stomping out the fire. \nThe manuscript was still hot when he picked it up, but he didn’t care. \nHe needed to know what the monk had done to the fan. "
+			"text": "Hiroshi ran toward the deceased monk as if he could get answers from the slumped body, eyes darting around the monastery for an explanation. \nThen, on a table behind the monk, he glimpsed a drawing of the fan gracing the pages of a burning manuscript. \nWithout hesitation, he reached for it, throwing it onto the floor and stomping out the fire. \nThe manuscript was still hot when he picked it up, but he didn’t care. \nHe needed to know what the monk had done to the fan. "
 		},
 		{
 			"background": "res://Echo/Backgrounds/Temple.png",
@@ -516,7 +516,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "His eyes scanned what little was left as he exited the monastery, passing his soldiers and the captured monks. \n[i]Ancient artifact…Beyuls…Sun Wukong…[/i]\nNothing he could make sense of.\nHe cried out in anger, whipping out his rifle and killing one of the monks in a blind fit. "
+			"text": "His eyes scanned what little was left as he exited the monastery, passing his soldiers and the captured monks. \n[i]Ancient artifact… Beyuls… Sun Wukong…[/i]\nNothing he could make sense of.\nHe cried out in anger, whipping out his rifle and killing one of the monks in a blind fit. "
 		},
 		{
 			"animation": "shake_x.gd",
