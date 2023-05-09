@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1683621901.json",
+	"mirror_portraits": false,
+	"name": "Amulet",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": -150,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Helena/Props/amulet.PNG"
+		}
+	],
+	"scale": 5,
+	"theme": ""
+}

@@ -912,6 +912,26 @@
 			"text": "Understandable, understandable."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683621901.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -921,25 +941,69 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Happy_Professor",
-			"text": "This amulet is [i]magical[/i]. I am [i]convinced[/i] it’s connected to the [i]Journey to the West[/i]! My colleague, Raj, found this nearby the sacred valleys of Tibet! \nThere must be some treasure hidden within this priceless artifact. It’s the discovery of a lifetime."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Sad_Professor",
-			"text": "If I can even [i]open[/i] it."
+			"text": "This amulet is [i]magical[/i]. It was given to me by a former colleague. We both desired to find the sacred valleys of Tibet together, but alas…"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The Professor tries to pry open the amulet’s center, to no avail.\nHe sighs."
+			"text": "The Professor grows quiet for a moment, as if staring at the amulet conjured happy, long-gone memories."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "We went on countless research expeditions together, through thick and thin! He was my closest mate–and we were about to embark on a journey to find the beyuls in Tibet together when…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor shakes his head."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Everyone thinks my research is crazy, and all the youngsters are busy going out and about nowadays. No one’s interested in good old anthropological research!"
+			"text": "During his last moments, he pressed this amulet into my hands and told me:\n“Find it, Howard. Don’t give up our dream. Use the amulet…”\nI never heard what he said next.\n…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Anyway–I’m telling you this amulet is [i]magical[/i]! It’s hard to explain, but I just know it!\nI hope to discover the amulet’s secrets someday…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sighs."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone thinks my research is crazy–well, except my current colleague, Raj, but he’s in India–and all the youngsters are busy going out and about nowadays. No one’s interested in good old anthropological research!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683621901.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676265223.json",
