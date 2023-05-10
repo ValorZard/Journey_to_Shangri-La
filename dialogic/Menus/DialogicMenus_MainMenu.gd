@@ -28,6 +28,10 @@ func _on_NewGame_Button_pressed():
 func _on_LoadGame_Button_pressed():
 	hide()
 	get_parent().get_node("SubMenus").open_load_menu()
+	
+func _on_ChapSelect_Button_pressed():
+	hide()
+	get_parent().get_node("SubMenus").open_chapselect_menu()
 
 func _on_Settings_Button_pressed():
 	hide()

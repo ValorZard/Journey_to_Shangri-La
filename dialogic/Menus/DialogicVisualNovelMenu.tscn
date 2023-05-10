@@ -1,4 +1,4 @@
-[gd_scene load_steps=33 format=2]
+[gd_scene load_steps=34 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://dialogic/Menus/BackgroundImage.jpg" type="Texture" id=2]
@@ -15,6 +15,7 @@
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/Overlock/Overlock-Regular.ttf" type="DynamicFontData" id=13]
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultItalicFont.tres" type="DynamicFont" id=14]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/NotoSans-Regular.ttf" type="DynamicFontData" id=15]
+[ext_resource path="res://dialogic/Menus/DialogicMenus_ChapSelectMenu.gd" type="Script" id=16]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -393,6 +394,11 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="ChapSelectMenu" type="Control" parent="Menus/MenuContainer/SubMenus/MenuContent"]
+margin_right = 40.0
+margin_bottom = 40.0
+script = ExtResource( 16 )
+
 [node name="SettingsMenu" type="Control" parent="Menus/MenuContainer/SubMenus/MenuContent"]
 visible = false
 anchor_right = 1.0
@@ -555,10 +561,21 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Settings_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
+[node name="ChapSelect_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
 margin_top = 189.0
 margin_right = 220.0
 margin_bottom = 226.0
+text = "Select Chapter"
+flat = true
+align = 0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Settings_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
+margin_top = 230.0
+margin_right = 220.0
+margin_bottom = 267.0
 text = "Settings"
 flat = true
 align = 0
@@ -567,9 +584,9 @@ __meta__ = {
 }
 
 [node name="Credits_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 230.0
+margin_top = 271.0
 margin_right = 220.0
-margin_bottom = 267.0
+margin_bottom = 308.0
 text = "Credits"
 flat = true
 align = 0
@@ -578,9 +595,9 @@ __meta__ = {
 }
 
 [node name="Quit_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 271.0
+margin_top = 312.0
 margin_right = 220.0
-margin_bottom = 308.0
+margin_bottom = 362.0
 text = "Quit"
 flat = true
 align = 0
@@ -589,16 +606,16 @@ __meta__ = {
 }
 
 [node name="HSeparator" type="HSeparator" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 312.0
+margin_top = 366.0
 margin_right = 220.0
-margin_bottom = 362.0
+margin_bottom = 403.0
 custom_constants/separation = 50
 custom_styles/separator = SubResource( 13 )
 
 [node name="ResumeGame_Button" type="Button" parent="Menus/MenuContainer/SubMenus/Buttons"]
-margin_top = 366.0
+margin_top = 407.0
 margin_right = 220.0
-margin_bottom = 403.0
+margin_bottom = 444.0
 text = "Resume"
 flat = true
 align = 0
@@ -671,10 +688,22 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Settings_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
+[node name="ChapSelect_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 166.0
 margin_right = 256.0
 margin_bottom = 203.0
+size_flags_vertical = 3
+text = "Select Chapter"
+flat = true
+align = 0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Settings_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
+margin_top = 213.0
+margin_right = 256.0
+margin_bottom = 250.0
 size_flags_vertical = 3
 text = "Settings"
 flat = true
@@ -684,9 +713,9 @@ __meta__ = {
 }
 
 [node name="Credits_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
-margin_top = 213.0
+margin_top = 260.0
 margin_right = 256.0
-margin_bottom = 250.0
+margin_bottom = 297.0
 size_flags_vertical = 3
 text = "Credits"
 flat = true
@@ -696,9 +725,9 @@ __meta__ = {
 }
 
 [node name="Quit_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
-margin_top = 260.0
+margin_top = 307.0
 margin_right = 256.0
-margin_bottom = 297.0
+margin_bottom = 344.0
 size_flags_vertical = 3
 text = "Quit"
 flat = true
@@ -883,12 +912,14 @@ autoplay = true
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/MainMenu_Button" to="Menus/MenuContainer/SubMenus" method="_on_MainMenu_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/SaveMenu_Button" to="Menus/MenuContainer/SubMenus" method="_on_SaveMenu_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/LoadMenu_Button" to="Menus/MenuContainer/SubMenus" method="_on_LoadMenu_Button_pressed"]
+[connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/ChapSelect_Button" to="Menus/MenuContainer/SubMenus" method="_on_ChapSelect_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/Settings_Button" to="Menus/MenuContainer/SubMenus" method="_on_Settings_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/Credits_Button" to="Menus/MenuContainer/SubMenus" method="_on_Credits_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/Quit_Button" to="Menus/MenuContainer/SubMenus" method="_on_Quit_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/SubMenus/Buttons/ResumeGame_Button" to="Menus/MenuContainer/SubMenus" method="_on_ResumeGame_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/MainMenu/Buttons/NewGame_Button" to="Menus/MenuContainer/MainMenu" method="_on_NewGame_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/MainMenu/Buttons/LoadGame_Button" to="Menus/MenuContainer/MainMenu" method="_on_LoadGame_Button_pressed"]
+[connection signal="pressed" from="Menus/MenuContainer/MainMenu/Buttons/ChapSelect_Button" to="Menus/MenuContainer/MainMenu" method="_on_ChapSelect_Button_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/MainMenu/Buttons/Settings_Button" to="Menus/MenuContainer/MainMenu" method="_on_Settings_Button_pressed"]
 [connection signal="toggled" from="Menus/MenuContainer/MainMenu/Buttons/Settings_Button" to="Menus/MenuContainer/LooseSaveWarning" method="_on_Settings_Button_toggled"]
 [connection signal="pressed" from="Menus/MenuContainer/MainMenu/Buttons/Credits_Button" to="Menus/MenuContainer/MainMenu" method="_on_Credits_Button_pressed"]

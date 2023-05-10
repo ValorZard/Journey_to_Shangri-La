@@ -122,6 +122,10 @@ dialogic_default_action={
  ]
 }
 
+[mono]
+
+project/assembly_name="Journey to Shangri-La"
+
 [physics]
 
 common/enable_pause_aware_picking=true

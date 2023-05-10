@@ -34,6 +34,16 @@ func open_load_menu():
 	current_menu = $MenuContent/LoadMenu
 	current_menu.open()
 
+func open_chapselect_menu():
+	if current_menu == $MenuContent/ChapSelectMenu: return
+	check_resume()
+	show()
+	hide_current()
+	$Buttons/MenuTitle.text = "Chapters"
+	$Buttons/ChapSelect_Button.grab_focus()
+	current_menu = $MenuContent/ChapSelectMenu
+	current_menu.open()
+
 func open_settings_menu():
 	if current_menu == $MenuContent/SettingsMenu: return
 	check_resume()
@@ -82,6 +92,9 @@ func _on_SaveMenu_Button_pressed():
 func _on_LoadMenu_Button_pressed():
 	open_load_menu()
 
+func _on_ChapSelect_Button_pressed():
+	open_chapselect_menu()
+
 func _on_Settings_Button_pressed():
 	open_settings_menu()
 
@@ -99,3 +112,4 @@ func _on_ResumeGame_Button_pressed():
 	current_menu = null
 	hide()
 	get_parent().resume_game()
+
