@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/LA_Interlude_ Panel2.PNG-25007178537f9935b71295d89b8d6228.stex"
+path="res://.import/LA_Interlude_ Panel3.PNG-5637a02ce0586fc725f68736ffe8cb79.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Helena/LA_Interlude/LA_Interlude_ Panel2.PNG"
-dest_files=[ "res://.import/LA_Interlude_ Panel2.PNG-25007178537f9935b71295d89b8d6228.stex" ]
+source_file="res://Echo/Backgrounds/LA_Interlude/LA_Interlude_ Panel3.PNG"
+dest_files=[ "res://.import/LA_Interlude_ Panel3.PNG-5637a02ce0586fc725f68736ffe8cb79.stex" ]
 
 [params]
 

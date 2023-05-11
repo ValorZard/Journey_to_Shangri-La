@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/JapaneseSoldier.PNG-69d46f7ac27060860e34c8aee61c5cfe.stex"
+path="res://.import/banana_fan.PNG-f47d325d3877e1f081830719d57d7d0d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Helena/NPCs/JapaneseSoldier.PNG"
-dest_files=[ "res://.import/JapaneseSoldier.PNG-69d46f7ac27060860e34c8aee61c5cfe.stex" ]
+source_file="res://Echo/Props/banana_fan.PNG"
+dest_files=[ "res://.import/banana_fan.PNG-f47d325d3877e1f081830719d57d7d0d.stex" ]
 
 [params]
 

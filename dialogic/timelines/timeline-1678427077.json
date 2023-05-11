@@ -111,7 +111,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The air is filled with the scent of the sea and the loud noises of vendors selling their wares."
+			"text": "The air is filled with the scent of the sea."
 		},
 		{
 			"character": "character-1676341130.json",
@@ -156,17 +156,45 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ugh, it’s so crowded here. Come on. Let’s get to our lodgings as soon as possible."
+			"text": "Come. Let's purchase our fares to Japan."
 		},
 		{
-			"character": "character-1676265223.json",
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ooh intriguing wares!!"
+			"text": "Soot leaps from your hands and runs off!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_shocked",
+			"text": "Soot!"
 		},
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
+			"animation_wait": false,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
 			"character": "character-1676265223.json",
@@ -187,6 +215,27 @@
 		{
 			"animation": "[Default]",
 			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 1,
 			"change_mirror_portrait": false,
 			"change_position": true,
 			"change_z_index": false,
@@ -206,15 +255,59 @@
 			"z_index": 0
 		},
 		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You immediately run off after her, hearing the Professor and Raj exclaim in alarm behind you."
+		},
+		{
+			"choice": "“Soot, where are you going!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Soot, come back!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Soooooooooooooooot!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot skillfully hops around the crowds of people walking along the port, running further and further inland.\nShe finally pounces upon a small mouse and digs her fangs into it.\nYou tut."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Happy",
+			"text": "Soot, you ran all this way for a mouse, huh?"
+		},
+		{
 			"animation": "[Default]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
-			"change_position": true,
 			"change_z_index": false,
-			"character": "character-1677847888.json",
+			"character": "character-1676341130.json",
 			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
+			"mirror_portrait": true,
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -223,134 +316,66 @@
 				"3": false,
 				"4": false
 			},
-			"type": 2,
+			"type": 0,
 			"z_index": 0
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Before you can react, the Professor wanders off into the market and disappears into the crowds."
+			"text": "Soot happily trods to you and deposits the mouse, terrified for its life and playing dead, at your feet."
 		},
 		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Howard!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Raj sighs."
-		},
-		{
-			"character": "character-1677847888.json",
+			"character": "character-1676341130.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "Come on, we have to find him before he gets into trouble. You [i]know[/i] how Howard is!"
+			"question": "[i]Meow.[/i]"
 		},
 		{
-			"choice": "“Let’s go!”",
+			"choice": "Pet Soot.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"definition": "1676256272-366",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You stick close to Raj, following him as he snakes through the Honolulu crowds."
-		},
-		{
-			"choice": "“The Professor can take care of himself.”",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256278-146",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
+			"text": "You laugh and pet Soot."
 		},
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let’s keep our distance, though."
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "We can keep an eye on him together."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Smart move. Stay close."
-		},
-		{
-			"choice": "“Want to… hold hands?”",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256284-918",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_Happy_W_soot",
-			"text": "So we don’t get separated in these dense crowds."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Raj looks slightly taken aback."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Sure."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You hold each other’s hand and dive into the crowds."
-		},
-		{
-			"event_id": "dialogic_013"
+			"text": "Thanks, Soot, but we really should be getting back to the others now.\nPick up your game, now."
 		},
 		{
 			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": false,
@@ -371,14 +396,60 @@
 			"z_index": 0
 		},
 		{
-			"animation": "[Default]",
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot happily carries the mouse in her mouth. You pick her up into your arms again."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you start to head back to the port, you hear a dim sound. Like… the sound of guitar strings.\nIt is a sweet melody–you can’t help but linger for a moment to listen to its end.\nIt’s coming from nearby…\nQuietly, you walk towards the music, spotting a young man sitting against a tree, strumming a guitar in his hands.\nSuddenly, the tune goes awry."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, that’s not it. Come on, I just have to believe–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young man strums the guitar again, but it sounds out of tune.\nHe shakes his head."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come on, I just have to try [i]harder[/i]–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He strums the guitar, and a discordant sound emerges, making Soot yelp in surprise at the unpleasant sound and drop her mouse.\nThe mouse squeaks and scurries away under the cover of grass."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow![/i]"
+		},
+		{
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
+			"change_position": false,
 			"change_z_index": false,
-			"character": "character-1677847888.json",
+			"character": "character-1676265208.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -387,11 +458,565 @@
 				"3": false,
 				"4": false
 			},
-			"type": 1,
+			"type": 2,
 			"z_index": 0
 		},
 		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot chases it around the grass."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "–Oh hi!"
+		},
+		{
 			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young man startles and scrambles to get up, quickly hiding his guitar behind his back. He smiles awkwardly."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Hey there."
+		},
+		{
+			"choice": "“Nice tune you were playing.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256284-918",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, a tune? What tune? Are you talking about this?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He brings his guitar out."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You heard it?"
+		},
+		{
+			"choice": "Nod.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young man goes red with embarrassment."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "JUAN_HAPPY",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was merely tuning it, that was all. Sometimes a beautiful melody comes out of tuning–it’s so magical!"
+		},
+		{
+			"choice": "Shake your head.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot runs towards the young man."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young man sighs in relief."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Good.[/i]\nThat tune you thought you heard must have been the wind, then. Haha."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"choice": "“Sorry about my cat.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hi there, kitty!"
+		},
+		{
+			"choice": "“Hello there.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hi there! Is this your cat?"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young man smiles and kneels to pick up Soot, who bounds right into his arms."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow.[/i]"
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries about your cat–I love animals."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What’s her name?"
+		},
+		{
+			"choice": "“Soot.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aww, what an adorable name!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I’m [YOUR NAME]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young man beams."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pleasure to meet you, [YOUR NAME]! I’m Mateo, Mateo Flores."
+		},
+		{
+			"choice": "\"[YOUR NAME].\"",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What a creative name for a cat!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m just kidding! That’s actually my name."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, then what a lovely name for a lovely guy like yourself!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m Mateo, Mateo Flores. Pleasure to meet you!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo hands Soot to you."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you lost? You don’t look like you’re from around here…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You look around. There’s grass and houses and trees. This… doesn’t look like a port anymore."
+		},
+		{
+			"choice": "“Yeah.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay, I’ll help you!"
+		},
+		{
+			"choice": "“I need a hero.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A… hero?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You nod."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(singing) I’m holding out for a hero ‘til the end of the night."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it’s… daytime? If you want, I can help you find a hero!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(singing) He’s gotta be strong, and he’s gotta be fast–\n(singing) And he’s gotta be fresh from the fight!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nYou know what, that’s a nice tune you’ve got there!\nI have no idea what it means, but the way you sing it is pretty catchy!"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "JUAN_HAPPY",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1683826437.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(singing) I NEED A HERO!\nI’M HOLDING OUT FOR A HERO ‘TIL THE END OF THE NIGHT!\nHE’S GOTTA BE STRONG, AND HE’S GOTTA BE FAST–\nAND HE’S GOTTA BE FRESH FROM THE FIGHT–"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo abruptly stops, looking at the pair currently approaching you."
+		},
+		{
+			"choice": "“Yes, I need to reunite with my traveling companions.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You describe your companions."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, you’re traveling with a Professor who’s about… [i]this[/i] tall. And another guy who carries a book with him all the time, and his name’s Raj?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You nod."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In the distance, you hear Raj’s voice."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There you are, [YOUR NAME]!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj and the Professor are slowly making their way towards you.\nYou wave them over."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": true,
@@ -412,13 +1037,195 @@
 			"z_index": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "With how crowded the streets are, you inevitably get tangled into the crowd–losing Raj momentarily."
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So here’s the thing: there’s a [i]problem[/i]."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A problem?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, [YOUR NAME]--it’s quite a simple problem, really!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj sighs."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor shifts awkwardly.\nRaj sighs again."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… Money."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Money?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj nods."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Money."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj sighs once more."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Our funds got stolen."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "And to make matters [i]worse[/i]–\n…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "THE AMULET GOT STOLEN!!!!!!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj rubs his temples."
+		},
+		{
+			"choice": "“I’m so sorry to hear that.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_sad_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Thanks, [YOUR NAME], but now I know better.\nMy, it’s been a while since I’ve traveled…"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If only I was more vigilant…"
+		},
+		{
+			"choice": "“Our money was stolen?! How?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": false,
@@ -439,210 +1246,22 @@
 			"z_index": 0
 		},
 		{
-			"character": "",
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "When you stumble out of the arms and legs that you had gotten yourself into, you’re pitched forward into the arms of someone you’ve definitely not met before."
+			"text": "I was counting our money to pay for our tickets to Japan when, well.\n Thieves are fast.\nWithin the next moment, my wallet was gone."
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "JUAN_HAPPY",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"character": "character-1676341108.json",
-			"event_id": "dialogic_001",
-			"portrait": "JUAN_HAPPY",
-			"text": "Woah there bud, can’t have just anyone falling for me."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "MC_Neutral_W_soot",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "",
+			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The young man helps you back onto your feet. He’s about your age, and definitely looks like someone all the girls back home would fawn over."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He’s still holding onto your arms to steady you, but once you find your footing he lets go, raising one hand up to tousle his hair."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "character-1676341108.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Are you good? Hello?"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "As he waves his hands in front of you, you can’t help but notice that the end of his words are tinged with something you don't recognize. "
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Was he not from Hawaii?"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "Finally, you break out of your stupor to see the young man getting more frantic in front of you. Did you really not respond back already?"
-		},
-		{
-			"choice": "“I’m fine!”",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256284-918",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_Happy_W_soot",
-			"text": "All dandy! I’m actually looking for a man that I came here with. "
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "About this tall, silver hair, huge glasses?"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "If it was even possible, his smile grows more! "
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "JUAN_HAPPY",
-			"text": "Oh, el patron! Yes, I was just talking to him earlier, wanted to go to some Shan-gri-La? Of course I said I could take him there, anything for the patron."
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "I’m Juan, Juan Martinez. The pleasure is all mine."
-		},
-		{
-			"choice": "“Who are you?”",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256278-146",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Calm down, chiquito, I mean no harm. I’m Juan, Juan Martinez, and I was actually coming to look for you. Your Profe sent me to come find you, we have an expedition that we’re going on together!"
+			"text": "Me as well.\nMany people were crowding around me at once–I presumed there was a random surge of people trying to pass–and when I reached for my wallet… it was gone."
 		},
 		{
 			"event_id": "dialogic_013"
 		},
 		{
-			"animation": "[Default]",
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": false,
@@ -666,165 +1285,61 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Still wary of the friendly man, you decide to follow him, the top of his head alerting you of his presence even as he manages to slip into the crowd."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Wait."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Where’s Raj?!"
+			"text": "You reach for your wallet–but you hadn’t carried that much money anyway. The Professor and Raj were carrying the bulk of your funds."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[YOUR NAME]!"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": true,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": true,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": true
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Raj emerges from the crowd and grabs your hand."
+			"text": "So now we’re stranded in Hawaii with no food, no money–nothing!"
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I thought I lost you!"
+			"text": "We could get a job and earn our fare to Japan that way…"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Juan rebounds back to the two of you."
+			"text": "Raj shakes his head."
 		},
 		{
-			"character": "character-1677554507.json",
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But that won’t work. It would take too long.\nI need to get home [i]as soon as possible[/i] or my reputation with my family will be more dire than it is!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj sighs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t [i]afford[/i] delays."
+		},
+		{
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Hey there! I’m just helping your friend find his Profe."
+			"text": "Literally."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Raj looks him over."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Who are [i]you?[/i]"
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ah, the name’s Juan, Juan Martinez!"
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I was just talking with your Profe, follow me! We’ll go on a journey together!"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Tch. I don’t think so. Come on, [YOUR NAME]."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I’m not about to be scammed."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Raj starts pulling you away from Juan."
-		},
-		{
-			"character": "character-1677554507.json",
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "Hey, I’m no scammer!"
+			"question": "And I’m not leaving without the amulet!"
 		},
 		{
-			"choice": "Side with Raj.",
+			"choice": "“We could steal.”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -833,33 +1348,122 @@
 		{
 			"definition": "1678425930-787",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "-",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
 		},
 		{
-			"character": "character-1676265208.json",
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy",
-			"text": "Alright Raj, I trust your street smarts."
+			"portrait": "Default",
+			"text": "I’m sorry, [YOUR NAME], but… I can’t do that."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As you should."
+			"text": "Neither can I.\nI’d [i]never[/i] stoop to the level of a thief."
 		},
 		{
-			"animation": "[Default]",
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "I don’t even know [i]who[/i] stole the amulet…"
+		},
+		{
+			"choice": "“We could work.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "MC_Neutral_W_soot",
+			"text": "If we do, then we can all pitch in for your ticket home, Raj."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\n No, I don’t want you to do that.\nI…\nI want us to travel together."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even though it will take longer?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nYes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What a contradictory response!"
+		},
+		{
+			"choice": "“We could try to get our money back.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj shakes his head."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s impossible to track down the thieves."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sad_Professor",
+			"text": "I have no idea who took the amulet…"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The party struggles to think of a solution…"
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow.[/i]"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nI can help."
+		},
+		{
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": false,
 			"change_z_index": false,
-			"character": "character-1676265208.json",
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_002",
 			"mirror_portrait": false,
-			"portrait": "MC_Neutral_W_soot",
+			"portrait": "Default",
 			"portrait_definition": "",
 			"position": {
 				"0": false,
@@ -875,41 +1479,89 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Even though you follow Raj away and continue searching the marketplace for the Professor, Juan tags along."
+			"text": "Raj and the Professor finally notice him."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "Happy_Professor",
+			"text": "Oh hello there! I am Howard Allwright, this is my colleague Rajesh Ghoshal, and this is [YOUR NAME]."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Help… us?\n…\nWhat’s the price?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(confused) Uh… there is none?"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "About 15 minutes pass, and you feel like you’re walking in circles. Raj definitely doesn’t know where he’s going."
+			"text": "Mateo slowly nods."
 		},
 		{
-			"character": "character-1677554507.json",
+			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Look. I just talked with your Profe–he said to bring two travelers looking just like you to him. Trust me, amigo. I’m not lying."
+			"text": "Of… course? Why would I charge you, especially if I know you don’t have any money?"
 		},
 		{
-			"character": "character-1677847888.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. \nHmph."
+			"text": "Raj’s jaw drops."
 		},
 		{
-			"character": "character-1677847888.json",
+			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ugh, fine. I’ll trust you… for now."
+			"portrait": "JUAN_HAPPY",
+			"text": "I believe good in the world is repaid, but even if it isn’t… I enjoy helping others.\nThat’s how you make new friends anyway!\nAnd I have lots of friends!\nCome with me–I’ll ask around! My friends are the kindest folk. I’m sure they can help somehow!\nI’ve helped plenty of kids find their lost toys, too. I’m sure we’ll find your amulet as well!"
 		},
 		{
-			"choice": "Side with Juan.",
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The Professor beams at him."
+		},
+		{
+			"choice": "“Are you sure, Mateo?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"definition": "1677563720-862",
+			"definition": "1676256261-787",
 			"event_id": "dialogic_014",
 			"operation": "+",
 			"random_upper_limit": 100,
@@ -919,142 +1571,130 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "MC_Happy_W_soot",
-			"text": "Come on, Raj. We’ve already lost sight of the Professor. Any help is beneficial."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ugh, fine. But don’t fall for his tricks!"
+			"text": "We have no way to pay you back."
 		},
 		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "JUAN_HAPPY",
-			"text": "Bueno! Come, come, I’ll take you to your Profe!"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He’s [i]not[/i] my Profe! I’m his colleague–which [i]means[/i] I’m on equal footing with him. \nHmph."
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "MC_Neutral_W_soot",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "character-1677554507.json",
+			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Alright, alright–sheesh. Follow me, amigos!"
+			"text": "Of course I’m sure!"
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": true,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": true,
-				"3": false,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Somehow, you manage to stumble your way to a clearing, where the Professor is talking to a set of burly men who look like they’re part of some security."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Or… something else. You notice they are all wearing matching tattoos."
-		},
-		{
-			"character": "",
+			"character": "character-1683825918.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "One of them looks you over."
+			"question": "I don’t do things for money, haha."
 		},
 		{
-			"choice": "Stare at him back.",
+			"choice": "“But money makes the world go round…”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His voice softens."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Unfortunately, it does…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo sighs, then pastes a smile on his face."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Onward!"
+		},
+		{
+			"choice": "“Then what do you do things for?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj nods."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one in their right mind would help strangers [i]for free[/i]."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I told you Rajesh, I just… [i]like[/i] helping people."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s still… so [i]strange[/i] to me."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "JUAN_HAPPY",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo laughs."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m strange then!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "“After you, Mateo!”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -1072,22 +1712,16 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Even though the man was scary, you don’t want to be eyed over."
+			"text": "Mateo smiles easily."
 		},
 		{
-			"character": "",
+			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You move a little closer and glare at the man, triumphant as he turns away."
+			"text": "Follow me!"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "However, now that you are within hearing range of the Professor, what he is saying catches your attention."
-		},
-		{
-			"choice": "Slide closer to the Professor.",
+			"choice": "How can we trust you?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -1102,256 +1736,10 @@
 			"set_value": "1"
 		},
 		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "There you are, my young steward! Glad you’ve made it!"
-		},
-		{
-			"choice": "Slide closer to Raj.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1678425930-787",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "This is suspicious. Stay close to me."
-		},
-		{
-			"choice": "Slide closer to Juan.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1677563720-862",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_position": true,
-			"change_z_index": false,
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": true,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "JUAN_HAPPY",
-			"text": "Hey there, amigo! See, your Profe’s right here with my guys!"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "So, as I was saying, we would love to have a faster passage to Kolkata!"
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Happy_Professor",
-			"text": "Exciting discoveries need to be made, and we have to go as soon as possible, as we are making arrangements for us to drop by Kolkata for my good colleague Raj’s marriage."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Raj looks slightly embarrassed–or was it something else?"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You don’t need to tell them that, Howard."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The Professor continues, as if he hadn’t heard Raj."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "For the sake of humanity, we must discover the secrets of that fantastic area, and bring it back for the rest of the world. I know that we will be able to find it!"
-		},
-		{
-			"character": "character-1677555513.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "And the money?"
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Happy_Professor",
-			"text": "Of course, the money will be there. I have enough and possibly more!"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Again, too much info, Howard! We don’t have money, sirs. We’re actually quite poor."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "But the Professor naively grabs a wad of bills from his pouch and offers it to the burly men."
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Consider this payment for making sure we get on a boat. The real treasure is knowing you helped us reach one of the greatest discoveries in the world."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Howard!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "With this, Juan steps in, taking the money and quickly counting it before giving it to the burly man, who puts it away without a word."
-		},
-		{
-			"character": "character-1677554507.json",
+			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Sure señor! We will get to where you need to go, as soon as we can! Count on us."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Hey, no! Give us back the money!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He tries to grab it from the burly man, but he pulls it out of his reach."
-		},
-		{
-			"animation": "[Default]",
-			"animation_length": 0,
-			"change_mirror_portrait": true,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": true,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "What are you doing, Raj? This is an opportunity to make our journey much smoother!"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Howard! They’re [i]scamming[/i] you!! They’re just going to take our money and run away!"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "[YOUR NAME], help me knock some sense into him!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "However wide Juan’s smile was, there was something wrong with the situation. "
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "How had the Professor met people that accepted to help so quickly? "
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "And would they have enough funds to continue the journey?"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The Professor did have to pay for the ship to Hawaii, and the stack of bills that he had handed over was quite hefty."
+			"text": "That is a good question.\nPeople have asked me that before.\nAnd I tell them: “You don’t have to trust me.”\nSo.\nYou don’t have to trust me, but I want to help you the best I can."
 		},
 		{
 			"character": "",
@@ -1360,80 +1748,70 @@
 
 			],
 			"portrait": "",
-			"question": "Were these people part of a traveling company, or were they trying to do something else to make money?"
+			"question": "You think about the concept of [i]trust[/i]."
 		},
 		{
-			"choice": "Intervene.",
+			"choice": "Trust Mateo.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"definition": "1676256278-146",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "You don’t know these people who had so willingly offered help, and there was something fishy about the whole situation."
+			"question": "[i]Meow.[/i]"
 		},
 		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_angry_W_soot",
-			"text": "No! We don’t want to use your services, and we will find a better way to get to where we need to go. Please return our money, and we will be out of your hair."
-		},
-		{
-			"character": "character-1677555513.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Not so fast. You paid us, and we have to compensate you."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "As he speaks, he reaches forward to grab you, while the other men hold back the Professor and Raj."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "HEY LET ME GO!!"
-		},
-		{
-			"choice": "Stay quiet.",
+			"choice": "Pet Soot.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "There was no other way that you all could make it to Kolkata and the beyuls in Tibet without them. They would make the journey far easier.\nAs much as the situation was odd, the best thing to do was to trust these people."
-		},
-		{
-			"character": "character-1677555513.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "One more form of payment though, before we can fully pay you back."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Your hands are suddenly held behind your back."
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot trusts Mateo, and he seems genuine."
+		},
+		{
+			"choice": "Don’t trust Mateo.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo is a nice guy, but you just met him.\nIt takes time to build trust.\nAnd that is okay.\nYou think back to Father.\nYou used to trust Father with all your secrets.\nThat is… until you came out to him.\nFather had promised he would love you, no matter what you did and who you are.\nBut that didn’t prove true, did it?\nA Father who loved you wouldn’t beat you for religion’s sake, would he?\nYou shake your head.\nBut you trusted the Professor and Raj, and they have proven kind."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Regardless of your decision to trust, the fact of the matter remains:\nYou are stranded in Hawaii."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You, Raj, and the Professor follow Mateo’s lead.\nOh, to be stranded in Hawaii…\nAt least, you have your companions.\n…\nAt least, you’re not alone anymore."
 		},
 		{
 			"audio_bus": "Master",
@@ -1443,24 +1821,6 @@
 			"fade_length": 1,
 			"file": "",
 			"volume": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Pain blooms in the back of your head, and you start to feel your vision grow hazy. The man had hit you."
-		},
-		{
-			"character": "character-1677554507.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Hey! This wasn’t part of the deal!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The last things you remember are Juan’s worried expletives as he runs towards you."
 		},
 		{
 			"background": "res://Echo/Backgrounds/Black Screen.jpg",
