@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"background": "res://Echo/Backgrounds/messy_table.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -10,7 +10,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "",
+			"file": "res://Echo/Music/hiroshiLAfather1.ogg",
 			"volume": 0
 		},
 		{

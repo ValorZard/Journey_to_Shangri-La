@@ -1,0 +1,112 @@
+{
+	"events": [
+		{
+			"background": "res://Echo/Backgrounds/Cargo Ship.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: FEBRUARY 1937\nLOCATION: THE PACIFIC OCEAN, ENROUTE TO TOKYO.\nIt’s been several days since you’ve left the clear, sunlit waters of Hawaii. \nThey had just polished off a hearty dinner of saimin, an inexpensive and nutritious meal consisting of wheat egg noodles in a Japanese dashi broth, topped with nori, slices of spam, fish cake, and green onions—\n—all explained by Mateo who seemed rather excited to share his knowledge of Hawaiian cuisine."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wander the deck of the ship to walk off the food, everyone else opting to do the same.\nAs you shield your eyes from the glare of the rapidly setting evening sun, several notes of light music drift by."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You follow the source of the sound and discover Mateo, curled into a corner on the floor and strumming the guitar that usually hangs on his hip. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "His brows are furrowed with concentration."
+		},
+		{
+			"choice": "Walk up to him.",
+			"condition": ">=",
+			"definition": "1676256284-918",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "Let him be.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not wanting to disturb his personal time, you slip away without a sound."
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1683864659.json",
+		"name": "Mateo Love Event Hawaii"
+	}
+}
