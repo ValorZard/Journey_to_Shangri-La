@@ -79,7 +79,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi looks up and stiffens at the sight of the imposing silhouette in the doorway."
+			"text": "Hiroshi looks up and stiffens at the sight of the imposing silhouette in the doorway.\nImmediately, he’s on his feet and standing alert."
 		},
 		{
 			"character": "character-1677556264.json",
@@ -115,13 +115,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He watches intently as the man he had long looked up to approaches, his eyes scanning the pages of the open books. "
+			"text": "He watches intently as the man he admires approaches, his eyes scanning the pages of the open books. "
 		},
 		{
 			"character": "character-1682965672.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "If I asked you to bring forth a hurricane, would you be able to do it?"
+			"text": "Let's say I asked you to bring forth a hurricane. Would you be able to do it?"
 		},
 		{
 			"character": "character-1677556264.json",
@@ -148,10 +148,31 @@
 			"text": "Yes, but I have discovered clues you might be interested in."
 		},
 		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi flips through the books rapidly. "
+			"text": "Like a bird on fire, Hiroshi flips rapidly through the books. "
 		},
 		{
 			"character": "character-1677208371.json",
@@ -181,7 +202,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi meets his father figure’s gaze for a moment, as if searching for something."
+			"text": "Hiroshi failed to meet his gaze."
 		},
 		{
 			"character": "character-1677556264.json",
@@ -193,13 +214,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The elder man sighs and places a hand firmly on Hiroshi’s shoulder.\nHiroshi averts his eyes, but a firm shake from Father makes him look up."
+			"text": "The elder man sighs and places a hand firmly on Hiroshi’s shoulder."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi continues to glare down at the books, but a firm shake from Father forces him to look up."
 		},
 		{
 			"character": "character-1677208371.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Do not seek to impress me. Seek to become a man that our [i]country[/i] can be proud of."
+			"text": "Do not seek to impress [i]me[/i]. Seek to become a man that our [i]country[/i] can be proud of."
 		},
 		{
 			"character": "",
@@ -244,6 +271,12 @@
 			"text": "Do not forget that Japan’s power consists of more than its military.\nExpand your reach. Expand our influence. Make Japan proud."
 		},
 		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
 			"background": "res://Echo/Backgrounds/Cargo Ship.jpg",
 			"event_id": "dialogic_021"
 		},
@@ -251,101 +284,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi stood by the port, looking out over the Pacific.\nWhen he hears multiple footsteps approach from behind, he turns around.\nThere stood three gruff men, undoubtedly with weapons concealed.\nThey likely had more people hidden nearby in case anything were to happen.\nHiroshi was no fool, especially not when it came to the mafia. \nPrior to the meeting, he had arranged for subordinate officers to be stationed in the area."
-		},
-		{
-			"character": "character-1682966980.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Have you got the down payment?"
+			"text": "...\nHiroshi stood by the port, looking out over the Pacific.\nWhen he hears multiple footsteps approach from behind, he turns around.\nThere stood his spies, ready to receive orders."
 		},
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I am a man of my word.\nAnd for your sake, I hope you are too."
+			"text": "Track down any and all who know about beyuls.\nOne of which is Professor Howard Allwright from the USA.\n…\nAssess his knowledge of beyuls. If it is sufficient, bring him to me, [i]alive[/i].\n…\nUnderstood?"
 		},
 		{
-			"character": "character-1682966980.json",
+			"character": "character-1677556842.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hmph.\nYou want us to track down anyone who knows about these [i]‘b-rolls’[/i]?"
-		},
-		{
-			"character": "character-1677556264.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "[i]Beyuls[/i]. "
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Hiroshi stares down the mafiosos, to ensure they understood the weight of this assignment."
-		},
-		{
-			"character": "character-1677556264.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You folks have an advantage when it comes to dealing outside Japan.\nIf you can provide this service to your country, we might turn a blind eye to a few things."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The mafiosos glanced between themselves."
-		},
-		{
-			"character": "character-1682966980.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "And the money?"
-		},
-		{
-			"animation": "shake_x.gd",
-			"animation_length": 1,
-			"animation_wait": false,
-			"change_mirror_portrait": false,
-			"change_position": false,
-			"change_z_index": false,
-			"character": "character-1677556264.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "(Don't change)",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 2,
-			"z_index": 0
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Hiroshi pulled out an envelope, which the Mafioso swiped from him hastily.\nHe immediately flipped it open, counting the bills.\nWhen he looked up at Hiroshi again, slight displeasure was visible in his expression."
-		},
-		{
-			"character": "character-1677556264.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Don’t get too greedy."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The mafioso clicked his tongue, but tucked the envelope into his clothes."
-		},
-		{
-			"character": "character-1682966980.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You’ve got yourself a deal, military man."
+			"text": "Yes, sir."
 		},
 		{
 			"animation": "[Default]",
@@ -377,7 +328,7 @@
 			"wait_seconds": 3
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1678427077.json",
 			"event_id": "dialogic_020"
 		}
 	],

@@ -1,17 +1,6 @@
 {
 	"events": [
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "While on ship, music emanates from belowdecks..."
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -19,31 +8,6 @@
 			"fade_length": 1,
 			"file": "res://Echo/Music/homescreen3.mp3",
 			"volume": 0
-		},
-		{
-			"background": "res://Echo/Backgrounds/Hawaii Interlude.PNG",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 10,
-			"waiting_skippable": true
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "... As you sail to Tokyo, you listen to Mateo's stories with rapt attention..."
 		},
 		{
 			"background": "res://Echo/Backgrounds/Cargo Ship.jpg",
