@@ -395,9 +395,24 @@ __meta__ = {
 }
 
 [node name="ChapSelectMenu" type="Control" parent="Menus/MenuContainer/SubMenus/MenuContent"]
-margin_right = 40.0
-margin_bottom = 40.0
+anchor_right = 1.0
+anchor_bottom = 1.0
 script = ExtResource( 16 )
+
+[node name="Scroll" type="ScrollContainer" parent="Menus/MenuContainer/SubMenus/MenuContent/ChapSelectMenu"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 26.0
+margin_right = -26.0
+margin_bottom = -2.0
+scroll_horizontal_enabled = false
+
+[node name="Chapters" type="VBoxContainer" parent="Menus/MenuContainer/SubMenus/MenuContent/ChapSelectMenu/Scroll"]
+margin_right = 622.0
+margin_bottom = 521.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_constants/separation = 42
 
 [node name="SettingsMenu" type="Control" parent="Menus/MenuContainer/SubMenus/MenuContent"]
 visible = false
