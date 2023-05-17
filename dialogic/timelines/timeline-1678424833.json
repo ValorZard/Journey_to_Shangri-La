@@ -1,43 +1,13 @@
 {
 	"events": [
 		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 0,
+			"fade_length": 1,
 			"file": "res://Echo/Music/homescreen3.mp3",
 			"volume": 0
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3,
-			"waiting_skippable": true
-		},
-		{
-			"background": "res://Helena/LA_Interlude/LA_Interlude.PNG",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 10,
-			"waiting_skippable": true
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3,
-			"waiting_skippable": true
 		},
 		{
 			"background": "res://Echo/Backgrounds/Ship bedroom.jpg",
@@ -836,17 +806,17 @@
 			"event_id": "dialogic_021"
 		},
 		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3
-		},
-		{
-			"change_timeline": "timeline-1678427077.json",
+			"change_timeline": "timeline-1684311379.json",
 			"event_id": "dialogic_020"
 		},
 		{
-			"background": "res://Echo/Backgrounds/Ship bedroom.jpg",
-			"event_id": "dialogic_021"
+			"anchor_id": "",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
 		}
 	],
 	"metadata": {

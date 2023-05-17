@@ -366,10 +366,11 @@
 			"text": "I just want to help you, my son."
 		},
 		{
-			"audio": "play",
 			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
 			"file": "res://Echo/Music/mcrunsaway1.ogg",
 			"volume": 0
 		},
@@ -413,10 +414,11 @@
 			"text": "[YOUR NAME]?"
 		},
 		{
-			"audio": "play",
 			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
 			"file": "res://Echo/Music/mcrunsaway1.ogg",
 			"volume": 0
 		},
@@ -518,10 +520,11 @@
 			"text": "There you are, [YOUR NAME]."
 		},
 		{
-			"audio": "play",
 			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
 			"file": "res://Echo/Music/mcrunsaway1.ogg",
 			"volume": 0
 		},
@@ -580,18 +583,19 @@
 			"z_index": 0
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://Echo/Music/lightningstrike1.ogg",
-			"volume": 0
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Suddenly, there’s a loud roar of lightning that almost blows your eardrums off. You feel heat behind you."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/lightningstrike1.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1677208371.json",
