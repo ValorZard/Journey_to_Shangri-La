@@ -806,17 +806,13 @@
 			"event_id": "dialogic_021"
 		},
 		{
-			"change_timeline": "timeline-1684311379.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"anchor_id": "",
-			"event_id": "dialogic_016"
-		},
-		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
 			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "timeline-1678427077.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
