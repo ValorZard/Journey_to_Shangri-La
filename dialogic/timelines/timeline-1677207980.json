@@ -583,12 +583,6 @@
 			"z_index": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Suddenly, there’s a loud roar of lightning that almost blows your eardrums off. You feel heat behind you."
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -596,6 +590,12 @@
 			"fade_length": 1,
 			"file": "res://Echo/Music/lightningstrike1.ogg",
 			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, there’s a loud roar of lightning that almost blows your eardrums off. You feel heat behind you."
 		},
 		{
 			"character": "character-1677208371.json",
