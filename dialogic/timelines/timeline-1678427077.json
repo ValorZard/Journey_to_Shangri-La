@@ -6,45 +6,6 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 0,
-			"file": "res://Echo/Music/homescreen3.mp3",
-			"volume": 0
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3,
-			"waiting_skippable": false
-		},
-		{
-			"background": "res://Echo/Backgrounds/LA_Interlude/LA_Interlude.PNG",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 10,
-			"waiting_skippable": false
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3,
-			"waiting_skippable": false
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 0,
 			"file": "res://Echo/Music/hawaii2.mp3",
 			"volume": 0
 		},
@@ -1730,45 +1691,6 @@
 			"text": "I’m strange then!"
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 0,
-			"file": "res://Echo/Music/homescreen3.mp3",
-			"volume": 0
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
-			"wait_seconds": 3,
-			"waiting_skippable": false
-		},
-		{
-			"background": "res://Echo/Backgrounds/LA_Interlude/LA_Interlude.PNG",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
-			"wait_seconds": 10,
-			"waiting_skippable": false
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
-			"wait_seconds": 3,
-			"waiting_skippable": false
-		},
-		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -1890,15 +1812,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You, Raj, and the Professor follow Mateo’s lead.\nOh, to be stranded in Hawaii…\nAt least, you have your companions.\n…\nAt least, you’re not alone anymore."
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
 		},
 		{
 			"background": "res://Echo/Backgrounds/Black Screen.jpg",

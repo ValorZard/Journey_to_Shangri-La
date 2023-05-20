@@ -15,7 +15,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 3,
 			"waiting_skippable": false
 		},
@@ -25,7 +25,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 10,
 			"waiting_skippable": false
 		},
@@ -35,12 +35,12 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 3,
 			"waiting_skippable": false
 		},
 		{
-			"change_timeline": "timeline-1678427077.json",
+			"change_timeline": "timeline-1682964819.json",
 			"event_id": "dialogic_020"
 		}
 	],
