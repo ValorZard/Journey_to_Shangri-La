@@ -1,0 +1,43 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Echo/PlayerName.gd" type="Script" id=1]
+
+[sub_resource type="StyleBoxFlat" id=1]
+bg_color = Color( 0.698039, 0.858824, 1, 1 )
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color( 0.0705882, 0.117647, 0.321569, 1 )
+
+[sub_resource type="Theme" id=2]
+/styles/Color = SubResource( 1 )
+
+[node name="PlayerName" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+script = ExtResource( 1 )
+
+[node name="Input" type="LineEdit" parent="."]
+margin_right = 100.0
+margin_bottom = 24.0
+rect_scale = Vector2( 3.05319, 2.29062 )
+custom_colors/selection_color = Color( 1, 0.592157, 0.631373, 1 )
+align = 1
+placeholder_text = "Your Name"
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="ConfirmButton" type="Button" parent="."]
+margin_left = 89.0
+margin_top = 63.0
+margin_right = 203.0
+margin_bottom = 95.0
+rect_scale = Vector2( 0.996913, 1.53246 )
+theme = SubResource( 2 )
+disabled = true
+text = "Done"
+
+[connection signal="text_changed" from="Input" to="." method="_on_Input_text_changed"]
+[connection signal="pressed" from="ConfirmButton" to="." method="_on_ConfirmButton_pressed"]
