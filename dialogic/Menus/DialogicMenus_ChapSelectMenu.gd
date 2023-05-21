@@ -1,10 +1,11 @@
 extends Control
 
 var chap_button = preload("res://dialogic/Menus/DialogicMenu_ChapterButton.tscn")
-var chapters = ["Intro","MC Prologue","Raj Love Event LA to Hawaii","Hawaii pt. 1 (revised)"]
+var chapters = []
 
 onready var ChapterContainer = $Scroll/Chapters
 onready var MenusContainer = get_parent().get_parent().get_parent()
+onready var file = "res://dialogic/ChapterNames.txt"
 
 ################################################################################
 ##								PUBLIC
@@ -12,9 +13,20 @@ onready var MenusContainer = get_parent().get_parent().get_parent()
 
 func open() -> void:
 	show()
+	read_file(file)
 	generate_chapters()
 
-# Generates chapters based on the text read from ChapterNames.txt
+# Reads timeline names from ChapterNames.txt into an array
+func read_file(file_name : String) -> void:
+	var f = File.new()
+	f.open(file_name, File.READ)
+	while not f.eof_reached():
+		var line = f.get_line()
+		chapters.append(line)
+	
+	f.close()
+
+# Generates chapters in order of which they appear in ChapterNames.txt
 func generate_chapters() -> void:
 	for child in ChapterContainer.get_children():
 		child.queue_free() 
@@ -33,12 +45,13 @@ func generate_chapters() -> void:
 func _ready() -> void:
 	hide()
 	
-# Changes the chapter
+# Detects if a button was pressed
 func _chapter_pressed(chap_name : String) -> void:
 	_load_chapter(chap_name)
 
-# Loads chapter based on whichever button was pressed
+# Loads corresponding chapter and clears list of timeline names
 func _load_chapter(chap_name : String) -> void:
+	chapters = []
 	MenusContainer.resume_game()
 	
 	Dialogic.change_timeline(chap_name)
