@@ -19,13 +19,6 @@ margin_bottom = 40.0
 rect_scale = Vector2( 15.2034, 1.04586 )
 mouse_filter = 2
 
-[node name="ColorRect" type="ColorRect" parent="Border"]
-visible = false
-anchor_right = 1.0
-anchor_bottom = 1.0
-rect_scale = Vector2( 0.998563, 0.999689 )
-color = Color( 0.494118, 0.862745, 0.901961, 1 )
-
 [node name="ChapButton" type="Button" parent="Border"]
 anchor_right = 1.0
 anchor_bottom = 1.0
