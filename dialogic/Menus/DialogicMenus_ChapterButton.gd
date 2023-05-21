@@ -1,12 +1,12 @@
 extends Control
 
-export (String) var chap_path
+signal pressed(chap_name)
 
 ################################################################################
 ##								PUBLIC
 ################################################################################
 
-# Changes the text on the button
+# Changes the displayed text of the button
 func set_text(chapter_name : String) -> void:
 	$Label.set_text(chapter_name)
 	
@@ -14,6 +14,14 @@ func set_text(chapter_name : String) -> void:
 ##								PRIVATE
 ################################################################################
 
-func _on_Button_pressed():
-	pass
-	#get_tree().change_scene(chap_path)
+func _on_ChapButton_pressed():
+	emit_signal("pressed", $Label.text)
+
+# Hover animations
+func _on_ChapterButton_mouse_entered() -> void:
+	print("Chapter Button hovered over: ",  $Label.text)
+	$HoverAnimation.play("hover")
+
+func _on_ChapterButton_mouse_exited() -> void:
+	print("Chapter Button hovered over: ",  $Label.text)
+	$HoverAnimation.play_backwards("hover")

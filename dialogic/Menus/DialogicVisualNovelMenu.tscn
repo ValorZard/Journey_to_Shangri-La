@@ -1,4 +1,4 @@
-[gd_scene load_steps=34 format=2]
+[gd_scene load_steps=38 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://dialogic/Menus/BackgroundImage.jpg" type="Texture" id=2]
@@ -16,6 +16,10 @@
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultItalicFont.tres" type="DynamicFont" id=14]
 [ext_resource path="res://addons/dialogic/Documentation/Theme/Font/NotoSans-Regular.ttf" type="DynamicFontData" id=15]
 [ext_resource path="res://dialogic/Menus/DialogicMenus_ChapSelectMenu.gd" type="Script" id=16]
+[ext_resource path="res://Echo/Stats/IMG_1289.PNG" type="Texture" id=17]
+[ext_resource path="res://Echo/Stats/IMG_1299.PNG" type="Texture" id=18]
+[ext_resource path="res://Echo/Stats/IMG_1307.PNG" type="Texture" id=19]
+[ext_resource path="res://Echo/Stats/IMG_1290.PNG" type="Texture" id=20]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -225,10 +229,46 @@ size_flags_horizontal = 0
 size_flags_vertical = 0
 color = Color( 0, 0, 0, 0.545098 )
 
-[node name="TextureRect" type="TextureRect" parent="Menus/MenuContainer/StatsMenu"]
+[node name="KindIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
+margin_left = 126.0
+margin_top = -4.0
+margin_right = 2174.0
+margin_bottom = 2044.0
+rect_scale = Vector2( 0.0205149, 0.017914 )
+texture = ExtResource( 19 )
+
+[node name="BraveIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
+margin_left = 132.0
+margin_top = 25.0
+margin_right = 2180.0
+margin_bottom = 2073.0
+rect_scale = Vector2( 0.0140285, 0.0141078 )
+texture = ExtResource( 20 )
+
+[node name="SmartIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
+margin_left = 125.0
+margin_top = 47.0
+margin_right = 2173.0
+margin_bottom = 2095.0
+rect_scale = Vector2( 0.0206347, 0.0177525 )
+texture = ExtResource( 17 )
+
+[node name="CharmIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
+margin_left = 129.0
+margin_top = 77.0
+margin_right = 2177.0
+margin_bottom = 2125.0
+rect_scale = Vector2( 0.0180127, 0.0176859 )
+texture = ExtResource( 18 )
+
+[node name="LoveMeter" type="TextureRect" parent="Menus/MenuContainer/StatsMenu"]
 visible = false
-margin_right = 40.0
-margin_bottom = 40.0
+margin_left = 81.0
+margin_top = 115.0
+margin_right = 1673.0
+margin_bottom = 1643.0
+rect_scale = Vector2( 0.0716416, 0.0708907 )
+stretch_mode = 1
 
 [node name="RichTextLabel" type="RichTextLabel" parent="Menus/MenuContainer/StatsMenu"]
 anchor_right = 0.627
