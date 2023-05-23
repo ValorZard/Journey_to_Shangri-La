@@ -230,33 +230,33 @@ size_flags_vertical = 0
 color = Color( 0, 0, 0, 0.545098 )
 
 [node name="KindIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
-margin_left = 126.0
+margin_left = -1.0
 margin_top = -4.0
-margin_right = 2174.0
+margin_right = 2047.0
 margin_bottom = 2044.0
 rect_scale = Vector2( 0.0205149, 0.017914 )
 texture = ExtResource( 19 )
 
 [node name="BraveIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
-margin_left = 132.0
-margin_top = 25.0
-margin_right = 2180.0
-margin_bottom = 2073.0
+margin_left = 6.0
+margin_top = 27.0
+margin_right = 2054.0
+margin_bottom = 2075.0
 rect_scale = Vector2( 0.0140285, 0.0141078 )
 texture = ExtResource( 20 )
 
 [node name="SmartIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
-margin_left = 125.0
-margin_top = 47.0
-margin_right = 2173.0
-margin_bottom = 2095.0
+margin_left = -2.0
+margin_top = 48.0
+margin_right = 2046.0
+margin_bottom = 2096.0
 rect_scale = Vector2( 0.0206347, 0.0177525 )
 texture = ExtResource( 17 )
 
 [node name="CharmIcon" type="TextureRect" parent="Menus/MenuContainer/StatsMenu/ColorRect"]
-margin_left = 129.0
+margin_left = 2.0
 margin_top = 77.0
-margin_right = 2177.0
+margin_right = 2050.0
 margin_bottom = 2125.0
 rect_scale = Vector2( 0.0180127, 0.0176859 )
 texture = ExtResource( 18 )

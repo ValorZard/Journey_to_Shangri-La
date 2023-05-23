@@ -57,10 +57,10 @@ func _ready():
 	show()
 	
 func _process(delta):
-	StatsText.text =  "Kindness:   " + Dialogic.get_variable("kind") + "\n"
-	StatsText.text += "Bravery:     " + Dialogic.get_variable("brave") + "\n"
-	StatsText.text += "Smarts:      " + Dialogic.get_variable("smart") + "\n"
-	StatsText.text += "Charm:       " + Dialogic.get_variable("charm")
+	StatsText.text =  "      Kindness:   " + Dialogic.get_variable("kind") + "\n"
+	StatsText.text += "      Bravery:     " + Dialogic.get_variable("brave") + "\n"
+	StatsText.text += "      Smarts:      " + Dialogic.get_variable("smart") + "\n"
+	StatsText.text += "      Charm:       " + Dialogic.get_variable("charm")
 	
 
 # look for right click input to show the SAVE MENU
