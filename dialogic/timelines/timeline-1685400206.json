@@ -1,0 +1,295 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/hiroshiLAfather1.ogg",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/J Food.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: MARCH 1937\nLOCATION: TOKYO, JAPAN\nSince that day almost a year ago, Hiroshi had flipped through the half-burnt manuscript countless times. And each time, he could not decipher anything new.\nMost of the words had been burnt away, but some fragments, much like the drawing of the fan, had remained.\nThere must be more.\nHe had seen the power the fan held. He had seen the potential. And he would have it. For Japan. For a better future.\nNow, Hiroshi sits in an empty restaurant, waiting for food… and news."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shopkeeper comes over with a steaming bowl of ramen and sets it in front of him, bowing slightly before hurrying away."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hearing the door to the restaurant open, Hiroshi stows the manuscript and leaf fan away in his coat, sitting up as his subordinate approaches. "
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Commander, I have news."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Speak."
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We discovered a group of westerners in Hawaii, and just received news that they have arrived in Tokyo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi taps the table impatiently."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "... And?"
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of these westerners is… Professor Howard Allwright."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Hiroshi_happy_hat",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi’s eyebrows shoot up. \nEver since that incident, he had tried to find anyone who had done research on mystical Buddhist myths, including the one about beyuls. However, there were only a few people in the world who seemed to have any knowledge about it. \nThey included Howard Allwright of UCLA and Rajesh Ghoshal of the University of Calcutta. Hiroshi had kept tabs on their research but after a while considered them a dead end."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "He’s here?"
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "According to our intel, they are heading to the Himalayas and appear to be looking for… [i]beyuls[/i]. They also seem to have an artifact with them, an artifact similar to your own."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "..."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep an eye on them. And, if you notice their artifact has any mystical properties, I want them arrested and handed to me as soon as possible. Got that?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The spy salutes. "
+		},
+		{
+			"character": "character-1677556842.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, sir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The spy turns around and leaves."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Hiroshi_happy_hat",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As soon as the door shuts, Hiroshi relaxes and smiles to himself."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Finally! A golden opportunity, in my hands! Soon, I will finally unlock the secrets of this damn fan. All of Asia will belong to the Empire, and NO ONE will be able to stop us."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi, with a satisfied huff, breaks apart his wooden chopsticks and begins eating."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I won’t disappoint you, father. This is all for the Empire."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "timeline-1677480158.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1685400206.json",
+		"name": "Tokyo pt1"
+	}
+}

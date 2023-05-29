@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://Echo/Characters/RamenLady.PNG"
 		}
 	],
-	"scale": 100,
+	"scale": 25,
 	"theme": ""
 }
