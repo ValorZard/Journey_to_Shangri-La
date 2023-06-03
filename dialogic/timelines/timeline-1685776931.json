@@ -1,0 +1,459 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You feel the mud under your feet slide just before you lose all sense of balance."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You brace yourself for impact, but instead, you feel a strong tug on your arm. \nAnother tug and you’re on your feet again, but before you can reorient yourself, you’re being dragged forward."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Voice: Two to the left! Three to the right! The rest of you, behind me!\nUpon hearing those orders, you immediately duck behind the forest underbrush. You take this chance to catch your breath and look up at Mateo, who is just as winded. \nMateo puts his finger to his lips as you hear approaching footsteps.\nYou pull Soot tighter to your chest for what little comfort you could get while the footsteps get louder and louder.\nThen you feel a gentle tap on your arm.\nWhen you look, Mateo meets your eyes with great determination. And yet, when he opens his mouth to say something, he seems to struggle for a moment. \nHe fumbles with his words, and barely manages to get more than a few comprehensible words out. \nEventually, he seems to decide upon something, and grips your shoulder firmly."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do not follow me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t even get the chance to react, because Mateo is already dashing out from the underbrush."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soldier: There! After him!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shouts and stomping of the soldiers running after Mateo are a little too loud for comfort, and you press yourself closer to the ground just to make sure they would not see you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You are sure they are gone now, but what are you supposed to do now? The others are likely hiding somewhere else, but you wouldn’t even know where to begin to look. Even if you did, the Japanese soldiers are still out there. Getting caught would make Mateo’s sacrifice pointless."
+		},
+		{
+			"choice": "Look for the others",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You decide to go look for the others, and keep low to the ground as you navigate the unfamiliar environment, Soot just behind you. \nAs you cross a patch of grass, you keep your eyes on a few soldiers scouring the area ahead.\nYour heart is pounding, but you do your best to keep your composure as you crawl under the ferns. "
+		},
+		{
+			"choice": "Stay put",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t want to risk getting caught by the soldiers, especially since you don’t know their whereabouts.\nYou try to take deep breaths and regain your composure, expecting to be here for a while.\nSeveral moments later, just as you start to debate leaving this spot, you hear a quiet voice."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Psst! Over here."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sandy waves you over from behind a rather large rock, just a couple feet away."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hurry!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With one last check to make sure no soldier was in range, you and Soot hurry over to join Sandy. \nHe beckons you to peer around the rock with him.\nSandy points off to the left where the mountain slopes down, and caught in the roots between two trees, you see the Professor."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’ll be safer if you go retrieve him. I will go get the other one."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sandy indicates Raj, whom you spot well hidden among the foliage of low hanging trees, but with the amount of soldiers patrolling his area, it would only be a matter of time. "
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meet us in that cave."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look back past the professor, where there is indeed a cave in the mountain face, shrouded by greenery. \nWith a nod, you lower yourself to the ground and start to slide onto the mountainside towards the Professor."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor’s face lights up in spite of the circumstances, but you shush him, lest the soldiers hear him."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Great timing, it would seem–I am stuck! In these roots–!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look down and notice that there was a tangle of roots at the Professor’s feet, clinging to the hem of his pants and wrapped around his ankles.\nWithout hesitation, you crouch down to begin untangling the roots, tearing at them with quick hands.\nYou have to be careful because the slope is steep, one wrong move and you could go tumbling down this mountain. \nWith that thought, your hands begin to sweat, but you do your best not to panic."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME] look! Look!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear the excitement in his voice and feel it is out of place in the current situation."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Professor, please, not now–"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, you must look!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hoping it would satisfy him, you turn your head around. However, when you see what the Professor is pointing at, your attention is caught.\nIn the distance below you, a large procession of soldiers streams into the narrow streets and fills them with the dark colors of their uniforms. \nThere are so many of them it’s hard to distinguish one from the other.\nIt’s as if the civilians that were bustling around earlier had completely disappeared, leaving nothing but soldiers that march stiffly to the country’s heartbeat.\nEven from afar you could feel their oppressive aura, as if they wanted the entire world to be aware of their prowess.\nYou can’t help but watch in awe…\n… until a shout in the distance reminds you that those same people are currently hunting you."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Professor, we have to hurry!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In a flurry, you tear up the last of the roots with Soot’s help, and free the Professor. \nThe three of you scuffle across the steep terrain towards the cave that Sandy had showed you earlier.\nThe three of you arrive there first, and enter as deep as you dare, using the darkness to your advantage.\nMoments later, Sandy and Raj creep into the cave as well.\nThe five of you gather around at the back of the cave, taking a moment to gather yourselves."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Where’s Mateo? What happened to Mateo?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Worry spreads among the group, and a weight in your chest starts to grow."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He–he sacrificed himself."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He just ran off, I couldn’t stop him!"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can’t we go look for him? We have to hurry! "
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You cannot go out there, you will be risking your lives. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, we certainly cannot be leaving him. He has helped us come so far."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Each of you exchange desperate glances."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright. I will go out to look for him. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll go with you."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No. Stay put, they will not be able to detect me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You watch as Sandy walks quickly to the exit before anyone can try to tag along, disappearing from your sight the moment he steps out. \nYou pace anxiously in the cave as you wait for Sandy and, hopefully, Mateo’s return. Soot feels your distress and lingers at your ankles, occasionally rubbing her cheek against your leg."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Surely, he could not have gotten far."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You nod and the Professor chimes in."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are right, Raj! We shouldn’t lose hope, I’m sure if they caught him, we would’ve heard it by now. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just as you are starting to feel a spark of hope, you hear heavy footsteps at the cave entryway. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That must be him!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The three of you turn to face the entrance, but as your eyes adjust to the light, it's not Mateo you see. \nStanding there menacingly is a Japanese soldier."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What have we here? … Professor Howard Allwright."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-how do you know my name?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Instinctively, you stand closer to the Professor, as if to defend the honest man from any trick this unsettling stranger might have up his sleeve."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re right, where are my manners? My name is Hiroshi. \nYou see, I am on a quest to make the world recognize Japan. To acknowledge our strength and respect us. \nTo make Japan the greatest empire in existence."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As Hiroshi spoke, more and more soldiers began to close in on the cave, blocking what little light flowed in. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t see any reason we would have to be involved in any of this. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He speaks matter-of-factly, but you could feel the hairs on the back of your neck stand."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I would beg to differ… [i]Rajesh Ghoshal[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj stands with composure, but you notice his shoulders tense. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Trying to resist here would not be your brightest idea."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t want to admit it, but he’s right. There’s no way you could get out safely with all these armed men in the way. \nSeeing your lack of resistance, Hiroshi flicks his hand and the soldiers come forward to apprehend your party. \nYou don’t want to give in like this. You don’t want to, but what is there left for you to do? How can you get out of this situation?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t touch them!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For a moment, the flash of metal blinds you, but when you recover, you see Sandy and Mateo shoving their way through the soldiers with urgency.\nSandy swings his staff with fluid motions and flings soldiers aside without fatally injuring even a single one."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Restrain them! Shoot! Shoot!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, Hiroshi’s deranged cries are no match to Sandy’s martial skill. As he fights the Japanese soldiers off, Sandy shoves Mateo towards you.\nYou and Raj reflexively reach out to catch him, preventing his fall. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hehe, missed me? "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo, my boy! You’ve returned! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor runs over to embrace him. As he does so, a large golden array appears under your feet.\nAs if someone was writing on the ground, the markings of the array form a large circle around you. \nYou think you recognize some of the markings from some of the research materials you had glimpsed in the Professor’s office before."
+		},
+		{
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hold on tight to each other!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You immediately reach down to clutch Soot to your chest, despite not fully understanding what is happening.\nThe others hurry into the region of the array, and within seconds you find yourself squeezed between them.\nBodies block your vision, you still notice as the array grows brighter, light seeping through the gaps in between. \nYou shut your eyes when the light reaches a point that you can no longer bear.\nSuddenly, you feel an out-of-body sensation, but at the same time, you feel relaxed.\nFaintly you could hear Hiroshi’s enraged cries, but at the forefront of your mind is the warmth that holds you in a tight embrace."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1685776931.json",
+		"name": "Tokyo pt3"
+	}
+}
