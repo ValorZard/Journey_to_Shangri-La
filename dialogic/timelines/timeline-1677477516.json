@@ -1077,7 +1077,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+			"text": "Ah.\nRajesh Ghoshal! He is my young colleague from the University of Calcutta in India. He’s the only person who’s research is related to my own!\nIn fact, I believe he is around your age, [YOUR NAME]."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1086,102 +1086,54 @@
 
 			],
 			"portrait": "",
-			"question": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+			"question": "It is heartwarming to know that at least [i]two[/i] young folk are interested in beyuls!"
 		},
 		{
-			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"choice": "“Why are you interested in beyuls?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh no. He’s going to info-dump again!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_sad_W_soot",
-			"text": "Oh, I think I’m alright without knowing!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "The Professor frowns."
+			"text": "The Professor smiles fondly."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "How about another time?"
+			"portrait": "",
+			"text": "My dear colleague and I studied that tale extensively, and we both enjoyed the tale of [i]Journey to the West[/i] immensely.\nMy, I remember when my colleague and I would sit together for hours, just discussing the text!\nAh, good times…\nAnyway, from our research, we determined that there are deities who serve as protectors of these beyuls.\nWe discovered characters in [i]Journey to the West[/i] who attained enlightenment could potentially be the protectors of particular beyuls. \nAt least, that was what our research highly suggests!\nSince beyuls are considered magical, peaceful places, we wanted to see them for ourselves, together.\nThus, we embarked on researching these beyuls–and it all originated from reading [i]Journey to the West[/i] together!"
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Happy_Professor",
-			"text": "Of course! Ask about it anytime, [YOUR NAME]."
+			"text": "Ah, the places stories can take you…"
 		},
 		{
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"choice": "“Why are you interested in beyuls?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh no. He’s going to info-dump again!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_sad_W_soot",
-			"text": "Oh, I think I’m alright without knowing!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "The Professor frowns."
+			"text": "The Professor smiles fondly."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "How about another time?"
+			"portrait": "",
+			"text": "My dear colleague and I studied that tale extensively, and we both enjoyed the tale of [i]Journey to the West[/i] immensely.\nMy, I remember when my colleague and I would sit together for hours, just discussing the text!\nAh, good times…\nAnyway, from our research, we determined that there are deities who serve as protectors of these beyuls.\nWe discovered characters in [i]Journey to the West[/i] who attained enlightenment could potentially be the protectors of particular beyuls. \nAt least, that was what our research highly suggests!\nSince beyuls are considered magical, peaceful places, we wanted to see them for ourselves, together.\nThus, we embarked on researching these beyuls–and it all originated from reading [i]Journey to the West[/i] together!"
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1190,7 +1142,7 @@
 
 			],
 			"portrait": "Happy_Professor",
-			"question": "Of course! Ask about it anytime, [YOUR NAME]."
+			"question": "Ah, the places stories can take you…"
 		},
 		{
 			"choice": "“Who is Raj?”",
@@ -1203,13 +1155,13 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+			"text": "Ah.\nRajesh Ghoshal! He is my young colleague from the University of Calcutta in India. He’s the only person who’s research is related to my own!\nIn fact, I believe he is around your age, [YOUR NAME]."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+			"text": "It is heartwarming to know that at least [i]two[/i] young folk are interested in beyuls!"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -1228,7 +1180,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+			"text": "Ah.\nRajesh Ghoshal! He is my young colleague from the University of Calcutta in India. He’s the only person who’s research is related to my own!\nIn fact, I believe he is around your age, [YOUR NAME]."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1237,7 +1189,7 @@
 
 			],
 			"portrait": "",
-			"question": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+			"question": "It is heartwarming to know that at least [i]two[/i] young folk are interested in beyuls!"
 		},
 		{
 			"choice": "“What are the sacred valleys of Tibet?”",
@@ -1262,99 +1214,51 @@
 			"question": "But I know they exist! Beyuls are my life’s work."
 		},
 		{
-			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"choice": "“Why are you interested in beyuls?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh no. He’s going to info-dump again!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_sad_W_soot",
-			"text": "Oh, I think I’m alright without knowing!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "The Professor frowns."
+			"text": "The Professor smiles fondly."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "How about another time?"
+			"portrait": "",
+			"text": "My dear colleague and I studied that tale extensively, and we both enjoyed the tale of [i]Journey to the West[/i] immensely.\nMy, I remember when my colleague and I would sit together for hours, just discussing the text!\nAh, good times…\nAnyway, from our research, we determined that there are deities who serve as protectors of these beyuls.\nWe discovered characters in [i]Journey to the West[/i] who attained enlightenment could potentially be the protectors of particular beyuls. \nAt least, that was what our research highly suggests!\nSince beyuls are considered magical, peaceful places, we wanted to see them for ourselves, together.\nThus, we embarked on researching these beyuls–and it all originated from reading [i]Journey to the West[/i] together!"
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "Happy_Professor",
-			"text": "Of course! Ask about it anytime, [YOUR NAME]."
+			"text": "Ah, the places stories can take you…"
 		},
 		{
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"choice": "“Why are you interested in beyuls?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh no. He’s going to info-dump again!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_sad_W_soot",
-			"text": "Oh, I think I’m alright without knowing!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "The Professor frowns."
+			"text": "The Professor smiles fondly."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "How about another time?"
+			"portrait": "",
+			"text": "My dear colleague and I studied that tale extensively, and we both enjoyed the tale of [i]Journey to the West[/i] immensely.\nMy, I remember when my colleague and I would sit together for hours, just discussing the text!\nAh, good times…\nAnyway, from our research, we determined that there are deities who serve as protectors of these beyuls.\nWe discovered characters in [i]Journey to the West[/i] who attained enlightenment could potentially be the protectors of particular beyuls. \nAt least, that was what our research highly suggests!\nSince beyuls are considered magical, peaceful places, we wanted to see them for ourselves, together.\nThus, we embarked on researching these beyuls–and it all originated from reading [i]Journey to the West[/i] together!"
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1363,7 +1267,7 @@
 
 			],
 			"portrait": "Happy_Professor",
-			"question": "Of course! Ask about it anytime, [YOUR NAME]."
+			"question": "Ah, the places stories can take you…"
 		},
 		{
 			"choice": "“What are the sacred valleys of Tibet?”",
@@ -1391,47 +1295,23 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "“Why is your amulet connected to Journey to the West?”",
+			"choice": "“Why are you interested in beyuls?”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1676265223.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "All of my years of research points to the tale. If you want, I can lay it all out for you!"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh no. He’s going to info-dump again!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "MC_sad_W_soot",
-			"text": "Oh, I think I’m alright without knowing!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "The Professor frowns."
+			"text": "The Professor smiles fondly."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Are you sure? No [i]student[/i] ever asks about my research. I’d be happy to share it with you!"
-		},
-		{
-			"character": "character-1676265208.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "How about another time?"
+			"portrait": "",
+			"text": "My dear colleague and I studied that tale extensively, and we both enjoyed the tale of [i]Journey to the West[/i] immensely.\nMy, I remember when my colleague and I would sit together for hours, just discussing the text!\nAh, good times…\nAnyway, from our research, we determined that there are deities who serve as protectors of these beyuls.\nWe discovered characters in [i]Journey to the West[/i] who attained enlightenment could potentially be the protectors of particular beyuls. \nAt least, that was what our research highly suggests!\nSince beyuls are considered magical, peaceful places, we wanted to see them for ourselves, together.\nThus, we embarked on researching these beyuls–and it all originated from reading [i]Journey to the West[/i] together!"
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1440,7 +1320,7 @@
 
 			],
 			"portrait": "Happy_Professor",
-			"question": "Of course! Ask about it anytime, [YOUR NAME]."
+			"question": "Ah, the places stories can take you…"
 		},
 		{
 			"choice": "“What are the sacred valleys of Tibet?”",
@@ -1475,13 +1355,13 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+			"text": "Ah.\nRajesh Ghoshal! He is my young colleague from the University of Calcutta in India. He’s the only person who’s research is related to my own!\nIn fact, I believe he is around your age, [YOUR NAME]."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+			"text": "It is heartwarming to know that at least [i]two[/i] young folk are interested in beyuls!"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -1497,7 +1377,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ah, Raj Ghoshal! He is my young colleague from the University of Calcutta. He’s the only person who’s research is related to my own!"
+			"text": "Ah.\nRajesh Ghoshal! He is my young colleague from the University of Calcutta in India. He’s the only person who’s research is related to my own!\nIn fact, I believe he is around your age, [YOUR NAME]."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1506,7 +1386,7 @@
 
 			],
 			"portrait": "",
-			"question": "In fact, I believe he is around your age, [YOUR NAME]. Raj is quite the prodigy!"
+			"question": "It is heartwarming to know that at least [i]two[/i] young folk are interested in beyuls!"
 		},
 		{
 			"choice": "“What are the sacred valleys of Tibet?”",

@@ -127,6 +127,28 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Done!"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1685845160",
+			"index": 0,
+			"name": "sussy"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "asdf"
+		},
+		{
+			"anchor_id": "anchor-1685845160",
+			"event_id": "dialogic_016"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "qwer"
 		}
 	],
 	"metadata": {
