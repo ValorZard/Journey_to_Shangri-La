@@ -9,11 +9,11 @@
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
-	"offset_y": -150,
+	"offset_y": -200,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Helena/Props/amulet.PNG"
+			"path": "res://Echo/Props/amulet.PNG"
 		}
 	],
 	"scale": 5,

@@ -1,10 +1,109 @@
 {
 	"events": [
 		{
+			"background": "res://Echo/Backgrounds/Japan.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tokyo4.mp3",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "DATE: MARCH 1937[br]LOCATION: TOKYO, JAPAN\nAfter a long trip, the ship finally docks in Tokyo, and the four of you–plus Soot–discreetly enter the city.\nIt’s bigger than you could have ever imagined. The street you found yourself on was wide enough to fit three cars, and yet with the number of people packed around you, you could barely glimpse the other side. \nAlmost as overwhelming as the number of people were the numerous colorful store signs stretching into the sky above your heads, fighting for attention. Even if you could read Japanese, it would probably take you forever to figure out where to go. "
+			"text": "DATE: MARCH 1937[br]LOCATION: TOKYO, JAPAN"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After a long trip, the ship finally docks in Tokyo, and the four of you–plus Soot–discreetly enter the city.\nIt’s bigger than you could have ever imagined. The street you found yourself on was wide enough to fit three cars, and yet with the number of people packed around you, you could barely glimpse the other side. \nAlmost as overwhelming as the number of people were the numerous colorful store signs stretching into the sky above your heads, fighting for attention. Even if you could read Japanese, it would probably take you forever to figure out where to go. "
 		},
 		{
 			"character": "character-1683825918.json",
@@ -15,8 +114,29 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Happy_Professor",
 			"text": "It’s been a while since I’ve been in Japan! Ooh, I hope the Temple of Bishamon is as I remember!"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -145,7 +265,17 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The party takes this chance to explore the city.\nYou find that deeper into the city you get, the narrower and more twisted the streets become. On top of that, many of the streets seemed to be built on hilly terrain, so there was a lot of walking up and down. Even so, there were still an innumerable amount of shops and stalls lining the streets.\nYou’re already hungry, but trying to navigate the confusing city has you wishing you could sit down and rest soon. \nA quick glance at the rest of the party confirms that they are feeling the same, so you settle on one of the nearest restaurants. \nTogether, hand in hand, you all head to the restaurant you had chosen, passing through sheets of cloth to enter the warm, cozy restaurant.\nMateo holds three fingers up."
+			"text": "The party takes this chance to explore the city.\nYou find that deeper into the city you get, the narrower and more twisted the streets become. \nOn top of that, many of the streets seemed to be built on hilly terrain, so there was a lot of walking up and down. Even so, there were still an innumerable amount of shops and stalls lining the streets.\nYou’re already hungry, but trying to navigate the confusing city has you wishing you could sit down and rest soon. \nA quick glance at the rest of the party confirms that they are feeling the same, so you settle on one of the nearest restaurants. "
+		},
+		{
+			"background": "res://Echo/Backgrounds/J Food.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Together, hand in hand, you all head to the restaurant you had chosen, passing through sheets of cloth to enter the warm, cozy restaurant.\nMateo holds three fingers up."
 		},
 		{
 			"character": "character-1683825918.json",
@@ -170,16 +300,106 @@
 			"value": ""
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Mateo grins widely, and hastily makes room for you, patting the empty space. \nMateo’s excitement is infectious and you find yourself eager to discover what might be on the menu.\nThe waitress hands you two menus, then leaves to give you time to look through it. \nMateo leans in and holds his menu between the both of you."
+			"text": "Mateo grins widely, and hastily makes room for you, patting the empty space. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo’s excitement is infectious and you find yourself eager to discover what might be on the menu.\nThe waitress hands you two menus, then leaves to give you time to look through it. \nMateo leans in and holds his menu between the both of you."
 		},
 		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "See anything you like?"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -190,8 +410,29 @@
 		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "JUAN_HAPPY",
 			"text": "Ah, don’t worry about it. They’ve got pictures!"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"choice": "Raj",
@@ -201,16 +442,223 @@
 			"value": ""
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "RAJ_HAPPY",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A small smile graces Raj’s face as he steps aside to let you enter the booth first. \nWhile you are settling in, Raj reaches across the table to serve you tea.\nWhen the waitress returns with the menus, you are reminded that you can’t read Japanese! And the waiter had already hurried away, so you can’t ask her for help.\nYou exchange glances with Raj and he gives you a weak laugh."
+			"text": "A small smile graces Raj’s face as he steps aside to let you enter the booth first. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While you are settling in, Raj reaches across the table to serve you tea."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When the waitress returns with the menus, you are reminded that you can’t read Japanese! And the waiter had already hurried away, so you can’t ask her for help."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Happy_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "RAJ_HAPPY",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You exchange glances with Raj and he gives you a weak laugh."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Let’s figure this out together, shall we?"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"choice": "Professor",
@@ -228,11 +676,52 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Happy_Professor",
 			"text": "Worry not! I believe I know enough Japanese to help you decipher this."
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -318,7 +807,33 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The Professor clears his throat and starts speaking to the waitress in Japanese. They speak together for a while, and both of them laugh after a few exchanges.\nMateo leans forward after she leaves."
+			"text": "The Professor clears his throat and starts speaking to the waitress in Japanese. They speak together for a while, and both of them laugh after a few exchanges."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo leans forward after she leaves."
 		},
 		{
 			"character": "character-1683825918.json",
@@ -468,6 +983,27 @@
 			"text": "[i]Meow![/i]"
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Happy_Professor",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -478,6 +1014,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What an interesting worldview…"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"choice": "Pet Soot.",
@@ -516,8 +1073,29 @@
 		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "JUAN_HAPPY",
 			"text": "Worry not! I’m quite skilled at getting myself out of situations. If anything comes up, I’ll smooth it out. You can all count on me."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -526,10 +1104,51 @@
 			"text": "Thanks, Mateo."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It takes a while for your food to arrive–the young woman really was running the shop all on her own.\nBut when it does arrive, it’s fresh and beautifully presented."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677563458.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -625,8 +1244,29 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_sad_W_soot",
 			"text": "Sorry, Professor. It seems to have slipped my mind. I do remember you telling lots of tales about Sandy from Journey to the West, though. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676265223.json",
@@ -683,12 +1323,12 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "In other words, we are obligated to go to the Temple of Bishamon. "
+			"text": "In other words, we are [i]obligated[/i] to go to the Temple of Bishamon. "
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "I suppose it wouldn’t hurt to visit. "
 		},
 		{
@@ -706,7 +1346,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy_W_soot",
 			"text": "I think it would be nice to take a walk. "
 		},
 		{
@@ -718,8 +1358,75 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Happy_Professor",
 			"text": "I’ll lead the way!"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Japan.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -761,7 +1468,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It has incredible sentimental value.You would think he would’ve already spoken about it by now."
+			"text": "It has incredible sentimental value. You would think he would’ve already spoken about it by now."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -896,7 +1603,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy_W_soot",
 			"text": "Yeah!"
 		},
 		{
@@ -904,6 +1611,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Raj laughs."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677847888.json",
@@ -921,10 +1649,41 @@
 			"text": "It should not be long before we find out. "
 		},
 		{
+			"background": "res://Echo/Backgrounds/Temple.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He nods his head towards the end of the path, where a quaint red temple sits at the top of a long staircase. \nSoot jumps out of your arms, bounding down the path excitedly."
+			"text": "He nods his head towards the end of the path, where a quaint red temple sits at the top of a long staircase. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot jumps out of your arms, bounding down the path excitedly."
 		},
 		{
 			"character": "character-1677847888.json",
@@ -933,10 +1692,152 @@
 			"text": "Let’s not dawdle any longer or he might start wondering what we were up to."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/temple-interior-5.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You enter the Temple of Bishamon, and among the wooden beams and pillars that crowd the small temple, you see a statue of a figure dominating the center. \nIts oppressive aura and golden appearance demand your attention. Particularly, the staff resting his shoulder: crescent shaped on one end and fan shaped on the other.\nYou step around the statue, examining the illustrations pasted on the walls and the artifacts laid out on the counters.\nBehind the statue is a peculiar illustration depicting a figure much like the statue, except his skin was blue and nine skulls hung around his neck. He appeared much more fearsome.\nAs you explore the temple, Mateo calls to you."
+			"text": "You enter the Temple of Bishamon, and among the wooden beams and pillars that crowd the small temple, you see a statue of a figure dominating the center. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Its oppressive aura and golden appearance demand your attention. Particularly, the staff resting his shoulder: crescent shaped on one end and fan shaped on the other.\nYou step around the statue, examining the illustrations pasted on the walls and the artifacts laid out on the counters.\nBehind the statue is a peculiar illustration depicting a figure much like the statue, except his skin was blue and nine skulls hung around his neck. He appeared much more fearsome."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you explore the temple, Mateo calls to you."
 		},
 		{
 			"character": "character-1683825918.json",
@@ -945,16 +1846,51 @@
 			"text": "[YOUR NAME]! Come look at this!"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You eagerly follow his voice and join him on the outer walkway of the temple, which overhangs a large pond. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -981,7 +1917,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Yeah. It’s as if there’s…"
 		},
 		{
@@ -1012,7 +1948,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Yeah. It’s as if there’s…"
 		},
 		{
@@ -1049,7 +1985,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "The religious tones of this temple remind me of home."
 		},
 		{
@@ -1062,7 +1998,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "My father was a pastor, so I would go to church every Sunday. There, religion felt like a duty. Here, however… feels spiritual. As if…"
+			"text": "My father was a pastor, so I would go to church every Sunday. There, religion felt like a duty. Here, however… feels [i]spiritual[/i]. As if…"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -1089,7 +2025,95 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The two of you enjoy a comfortable silence that lasts until you hear the Professor calling your names.\nYou return to the inside of the temple, where you find Raj and the Professor standing in front of the illustration from earlier."
+			"text": "The two of you enjoy a comfortable silence that lasts until you hear the Professor calling your names."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You return to the inside of the temple, where you find Raj and the Professor standing in front of the illustration from earlier."
 		},
 		{
 			"character": "character-1676265223.json",
@@ -1119,7 +2143,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Originally from the heavens, he was turned into a man-eating demon when he accidentally destroyed the Jade Emperor’s vase in anger."
+			"text": "Originally from the heavens, he was turned into a man-eating demon when he [i]accidentally[/i] destroyed the Jade Emperor’s vase in anger."
 		},
 		{
 			"character": "",
@@ -1130,14 +2154,55 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_shocked",
 			"text": "Professor! The amulet!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683621901.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Everyone turns their eyes to the Professor as he reaches into his inner coat pocket and brings out the amulet."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676341130.json",
@@ -1161,7 +2226,54 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Before anyone can answer Mateo, a loud rumbling sounds from behind you.\nYou whip around and notice that the golden statue of Bishamon is also glowing! \nThen suddenly, a ghostly form comes out of the statue, lands on the ground, and becomes corporeal!"
+			"text": "Before anyone can answer Mateo, a loud rumbling sounds from behind you.\nYou whip around and notice that the golden statue of Bishamon is also glowing! "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683621901.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then suddenly, a ghostly form comes out of the statue, lands on the ground, and becomes corporeal!"
 		},
 		{
 			"character": "character-1677564255.json",
@@ -1216,6 +2328,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "This is great! I have so many questions for you!"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -1274,7 +2407,7 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Happy_Professor",
 			"text": "Oh yes! I’ve read a lot about you, but I’ve no doubt you can tell me more!"
 		},
 		{
@@ -1286,7 +2419,7 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "We’re on a journey to find the beyuls! I’ve spent so much of my life trying to search for them, you must help us!"
 		},
 		{
@@ -1299,7 +2432,7 @@
 			"character": "character-1677564255.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I, too, went on a journey once. I hear they call it ‘The Journey to the West’, nowadays, but for me it was a journey for myself. \nTo discover myself."
+			"text": "I, too, went on a journey once. I hear they call it [i]‘The Journey to the West’[/i], nowadays, but for me it was a journey for myself. \nTo discover myself."
 		},
 		{
 			"character": "",
@@ -1326,10 +2459,68 @@
 			"text": "There is an exit in the back, hurry! "
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The gentle yet firm tone of his voice has you moving before you can think. \nThe four of you stumble around the displays and behind a wall just as a loud bang resonates in the air. \nIt is followed by the thundering sound of heavy footsteps on the wooden flooring of the temple.\nYou hear a metal clang, before the bangs come more rapidly. \nRealizing that it is gunfire, the four of you begin to make your way out of the temple with even more haste.\nFollowing Sandy’s guidance, you exit the back of the temple where you are faced with the colorful forestry of the mountainside."
+			"text": "The gentle yet firm tone of his voice has you moving before you can think. \nThe four of you stumble around the displays and behind a wall just as a loud bang resonates in the air. \nIt is followed by the thundering sound of heavy footsteps on the wooden flooring of the temple.\nYou hear a metal clang, before the bangs come more rapidly. "
+		},
+		{
+			"background": "res://Echo/Backgrounds/Temple.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Realizing that it is gunfire, the four of you begin to make your way out of the temple with even more haste."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Following Sandy’s guidance, you exit the back of the temple where you are faced with the colorful forestry of the mountainside."
 		},
 		{
 			"character": "character-1677564255.json",
@@ -1342,6 +2533,48 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Soot leaps out of your arms and you chase after her, climbing over the walkway railing.\nWhen your feet touch the uneven dirt ground, you can’t help but wonder: [i]what is going on?[/i]"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "timeline-1685776931.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

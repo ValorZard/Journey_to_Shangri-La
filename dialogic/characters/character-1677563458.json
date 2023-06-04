@@ -9,13 +9,13 @@
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
-	"offset_y": 0,
+	"offset_y": -15,
 	"portraits": [
 		{
 			"name": "Default",
 			"path": "res://Echo/Characters/RamenLady.PNG"
 		}
 	],
-	"scale": 25,
+	"scale": 20,
 	"theme": ""
 }

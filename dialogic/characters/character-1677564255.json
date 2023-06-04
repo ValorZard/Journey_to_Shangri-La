@@ -9,13 +9,13 @@
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
-	"offset_y": 0,
+	"offset_y": -20,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://Echo/Characters/Sandy.png"
 		}
 	],
-	"scale": 100,
+	"scale": 20,
 	"theme": ""
 }

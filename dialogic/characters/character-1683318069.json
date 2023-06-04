@@ -13,7 +13,7 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Helena/Props/banana_fan.PNG"
+			"path": "res://Echo/Props/banana_fan.PNG"
 		}
 	],
 	"scale": 15,
