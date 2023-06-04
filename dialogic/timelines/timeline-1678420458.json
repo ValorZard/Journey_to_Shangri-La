@@ -439,104 +439,6 @@
 			"text": "He shakes your hand firmly."
 		},
 		{
-			"choice": "“You must be a genius to receive a PhD so young.”",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256284-918",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "RAJ_HAPPY",
-			"text": "Of course! I’ve been fascinated with debunking myths and magic ever since I was a lad. It’s only natural that I entered academia at my age. And I think… we [i]are[/i] the same age, aren't we?"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You nod and shake his hand firmly."
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "Is there any topic you’re fascinated about? Perhaps I could mentor you to enter academia as well."
-		},
-		{
-			"choice": "I’m interested in beyuls, just like the Professor!",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Beyuls? Me as well. You have much to learn from both Howard and I."
-		},
-		{
-			"choice": "I’m actually interested in you, Raj.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"definition": "1676256272-366",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "Oh, um… Well, I’ll have you know you have to write an entire dissertation on me if you want to receive a doctorate in Raj studies. Give up now. "
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It’s a challenging field since there’s just so little you could ever hope to learn about Dr. Rajesh Ghoshal."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Despite his big words, he seems slightly flustered."
-		},
-		{
-			"choice": "Not really.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1677847888.json",
-			"event_id": "dialogic_001",
-			"portrait": "Default",
-			"text": "That’s alright. You still have time to decide on your career. I guess… maybe I rushed into it…"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -645,7 +547,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A remarkable idea, [YOUR NAME]! Perhaps I can finally solve the mystery surrounding the amulet…"
+			"text": "A remarkable idea, [YOUR NAME]!"
 		},
 		{
 			"choice": "Pet Soot.",
@@ -679,19 +581,229 @@
 			"text": "The three of you along for the ride will entertain me enough to not think about my doom–I mean, marriage!"
 		},
 		{
-			"character": "character-1677847888.json",
+			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "Ha, besides… Maybe you can finally solve the mystery surrounding that amulet, Howard."
+			"text": "A great idea, Raj!"
 		},
 		{
 			"event_id": "dialogic_013"
 		},
 		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor shifts from foot to foot, and you can see him touch the amulet in his pocket."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Perhaps it is best if I don’t come along."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not coming along? Why? Haven’t you always wanted to travel to India for the beyuls?\nI keep telling you Howard, now’s the time to travel while you have an assistant–and this time you’ll have me to help you. I’m quite well traveled."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj shakes his head."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I really don’t understand what’s holding you back. You always talk about wanting to find the beyuls, but you never take the steps to do so."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Apologies, Raj, but I can’t explain my predicament well…"
+		},
+		{
+			"choice": "“Is it because of your health?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor shakes his head."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, it isn’t."
+		},
+		{
+			"choice": "“Is it because of your colleague?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods."
+		},
+		{
+			"choice": "“Is it because of me?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, it’s not you at all [YOUR NAME].\nYou have been a big help to me after all these months, and I am incredibly grateful for you."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nI can’t imagine traveling again without my trusty old colleague. We promised each other that we would find the beyuls together, and now he’s gone…"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I’m so sorry to hear that, Howard. I had no idea."
+		},
+		{
+			"choice": "“Even though he’s gone…”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can still fulfill your shared dream.\nHe told you not to give up on your dreams, right?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There must be a reason he gave you the amulet. If you give up now, you’ll give up on his dream as well.\nDo you really want that?"
+		},
+		{
+			"choice": "“He told you not to give up on your dreams.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I understand it hurts, to do the things you dreamed of doing with loved ones who are now gone.\nBut this was his last wish.\n…\nWill you abide by his last wishes?"
+		},
+		{
+			"choice": "“Don’t you want to uncover the secrets of the amulet he gave you?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can never accomplish that without traveling to the beyuls."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nI understand. I want to fulfill the dream my dear colleague and I shared."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor nods."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We will accompany you, Raj."
+		},
+		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Speaking of which, can I see it?"
+			"text": "Excellent!\nWorry not, Howard–you will find the beyul.\nI am sure [YOUR NAME] is more than able to help you past Kolkata.\nAnd once you find the beyuls, do share your research with me, and the mystery surrounding that amulet, Howard.\nSpeaking of which, can I see it?"
 		},
 		{
 			"background": "res://Echo/Backgrounds/prof study.png",
@@ -731,25 +843,25 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s definitely not magical. The most we can expect from the necklace is a tea cake equivalent of a note. Just give up already. It’s just distracting you from your sacred valley research."
+			"text": "It’s definitely not magical, but it must have some properties that cause you to think it’s magical."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No! I’m convinced it’s hiding some secret!"
+			"text": "I’m convinced it’s hiding some magical secret."
 		},
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Tch. You’re being ridiculous, Howard. Magic isn’t real."
+			"text": "Howard, magic isn’t real. Even though my research on your amulet is inconclusive, that doesn’t mean it’s a magical artifact."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m not! I swear, it’s magical!"
+			"text": "I [i]swear[/i], it’s magical."
 		},
 		{
 			"character": "",
@@ -902,7 +1014,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Am I okay? Ever heard of nihilism? Nothing matters, but you wouldn’t understand, now, would you?"
+			"text": "Am I okay? Nothing matters, but you wouldn’t understand, now, would you?"
 		},
 		{
 			"choice": "“Okay…”",
@@ -948,7 +1060,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I will crack it open someday, and prove it’s magic to you, Raj!"
+			"text": "I will discover its secrets someday, and prove it’s magic to you, Raj!"
 		},
 		{
 			"character": "character-1677847888.json",
@@ -957,7 +1069,7 @@
 
 			],
 			"portrait": "",
-			"question": "Try me."
+			"question": "I look forward to your arguments."
 		},
 		{
 			"choice": "“How about we get going?”",
@@ -1071,7 +1183,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Raj has an expression on his face you can’t quite discern. Is he… disappointed? Longing?"
+			"text": "Raj has an expression on his face you can’t quite discern. Is he… dreading something?"
 		},
 		{
 			"character": "",
@@ -1083,7 +1195,7 @@
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The best route to Kolkata would be through Hawaii and Tokyo. I’ll go pack my things."
+			"text": "The best route to Kolkata would be first through Hawaii, and take a ship straight to India. I’ll go pack my things."
 		},
 		{
 			"animation": "[Default]",

@@ -912,8 +912,8 @@
 			"text": "Understandable, understandable."
 		},
 		{
-			"animation": "[Default]",
-			"animation_length": 0,
+			"animation": "1-fade_in.gd",
+			"animation_length": 1,
 			"change_mirror_portrait": false,
 			"change_z_index": false,
 			"character": "character-1683621901.json",
@@ -924,9 +924,9 @@
 			"position": {
 				"0": false,
 				"1": false,
-				"2": false,
+				"2": true,
 				"3": false,
-				"4": true
+				"4": false
 			},
 			"type": 0,
 			"z_index": 0
