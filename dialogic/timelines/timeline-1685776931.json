@@ -19,10 +19,16 @@
 			"text": "You brace yourself for impact, but instead, you feel a strong tug on your arm. \nAnother tug and you’re on your feet again, but before you can reorient yourself, you’re being dragged forward."
 		},
 		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Two to the left! Three to the right! The rest of you, behind me!"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Voice: Two to the left! Three to the right! The rest of you, behind me!\nUpon hearing those orders, you immediately duck behind the forest underbrush. You take this chance to catch your breath and look up at Mateo, who is just as winded. \nMateo puts his finger to his lips as you hear approaching footsteps.\nYou pull Soot tighter to your chest for what little comfort you could get while the footsteps get louder and louder.\nThen you feel a gentle tap on your arm.\nWhen you look, Mateo meets your eyes with great determination. And yet, when he opens his mouth to say something, he seems to struggle for a moment. \nHe fumbles with his words, and barely manages to get more than a few comprehensible words out. \nEventually, he seems to decide upon something, and grips your shoulder firmly."
+			"text": "Upon hearing those orders, you immediately duck behind the forest underbrush. You take this chance to catch your breath and look up at Mateo, who is just as winded. \nMateo puts his finger to his lips as you hear approaching footsteps.\nYou pull Soot tighter to your chest for what little comfort you could get while the footsteps get louder and louder.\nThen you feel a gentle tap on your arm.\nWhen you look, Mateo meets your eyes with great determination. And yet, when he opens his mouth to say something, he seems to struggle for a moment. \nHe fumbles with his words, and barely manages to get more than a few comprehensible words out. \nEventually, he seems to decide upon something, and grips your shoulder firmly."
 		},
 		{
 			"character": "character-1683825918.json",
@@ -40,7 +46,7 @@
 			"character": "character-1677556412.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Soldier: There! After him!"
+			"text": "There! After him!"
 		},
 		{
 			"character": "",
@@ -55,7 +61,7 @@
 
 			],
 			"portrait": "",
-			"question": "You are sure they are gone now, but what are you supposed to do now? The others are likely hiding somewhere else, but you wouldn’t even know where to begin to look. Even if you did, the Japanese soldiers are still out there. Getting caught would make Mateo’s sacrifice pointless."
+			"question": "You are sure they are gone now, but what are you supposed to do now? The others are likely hiding somewhere else, but you wouldn’t even know where to begin to look. Even if you did, the soldiers are still out there. Getting caught would make Mateo’s sacrifice pointless."
 		},
 		{
 			"choice": "Look for the others",
@@ -328,10 +334,10 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The three of you turn to face the entrance, but as your eyes adjust to the light, it's not Mateo you see. \nStanding there menacingly is a Japanese soldier."
+			"text": "The three of you turn to face the entrance, but as your eyes adjust to the light, it's not Mateo you see. \nStanding there menacingly is an Imperial Japanese Army officer."
 		},
 		{
-			"character": "character-1677556264.json",
+			"character": "character-1676341108.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What have we here? … Professor Howard Allwright."
@@ -352,7 +358,7 @@
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You’re right, where are my manners? My name is Hiroshi. \nYou see, I am on a quest to make the world recognize Japan. To acknowledge our strength and respect us. \nTo make Japan the greatest empire in existence."
+			"text": "You’re right, where are my manners? My name is Hiroshi Hashimoto. \nYou see, I am on a quest to make the world recognize Japan. To acknowledge our strength and respect us. \nTo make Japan the greatest empire in existence."
 		},
 		{
 			"character": "",
@@ -418,7 +424,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "However, Hiroshi’s deranged cries are no match to Sandy’s martial skill. As he fights the Japanese soldiers off, Sandy shoves Mateo towards you.\nYou and Raj reflexively reach out to catch him, preventing his fall. "
+			"text": "However, Hiroshi’s deranged cries are no match to Sandy’s martial skill. As he fights the soldiers off, Sandy shoves Mateo towards you.\nYou and Raj reflexively reach out to catch him, preventing his fall. "
 		},
 		{
 			"character": "character-1683825918.json",
