@@ -1,0 +1,405 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s been a few days since the events at the temple, and things had been blessedly peaceful. You and everyone had been taking it easy in the village. \nThe Professor hadn’t been deterred by having a temple fall on him, and had gone right back to the monks to continue researching the amulet–though they forced him to sit more often and take more breaks.\nRaj was openly learning about magic now and asking for demonstrations. He was both fascinated and perplexed by the workings of magical artifacts, and hurried to note down his observations.  \nMateo had finally plucked up the courage to play his guitar for the village children, after hours of them asking and asking. Last you saw, he’d been smiling broadly and playing freely–finally confident.\nWukong himself had been active in the village too, probably because of what had happened with Hiroshi. He was being a bit more careful, not leaving his people alone for long, just in case he’d missed someone.\nBut there had been no issues. All of Hiroshi’s men had surrendered. Those who wanted to leave had been allowed to, but those who wanted to stay and practice Buddhism had been welcomed with open arms.\nAs for you…\nYou had been spending most of your time with Soot, bringing her everywhere and letting her explore, while only carrying her with one arm as your shoulder healed.\nBut now, the bandages could come off for good, and you can finally hug Soot with both arms.\nYou’re in the middle of cuddling her when Mateo comes barreling right into you. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ack! Ah–sorry, [YOUR NAME].\nBut it’s great news! The Professor says he’s finally opened the amulet!!!\nRaj sent me to come get you and meet them at the other temple.\nLet’s go!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You make it to the other temple Mateo had talked about. The Professor is out front with Raj, smiling wistfully.\nThe amulet is in his hand… And it is open.\nInside is a small slip of paper. As you squint at it, you can see there’s writing there.\n[i]Howard.[/i]\n[i]Thank you.[/i]\n[i]You’ve fulfilled our dream.[/i]\nThe paper is unsigned, but the Professor is misty-eyed."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is…\nThis is my old friend’s handwriting.\nWas he… guiding us here all along?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo blinks, a bit confused."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your friend was… A ghost inside the amulet?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor chuckles a bit and wipes his eyes."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no. Unfortunately, he is no longer with us.\nThe amulet [i]is[/i] an artifact to point the owner towards their heart’s desire. The scriptures here confirmed it.\nBut [i]this amulet[/i] requires such a strong desire, it cannot work as a guide with only a single person’s desires, no matter how heartfelt they are.\nBut both his and my desires to fulfill our dream… It was enough."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor briefly closes his eyes and sighs in contentment."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Finally… after all these years.\nThank you, dear friend\nWe made it here because of you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With the mystery of the amulet finally solved, there’s no more reason for you to be here.\nIt’s time to leave Shangri-La.\nYou all bid your goodbyes to the villagers, and head to the village entrance. Along the way, you talk about your future plans, as your collective goal has been accomplished.\nAnd now, everyone is going their separate ways.\nAs you do, Wukong leaps down from somewhere up above to join you on your walk to the village entrance."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Finally time to say goodbye, huh?"
+		},
+		{
+			"choice": "“I’ll miss you.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haha!\nI’ll miss you too, you crazy mortal."
+		},
+		{
+			"choice": "“I can’t wait to go home.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, from what I’ve heard, you’ve been gone for a while."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Where are you all off to?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am going back to LA! There is much to publish regarding the amulet."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll be staying within the general area, in a sense. I’ll be conducting my own research in the nearby beyuls–I want to learn about their culture and its nuances."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ha! I’ll be heading back to Guadalajara and visiting my family–it’s been a while, and I have quite the story to tell them!"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh…\nAnd you, [YOUR NAME]?\nWhere do you want to go?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, indeed.\nWhere do you want to go?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Or rather, [i]who[/i] do you want to go with?"
+		},
+		{
+			"choice": "Go with Raj",
+			"condition": ">=",
+			"definition": "1678425930-787",
+			"event_id": "dialogic_011",
+			"value": "0"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And so, you travel the Himalayas with Raj.\nYou enter countless beyuls and spend time with the residents, learning of their culture and folklore.\nRaj diligently records down everything he learns, and even starts teaching you how to conduct anthropological studies. \nWhile your notes aren’t nearly as diligent or neat as his, you still enjoy the process of getting to know cultures unlike your own.\nAnd now that you’ve experienced magic firsthand, you can see threads of it in the people’s words and culture. You can see how magic had shaped their culture, so long ago.\nAnd now, so can Raj. He no longer denies it.\nIt’s a peaceful life of travel, and the two of you often stop to take in the sights of nature.\n… And on the clearest, cloudless nights, the two of you stargaze, just as you did once before."
+		},
+		{
+			"choice": "Go with Mateo",
+			"condition": ">=",
+			"definition": "1683827988-648",
+			"event_id": "dialogic_011",
+			"value": "0"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’d like to accompany Mateo to his home."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haha! That eager to meet my family, huh?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo blushes."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll be glad to have you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And so, you travel with Mateo to his hometown in Guadalajara, Mexico. Throughout the trip, Mateo more openly strums his guitar and sings for you. He teaches you some chords on the guitar, standing behind you with his arms wrapped around you, hands gently guiding yours on the fretboard. In these moments, he takes the opportunity to kiss your cheek for the romantic verses he composes–you’ve never felt this happy before.\nYou sing together, and spend your traveling days happily creating tunes for your fellow ship passengers and other travelers on your journey to Guadalajara. Mateo is the happiest you have ever seen him. He walks with confidence and plays with confidence for his family. His parents and grandparents and siblings welcome you into their home, tossing each other knowing glances.\nMateo doesn’t hide his affection for you, and pulls you into a deep kiss."
+		},
+		{
+			"choice": "Go with Professor ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’d like to return to LA with the Professor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Professor: Wonderful!"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright then!..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And so, you return to LA with the Professor.\nWith the opened amulet and firsthand experiences in the beyuls, the Professor is able to publish paper after paper, gaining acclaim as UCLA’s best Anthropologist.\nHe earns countless grants and awards, and he uses that money to give you a scholarship for higher education. It’s enough money to pay off your entire tuition, and then some.\nYou become a full-time student while still working part-time as his academic assistant. \nYour choice of major? Anthropology. Going on the wild adventure to the beyuls had sparked your interest in the field, and the Professor encouraged you all the way.\nYou slowly transition from an academic assistant to the Professor to his trusted research partner, working with him through your undergraduate education into a graduate education in Anthropology. \nAnd when he retires, he gifts his office to you for your own use, and promises to pop by and visit whenever he can. \nIt’s a good life ahead of you–one full of anthropological research!"
+		},
+		{
+			"choice": "Stay in Shangri-La",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "!=",
+			"definition": "1676253825-648",
+			"event_id": "dialogic_012",
+			"value": "69696969"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I… Actually, I’d like to stay here for a while."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, really?\nSure! We’ve got no objections. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? Might I ask why?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…\nYou want to continue your field work, the Professor wants to go back to LA, and Mateo wants to go back home.\nBut I don’t really have a place to call home.\nSo I’d like to stay here for a while, figure things out. Maybe… I don’t know, write a book about our experiences. I’ve got the time."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor’s eyes shine at that, Mateo grins and gives a thumbs-up and Raj nods approvingly."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Very well then. I wish you success."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll miss you, [YOUR NAME]!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, we all will!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s a slight gleam in his eye. Before you can even blink, he grabs you and pulls you into a hug–one that the Professor eagerly joins in on, and one that Mateo drags Raj into as well.\nYou can’t help but laugh."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It won’t be forever! Promise."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And so, you remain in Shangri-La while the others return to their respective destinations.\nIt’s peaceful every day, and it gives you time to think back and reflect on everything. \nAnd the more you think about it, the more writing a book sounds like a good idea. Perhaps if it sells well, you could make a living as an author…\nSo that’s what you do–you chronicle the entire journey, working tirelessly on it, for countless days and nights.\nWukong checks up on you occasionally, and one day you give him a draft to read. He grins and laughs a lot when he goes through it, and remarks that you really could become a fully-fledged author.\nOnce the final draft is finished, you share it with the villagers as well. They all love it, and the old couple you befriended encourage you to go out and share your tale with the world.\nAnd so, after two long years of writing and refining, you do so.\nYou head back to LA and submit your work to several publishers–all of which immediately are enraptured by your story and offer to publish.\nIt’s hard to believe how fast your book hits the shelves, and soon you’re gaining popularity wherever you go…\nAlong with inspiration after inspiration. You can’t help it; you start writing in earnest, and become a well-known author.\nIt’s a good life ahead of you–one full powerful narratives!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "!=",
+			"definition": "1676253825-648",
+			"event_id": "dialogic_012",
+			"value": "6969696969"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I… Actually, I’d like to stay here."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, really?\nSure! We’ve got no objections. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really? Might I ask why?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…\nYou want to continue your field work, the Professor wants to go back to LA, and Mateo wants to go back home.\nBut I don’t really have a place to call home.\nSo I’d like to stay here for a while, figure things out."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor’s eyes shine at that, Mateo grins and gives a thumbs-up and Raj nods approvingly."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Very well then. I wish you success."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll miss you, [YOUR NAME]!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, we all will!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s a slight gleam in his eye. Before you can even blink, he grabs you and pulls you into a hug–one that the Professor eagerly joins in on, and one that Mateo drags Raj into as well.\nYou can’t help but laugh."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It won’t be forever! Promise."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And so, you remain in Shangri-La while the others return to their respective destinations.\nIt’s a peaceful life, here in the beyul. The villagers are kind and friendly, there’s little conflict among them and the old couple are thrilled to have you back living with them. You help them out with work around the house and take up the Buddhist practices with them, and you find yourself content.\nWukong occasionally pops by to say hello whenever he’s in the village, and as time passes, the two of you grow close. You talk about your experiences with magic–with Sandy, with Wukong, with how the beyul itself is full of magic, and he talks to you about his past, his hijinks in Heaven, his time with Tripitaka, and his time caring for the villagers now.\nHe also gives you some demonstrations of his power sometimes, just for fun. He spawns monkey clones and leaps up on clouds, soaring through the sky like he belongs there.\nAnd one night, he takes you up with him."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1685833747.json",
+		"name": "Shangri-La pt3"
+	}
+}
