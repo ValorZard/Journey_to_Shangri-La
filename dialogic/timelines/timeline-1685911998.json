@@ -1,0 +1,1484 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even though everyone is sleeping in the attic, it’s not as cramped as you thought it would be. It’s quiet and peaceful, and you all fall asleep within minutes of each other.\nYou’re deep in a dream where Soot can fly and is eating endless amounts of fish, when–\n[b]BANG![/b]\nYou startle upright at the sound of the door slamming open. Your head whips over to see–\nSoldiers. [i]Soldiers.[/i]\nBearing guns, and [i]flooding[/i] into the room."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On your feet, now!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A gun is shoved into your face and you scramble to get up, confused out of your mind.\nYou recognize their uniforms. They’re the same ones who were with Hiroshi, back in Tokyo…\nBut how are they here? [i]How?[/i]\nYou’re roughly pushed to the center of the attic, where Raj, Mateo and the Professor are also being herded."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This wasn’t part of the deal!\nI just need more time–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s promptly punched in the gut."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shut up!\nYou had your chance!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That guilty look is back on Mateo’s face, and both Raj and the Professor are staring at him."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s all of them. Take them away!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A gun prods your back and you have no choice to obey. The others silently walk along with you.\nAs you leave, you feel your stomach drop from under you.\nYour arms are empty–devoid of a furry feline that normally occupies them.\n[i]Soot isn’t with you...[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The soldiers shepherd you into the temple, and back to the room you remember was filled with books and scrolls. It was the room where the Professor had been researching, just yesterday.\nBut unlike yesterday, the books and scrolls are thrown about, haphazard lanterns fill the room with a harsh light, and the monks are all kneeling in the corner. Soldiers stand behind them, stoic faced and with guns trained on the monk’s heads. \nAnd Hiroshi stands in the middle of the room, an ornate-looking fan clenched tightly in his hand."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sir! Mateo and his companions."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi turns at that, a terrifying expression on his face.\nBut once he gets a look at you, the expression melts into something… satisfied."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good work, soldier. \nPut those three with the hostages."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi indicates to you, the Professor, and Raj at those words. Not Mateo.\nFrom how Raj glances at him, he recognizes this too.\nBut more gun barrels swing your way and it’s either listen, or get shot.\nThe three of you quietly join the monks in the corner and kneel down, leaving Mateo alone before Hiroshi.\nHiroshi lets out a sigh and turns his attention to him, clicking his tongue. Mateo stands stiffly, face noticeably paler than before."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, Mateo.\nWhat happened?\nYou were so compliant back in Tokyo…\nAnd look at you now. Useless.\nYou had so many opportunities to bring me those two academics, and what did you do?\nAbsolutely [i]nothing.[/i]\nYou should have known better than try to test me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo swallows at those words, clenching his fists to disguise their trembling. Hiroshi just hums, pulling out his gun and shoving it underneath Mateo’s chin."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have no need for worthless dross."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His finger curls around the trigger–"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj makes a move to surge forward and is held back by the soldiers behind him.\nBut it makes Hiroshi pause and glance over."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me a good reason why I shouldn’t kill him right now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj’s chest is heaving slightly and he looks like he’s processing a million thoughts per hour. But then he sets his shoulders."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep him alive, and Howard and I will cooperate with whatever you want us to do.\nYou wanted us for some reason, yes?\nWell here we are.\nWe’ll cooperate."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi hums at that, considering.\nHe abruptly pulls his gun away and shoves Mateo towards his soldiers. Mateo is promptly shoved down to his knees next to you."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Very well then. You two–get up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He points Raj and the Professor towards the desk.\nCovered in papers, it’s hard to make out what they’re supposed to see. But you can make out several drawings of… a banana leaf fan?\nThe same fan that was held in Hiroshi’s hand?"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You will interpret these texts and restore this fan to its former magic.\nIf you fail, I’ll put a bullet in Mateo first, then your other companion. If you’re slow, I’ll put a bullet in their limbs to make you cooperate."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We… We understand. We will do what we can.\nPlease give us a bit of time."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With that, the two carefully approach the desk and begin examining the papers. It goes quiet, with just the sound of papers rustling, hasty writing on scratch pieces of paper, and soft murmurs as Raj and the Professor work.\nYour arms feel cold without Soot, and you’re faintly aware that you’re trembling.\nBeside you, Mateo shifts closer. He’s still pale."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re… We’re gonna be okay, [YOUR NAME]."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-Yes…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your head is still spinning from the new revelations. Mateo had been helping Hiroshi… So that was why Hiroshi knew Raj and the Professor, why Hiroshi had appeared in Kolkata…\nBut Mateo’s assistance, very clearly, hadn’t been by choice.\nJudging by Mateo’s guilty expression, he doesn’t agree with your thoughts."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s not your fault, Mateo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He glances at you sharply, looking completely stunned."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I–"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was either cooperate or get shot.\nHah… And look at what we’re doing now?\nYou’re not a bad person for doing what you did, Mateo. \nYou’re kind and sweet and sincere.\nNone of us blame you, so don’t blame yourself."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]..."
+		},
+		{
+			"character": "character-1677556412.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quiet, both of you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A gun harshly prods you in the back of the head, and that is all you can say to him.\nBut you reach over and take his hand, and his fingers curl around yours, squeezing tightly."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s been an agonizing half hour, and Hiroshi is clearly getting impatient. He is pacing back and forth, idly slapping the fan in his hand, eyes fixed on the Professor and Raj.\nBut before things get any worse, both Raj and the Professor straighten from the desk. Raj’s face is completely stoic, while the Professor is slightly pale."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s done. Here."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He slides a paper forward for Hiroshi to see, covered in a text you can’t quite read. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is the chant that will undo the binding spell on the fan. Now let them go."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi tuts at that."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Once the fan is restored to its power, [i]then[/i] I will.\nRecite the chant."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj hesitates at that."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not exactly fluent in–"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then I suppose one of your companions will die. Which one will it be?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No–"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I can do it. I’m fluent."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then hurry up already."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor steps forward and picks up the paper. In a slightly shaky voice, he begins to chant.\nBefore your very eyes, the fan begins to glow. A faint breeze blew through the temple, before slowly picking up in strength. It’s blowing right towards the fan."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The man’s arm jolts out, like the fan itself is trying to move. It jerks itself out of its grasp and settles in the middle of the room, suspending itself in midair as if by wind… or magic.\nThe light begins to shine brighter, the winds start to churn more violently around it, and the Professor has to raise his voice in order to be audible above the winds.\nThe light becomes blinding and the winds reach a howling peak…\nThen the light abruptly fades into a gentle pulsing, and the rushing winds slow and calm into a fresh spring breeze.\nThe Professor’s voice fades away."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It… It is done."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi slowly approaches the fan, staring at it almost reverently. Every eye is on him as he grips the handle and turns it in his hand.\nA triumphant smile comes to Hiroshi’s face."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha…\nAHAHAHA!!! Finally!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He looks over at you and the other monks with a menacing grin, and with a jolt you realize he wants to test the fan on you all–\n[b]BANG![/b]\nThe door to the room flies open and a furious-looking Wukong comes sprinting in–cudgel in one hand, and his other hand–pulling at tufts of his own hair–? \nSoot is right on his heels, hissing."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi’s men swivel their guns to him in alarm, but Hiroshi is faster. He swings the fan at Wukong, and it releases a mighty gust of wind–so mighty, it bodily blows Wukong [i]and[/i] the wall behind him [i]flying[/i], the wood cracking and splintering as it is forcibly ripped apart by the power of the wind.\nBut, not before Wukong opened the hand with the hairs and let them fall free. As he’s launched away, Wukong clones appear in smoke clouds from the hairs, all wielding cudgels. \nA hand grabs you by the shoulder and shoves you face-first into the floor as the Wukong clones launch themselves over your head, attacking Hiroshi’s men and clearly intending to eliminate the worst threat towards the hostages–the guns.\nMateo hits the floor next to you, his hand on your shoulder, before he cries out in alarm and pushes you down further."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Look out!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear more than see another gust of wind being summoned by the fan, and feel it tug at your hair and clothing as it [i]just barely[/i] passes over you. \nBut behind you, you hear men shouting, the monks shouting, the various Wukongs shouting, and the awful sound of wood ripping itself apart. You whip your head over your shoulder to see a gaping hole where the wall should have been, and faintly see the Wukong clones snatching people in the air before they can get hurt.\nAbove you, the temple ceiling is creaking, and wood pieces keep falling around you.\nIn front of you, Hiroshi is laughing in triumph, not caring that he’d just blown away his own men."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, yes!!\nWith this power, the Imperial Japanese Army will be unstoppable–\nAaargh!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi abruptly cries out in pain and furiously looks down. Soot is crouched at his feet, teeth sinking deeply into his ankle."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You–!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo scrambles up at the opening and tackles Hiroshi like a madman, sending them both crashing to the floor.\nThe two of them wrestle with each other, and Mateo manages to grab Hiroshi’s wrist and prevent him from swinging it."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Someone grab the fan!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You scramble to your feet as Raj leaps forward, clumsily scrabbling for the fan. He and Hiroshi fight for it, and it ends up dropping to the floor, just out of reach."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot leaps in between the flailing limbs and scoops up the fan, scurrying to you with it clamped firmly in her jaws."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hastily pick her up and the fan, before jumping backwards as an entire portion of the ceiling comes crashing down."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The temple is collapsing! We have to go!"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t you dare! That fan belongs to me!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He manages to kick Raj off and punches Mateo in the gut, leaping back up and drawing his gun. \nThe Professor lets out a cry and lunges at Hiroshi, clumsily crashing into him but knocking him off balance. The gun goes off, but the bullet misses you."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME], just run!!! Keep the fan away from him!!!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The ceiling above gives an ominous groan.\nYou hesitate for one more moment, before turning and running out of the huge hole in the temple.\nYou barely make it three steps away before the entire structure collapses, sending wood beams and dust flying everywhere…\nBurying everyone inside."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No!!!\nProfessor!!!\nRaj!!!\nMateo!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one answers your call. It’s just you and Soot now, standing before the collapsed remains of the temple.\nJust you, Soot, and the fan which had caused all the destruction.\nYou want to fling it away, but you don’t. If you lose it… Who knows who would pick it up…"
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow :("
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…\nYou’re right, Soot.\nWe need to get this thing to Wukong."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "As you turn away from the wreckage, you hear something shift. Your heart leaps–did someone survive after all?"
+		},
+		{
+			"choice": "“Professor?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Mateo?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Hello?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A pile of wood shifts more at your voice and you run forward, helping to dig out the person–\nAnd you’re met with the barrel of a gun pointed at your face."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi’s furious, yet [i]calm[/i] face is on the other side. That just makes it more terrifying."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He slowly stands up from the pile, shoving off the last pieces of wood and stepping out of the wreckage, gun trained unwaveringly at your face. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me the fan, [i]now.[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The gun is unwavering and you know how good Hiroshi’s aim is."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What do you do!?"
+		},
+		{
+			"choice": "Use the fan",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hastily bring the fan up to blow Hiroshi away–\nPain [i]explodes[/i] in your shoulder and you drop the fan with a cry.\nYou’ve… You’ve gotten shot. It hurts. It [i]hurts.[/i] \nYou crumple to your knees, and Soot yowls at the sight of your pain."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmf."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi strides towards you, eyes on the fallen fan beside you."
+		},
+		{
+			"choice": "Surrender the fan",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O–Okay. It’s yours."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hold out the fan for him to take."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmf. Put it down on the ground."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You slowly kneel down and lay the fan down. Then–\nPain [i]explodes[/i] in your shoulder and you cry out.\nSoot yowls at the sight of your pain."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just in case."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi strides towards you, eyes on the fan."
+		},
+		{
+			"choice": "Run away",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You immediately throw yourself to the side and start running, aiming for the path leading to the village–\nPain [i]explodes[/i] in your shoulder and you topple to the ground with a cry, dropping the fan in the process.\nYou’ve… You’ve gotten shot. It hurts. It [i]hurts.[/i] \nSoot yowls at the sight of your pain."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmf."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a massive struggle to claw your way to your knees. You look up to see Hiroshi striding towards you, eyes on the fallen fan at your side."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Before Hiroshi can touch the fan, there’s a shout from above, and Wukong comes leaping in between you and Hiroshi. His cudgel [i]slams[/i] down on Hiroshi’s gun on descent, sending it careening right out of his hand.\nIt’s completely dented.\nWukong doesn’t bother with words or hesitation. He swings the cudgel again and cracks it [i]hard[/i] against Hiroshi’s head, sending him crashing to the ground. Wukong plants a foot on Hiroshi’s chest, pinning him firmly to the ground, and swings his cudgel again, bringing it to a stop just before Hiroshi’s face. \nThe man glares hatefully up at him."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You damned Monkey god… How dare you get in my way?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After a moment, Wukong slings the cudgel over his shoulder and sighs, observing Hiroshi."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Normally I would kill you and that would be the end of it, but I’m a Buddha now. It’s sort of forbidden.\nSo instead, I’ll help you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wukong’s cudgel shrinks until it’s the size of a needle, and he tucks it behind his ear. His hand starts glowing with a golden light.\nHiroshi starts thrashing again."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t you dare do anything to me!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wukong completely ignores Hiroshi and kneels down, pressing his fingers against the man’s temple.\nHiroshi’s shouts and struggles peter off and he goes still. His eyes slowly close as his body begins to glow the same light as Wukong’s hand. \nThere’s a flash, and Hiroshi is gone. In his place is a tiny tree sapling, already planted and swaying gently in the breeze."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Things will be better now, Hiroshi Hashimoto. There will be no more war nor strife, just peace."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He stands and leaves the sapling behind. At the same time, he pulls out another tuft of his hair and tosses it into the air, spawning more Wukong clones. They immediately rush to the ruins of the temple and start sifting through the wreckage, while one picks up the abandoned fan.\nWukong himself comes to you and helps you to your feet."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]..."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I…"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ooh, that’s a nasty wound. Here."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He gently lays a hand on your injured shoulder, and it begins to glow. The pain fades, and you can breathe a sigh of relief. Wukong’s fingers gently pluck out the bullet and he tosses it away."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The healing is pretty rough, so we’ll need to treat you back at the village. But you should make a recovery relatively quickly."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you…\nAh…\nBut… everyone else…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot leaps into your arms at that, as if to comfort you.\nFrom the side, a Wukong clone calls out."
+		},
+		{
+			"character": "character-1685914438.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t worry, they’re all okay!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look up to see your companions being pulled out of the rubble!\nOne Wukong clone is supporting the Professor over a fallen bookshelf, while another is hauling Mateo out of a pile of wood and a third is shoving a wooden beam off Raj. \nThey’re all beat up and dirty, but they’re [i]alive.[/i]"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]!"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re okay!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You survived!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes…! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Relief hits you so hard you feel like toppling over again. \nAnd then a body hits you and you actually almost topple over again. A strong arm on yours keeps you standing."
+		},
+		{
+			"definition": "1678425930-787",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "0"
+		},
+		{
+			"definition": "1683827988-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "0"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"condition": "",
+			"definition": "1678425930-787",
+			"event_id": "dialogic_012",
+			"value": "Mateo"
+		},
+		{
+			"condition": ">",
+			"definition": "1678425930-787",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And then a [i]second[/i] body hits you and you end up toppling backwards into Wukong.\nWukong himself doesn’t even budge and merely guides you all back to your feet.\nYou look up to see both Raj and Mateo hugging you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They both pull back a bit, but keep their hands on your upper arms, holding you gently."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you hurt? You–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj’s eyes fall to your shoulder."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are! Come, we need to get to help right away–"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait, wait! I’m okay!\nWukong healed me–the wound isn’t even open anymore."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot leans up to gently rub her head against your shoulder as proof. \nBoth men sigh in relief."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good. That’s… good."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "C’mon, that’s all you gotta say? "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What!? It’s good that [YOUR NAME] is uninjured."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, but it’s [i]more[/i] than good. [YOUR NAME], we heard the gunshot, and it–we thought the worst. It was terrifying."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You smile a bit sheepishly, since you [i]did[/i] actually get shot."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…\nI’m okay now, so it’s all okay.\nBut what about you both, are you okay? You jumped Hiroshi, who had a [i]gun.[/i]"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In my case, the gun wasn’t aimed at me. What mattered was keeping the fan out of his grasp. What’s your excuse, Mateo?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha…\nWould you believe me if I said I wasn’t thinking?\nWe were all going to die–he was going to use the fan on us–so when Soot gave an opening, I just took it and ran.\nGood thing it worked out fine!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj rolls his eyes."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Only you could pass off attacking a soldier as ‘working out fine.’"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And only you could just say ‘good,’ when [YOUR NAME] said he’s okay."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo mimics Raj’s voice at the word ‘good,’ and Raj promptly shoves him in the shoulder.\nYou can’t help it. You laugh."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re like an old married couple now, bickering together."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Both men look embarrassed, but neither of them exactly deny it."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "N–never mind that now. We should get back to the village, or something."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj’s words remind you that things aren’t quite finished."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">",
+			"definition": "1678425930-787",
+			"event_id": "dialogic_012",
+			"value": "6"
+		},
+		{
+			"anchor_id": "anchor-1685935718",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">",
+			"definition": "1683827988-648",
+			"event_id": "dialogic_012",
+			"value": "6"
+		},
+		{
+			"anchor_id": "anchor-1685935718",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1676253825-648",
+			"event_id": "dialogic_012",
+			"value": "-696969"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1685935718",
+			"index": 0,
+			"name": "mateoOrRajIsHighEnough"
+		},
+		{
+			"condition": ">",
+			"definition": "1678425930-787",
+			"event_id": "dialogic_012",
+			"value": "Mateo"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj is the one hugging you tightly, before pulling back and gripping your arms. His eyes glance you over, fixating on your shoulder."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re injured–!?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no. Not anymore–Wukong healed me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot leans up to gently rub her head against your shoulder as proof. \nRaj sighs in relief"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good.\nWhen I heard the gunshot I… I feared the worst.\nI am so, so glad you’re okay."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hearing Raj’s concern about you makes you feel warm.\nBut…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But what about you, Raj? \nYou jumped Hiroshi for the fan, and he kicked you pretty hard…"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah…\nI will admit that it did hurt.\nBut what matters is that Hiroshi did not get the fan. You were instrumental in that, [YOUR NAME]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A slight smile comes to his lips."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like the childhood stories I used to read."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Raj smile at each other, losing yourself in each other’s eyes…\nUntil Soot mewls, and you abruptly remember that you’re not alone. \nBut Raj doesn’t mind. He grins at you and pulls you deeper into his embrace."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re my hero, [YOUR NAME]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your cheeks feel really hot."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, it appears Uptight Guy has finally loosened up to love! From now on, you are… Lover Guy!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj laughs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re a songwriter and yet you can’t think of a better name?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo shrugs."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It describes you well, so why not!"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, you couldn’t go with just [YOUR NAME]’s Lover, hm? You know I like things nice and straightforward."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… I actually like Lover Guy."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj blushes."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I like Lover Guy too!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo breaks down laughing."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Still. There’s still the fan to consider. But don’t worry, [YOUR NAME]. Just as you heroically saved the day, I will protect you as your hero.  "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj’s words remind you that things aren’t quite finished."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "<",
+			"definition": "1678425930-787",
+			"event_id": "dialogic_012",
+			"value": "Mateo"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He hugs you tightly, before pulling back and looking you over."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you hurt?\nDid any wood fall on you?\nDo you have any splinters?\nIs Soot okay?\nWait, your shoulder–!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whoa! Whoa. I’m okay, and so is Soot."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot mewls in agreement, and Mateo relaxes at that."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wukong healed me, so I’m okay now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo sighs in relief."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah… Good. I heard the gunshot, and that was [i]terrifying.[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You smile a bit sheepishly, since you [i]did[/i] get shot.\nBut…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But what about you, Mateo? You charged at Hiroshi and that man had a [i]gun.[/i] What were you thinking?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now it’s Mateo’s turn to look sheepish."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ahaha…\nWould you believe me if I said I wasn’t thinking?\nWe were all going to die–he was going to use the fan on us–so when Soot gave an opening, I just took it and ran.\nGood thing it worked out fine!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hearing Mateo’s easygoing optimism makes you smile again. You gaze up at him and he gazes back at you, and you slowly lose yourself in his eyes…\nMateo’s eyes soften and start to glisten with tears, and you see a hint of vulnerability in them. He pulls you into a hug."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m so, [i]so[/i] happy you’re okay. If you’d died, it would have been all my fault…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even if I did, it wouldn’t have been your fault, Mateo. Everything you did was for us. You care so much and [i]risked[/i] so much–thank you, Mateo. I-I…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You feel yourself being overwhelmed by emotion where words are hard to formulate, but Mateo puts a finger to your lips. He shoots you his charming smile, this time bereft of his usual forced optimism. He looks a little shy, and his face is completely flushed."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shhhh. I did it all because I love you~"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your cheeks feel hot.\nUntil Soot mewls, and you abruptly remember that you’re not alone. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your heart seems to have been stolen, Mateo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo’s flush deepens, and he just laughs."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haha! Perhaps… But it’s to the perfect person."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your mind stutters to a halt at that and you fumble, trying to find a way to change the subject.\nYou abruptly remember that things aren’t quite finished yet."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]!!!!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He hugs you tightly, almost squeezing all the breath out of you."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re okay! You’re alive! When I heard the gunshot, I feared the worst!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I… can’t breathe…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He hastily lets go and you suck in a much needed breath."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But are [i]you[/i] okay, Professor? You ran at Hiroshi and then the temple…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor smiles and idly waves a hand."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thankfully, my back did not throw out during that. I will admit it was rather impulsive of me…\nBut indeed, I am okay.\nAs the temple was collapsing, the wall shelves…\nThey fell and hit each [i]other[/i], not me, and gave a tiny pocket of safety to hide in.\nIt was like the land itself was protecting me. Protecting [i]us[/i]."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This land is magical. You were right, all those months before."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor beams at you and squishes all the air out of you again.\nWhen he finally lets go, you abruptly remember that things aren’t quite yet finished."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "skipElses"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait, what about the fan–?"
+		},
+		{
+			"character": "character-1685914438.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, don’t worry about it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He holds up the fan, and before your very eyes, it shrinks into a tiny leaf."
+		},
+		{
+			"character": "character-1685914438.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ll keep it safe. No one will be able to use it for harm again."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now, let’s get you all back to the village. You all need to get patched up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With that, the various Wukongs support you and the party, and you head back to the village. "
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1685911998.json",
+		"name": "Shangri-La pt2"
+	}
+}

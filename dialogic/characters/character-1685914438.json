@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Wukong's clone",
+	"display_name_bool": true,
+	"id": "character-1685914438.json",
+	"mirror_portraits": false,
+	"name": "Clone Wukong",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Echo/Characters/Wukong_Neutral.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
