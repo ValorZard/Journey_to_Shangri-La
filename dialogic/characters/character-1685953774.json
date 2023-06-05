@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Mr. Ghosal",
+	"display_name_bool": true,
+	"id": "character-1685953774.json",
+	"mirror_portraits": false,
+	"name": "Raj's Father",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Echo/Characters/Raj’s father.PNG"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
