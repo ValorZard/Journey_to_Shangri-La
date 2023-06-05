@@ -1,0 +1,1386 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: MARCH 1937[br]LOCATION: KOLKATA, INDIA\nAfter what seemed like a lifetime of travel, you and your group approach the city of Kolkata."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Finally! All of our travels are over. This is the home stretch, we can get to the beyuls!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ve sure had a lot of crazy adventures on the way."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows, and rubs her head against your leg."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj sighs."
+		},
+		{
+			"choice": "“Raj?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“You okay?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj stiffens."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am fine."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is where I will depart from you all."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, no need to sound so formal? We’ll still be together for a bit, you know?? Let’s enjoy our time together!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor pulls everyone into a hug."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Agreed! You may have returned home, but you’ve returned home with [i]us[/i]!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj sighs again."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Very well. I informed my father by letter that we were arriving today."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is he going to meet us here?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, he’ll be much too busy with the preparations for tomorrow. I just hope I get to see him while we’re here, he’s always busy with his work. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj looks away at that. He appears… displeased.\nAs you get off the boat, carrying your bags, you spot a Bengali man standing in front of a taxi. He holds up a piece of paper that says, “Rajesh Ghoshal.” \nAs the party approaches him, he holds out his hand."
+		},
+		{
+			"character": "character-1686001406.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Welcome to Kolkata! I’ve been sent to bring you to the house. All four of you are here?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All five if you count the cat."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He picks up Soot."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She’s our fifth member. We surely wouldn't have gotten this far without her."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mhm."
+		},
+		{
+			"character": "character-1686001406.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Indeed. You must have had quite the adventure getting here."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quite! We’ve been through Hawaii and Tokyo–but guess what! A legendary figure–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj gently elbows the Professor."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t mind him. He has a wild imagination."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Professor, we need to keep a low profile. That Hiroshi guy wants the amulet, remember?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor pouts, saddened that he couldn’t share his research with another soul."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The taxi drives you through the streets of Kolkata. "
+		},
+		{
+			"choice": "Say nothing and just look at the streets of Kolkata.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " You notice bustling crowds, towering colonial architecture, and the delicious scent of street food for sale wafts through the taxi’s open window. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Woah! It’s so different from Hawaii!"
+		},
+		{
+			"choice": "Ask about how Raj is able to pay for all of this.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "..."
+		},
+		{
+			"choice": "Ask about how Raj is able to pay for all of this.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "ableToPay"
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, don’t you know? Mr. Ghoshal is the son of a famous cotton merchant in the city. The Ghoshals are quite wealthy."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you can say that."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj taps his fingers on his knee, wistfully looking out the window. He idly rubs his ring finger."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The group arrives at Raj’s house, which you realize is an actual mansion! An older Indian woman wearing a sari purses her lips as everyone steps out of the car."
+		},
+		{
+			"character": "character-1685953850.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So these are your... friends… from America."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, Ma. They came all the way from Los Angeles."
+		},
+		{
+			"character": "character-1685953850.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Los Angeles? Wow. So far.\n*In Bengali* “They look like a bunch of homeless hooligans.”"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MA!"
+		},
+		{
+			"character": "character-1685953850.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, my name is Lotika Ghoshal, and welcome to our home."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj looks [i]thoroughly[/i] embarrassed."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His mother turns up her nose as she leaves. Servants rush in to pick up everyone's bags and lead everyone to the main room of the house.\nThe group sit and are attended to by the maids, who give them plates of different sweets, such as rasgullas, rasmalai, gulab jamun and five different types of barfi.\nRaj’s father comes in and gives the Professor a warm handshake."
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello, you must be Professor Howard Allwright. My son speaks highly of you. My name is Shayak Ghoshal. Please, you and your companions are welcome to stay as long as you’d like."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*in fluent Bengali* Thank you so much. Your son has been a great help to me."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Ghosal smiles. "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wow! You can speak Bengali!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why, of course! I studied the language for years! I already knew Sanskrit and Hindi due to my research, so it wasn’t that much more work to learn Bengali as well!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Ghoshal laughs again, and a group of maids leads the group to their room where you all set down your things. "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Rajesh, why don’t we give your friends a tour?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They lead you on a tour of the mansion, Raj’s room descriptions focusing on the rooms themselves, and Mr. Ghoshal’s focusing on each room’s stories of Raj’s childhood. "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And this is where, when Rajesh was four, we found him drenched in syrup after he stole a bowl of Rasgulla from the kitchen. He tried to eat all of them but the bowl was bigger than he was! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Ghoshal laughs as he shows your group the dining room."
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Remember how mad your ma was? Those were supposed to be for some friends of hers. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your group is laughing, and Raj has flushed bright red after all the stories about him that Mr. Ghoshal has been telling, but he is smiling too. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, there were still some left! "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Any that were left were on the floor!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Ghoshal brings you into a small office, with a large, wooden desk. The walls are lined with shelves of books. "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is my office, or I should really say Raj’s office. He all but took it over before he left for university. He was always studying, always researching something. Of course, I was happy to let him have the office sometimes, I always knew a smart boy like him would grow up to do great things!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj looks down, and when you follow his eyes, you notice that he’s rubbing at his ring finger once more. He looks troubled. "
+		},
+		{
+			"choice": "Whisper to Raj: “Your father seems very proud of you.” ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256284-918",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He nods."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know. I just hope I can continue to make him proud."
+		},
+		{
+			"choice": "Touch Raj’s arm reassuringly. ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He offers you a small smile. You notice that he stops rubbing his finger, putting his hand in his pocket instead. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The tour concludes as your group reaches the room you were given again. Mr. Ghoshal turns to leave."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait, do you have a moment to talk?"
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not now, Rajesh. You know how much work there is to prepare for tomorrow."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Ghoshal leaves. \nRaj stands there, watching his father’s back as the door closes, then sighs. He turns to your group. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, I’m back home, and already… Tomorrow is the Sagai."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sagai?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "My engagement ceremony. I will exchange rings with my fiancée and seal our engagement, though I [i]did[/i] sell off the ring…"
+		},
+		{
+			"choice": "“Oof.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry about that."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I told you, don’t blame yourself. The ring has way less sentimental value to me than your guitar does to you."
+		},
+		{
+			"choice": "“I’m so sorry.” ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Me too. I shouldn’t have let you sell it–"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I told you, don’t blame yourself. The ring has way less sentimental value to me than your guitar does to you."
+		},
+		{
+			"choice": "“What can we do to help now?” ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj shakes his head."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s fine. I was about to tell my father about it and propose a delay, but I know that’s impossible without angering the other family."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj sighs and looks away."
+		},
+		{
+			"choice": "“What’s wrong?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“It’s not just about the ring, is it?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“You sigh a lot.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know I don’t really want to get married, I want to focus on my research instead. But, I have to take my place in the family business."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj shrugs half-heartedly."
+		},
+		{
+			"choice": "“Why?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t you get a choice?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj has a pained expression on his face."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wouldn’t understand. I’m the only son, so I need to take over the business. All that education my parents have paid for was only in service of this goal. Despite how much I might enjoy studying history and myths, this was my ultimate destiny. "
+		},
+		{
+			"choice": "Say nothing.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj waits, like he expects you to say something, then turns to leave."
+		},
+		{
+			"choice": "Change the subject.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, who's the lucky girl?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not sure. It’s some rich girl from New Delhi that her family is eager to marry off. They’re sugar cane merchants of some kind, and the family heads want to combine our business together to make even more money."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj shakes his head."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I want to do what’s right for my family, but I’m just not sure this is right for me. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj turns to leave to his own room, but hesitates, one hand on the doorframe. You lock eyes as he looks back at you. His expression shifts. He seems to consider something but finally leaves, closing the door behind him."
+		},
+		{
+			"choice": "Go to sleep.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The air in the room is awkward as everyone gets ready for bed. You fall into an uneasy rest."
+		},
+		{
+			"choice": "Follow him.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You find Raj alone near an open window. The sun has disappeared over the horizon, and outside the sky is full of stars. Raj is leaning against the windowsill, gazing out. \nYou approach, placing a gentle hand on his shoulder. He jumps, but calms when he notices that it's you."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You looked like you wanted to say something before you left."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He looks away, and you notice a hint of a blush on his cheeks. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It wasn’t important. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can tell me. Are you nervous about tomorrow?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He hesitates. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, that’s not it. I’m nervous about telling my father about the ring, I’d say I was apprehensive about tomorrow. I was just wishing I could stay in the room with all of you. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Apprehensive?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He shrugs. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not sure that this is right for me. I was always so sure of my life. I’d study, get married to a nice, rich girl, and take over the family business. But now…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The two of you lock eyes. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t worry about it. I should go speak to my father. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He leaves, and you return to the room. Everyone else has fallen asleep already, so you quietly get ready for bed and drift off to sleep. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You’re woken up early the next morning by sunlight streaming through the open window, and you and the party begin to get ready for the engagement ceremony. When you step out of the room, you spot Raj pacing through the halls. He’s wearing an expensive-looking Kurta and a nervous expression, but he gives you a small smile when he sees you."
+		},
+		{
+			"choice": "“What’s going to happen today?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He looks at his hands."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Today is the Sagai. My family will ask her family for her hand, then we’ll exchange rings."
+		},
+		{
+			"choice": "“How are you feeling?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sighs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just hope today goes well. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My father gave me another ring for the engagement and scolded me for being reckless."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He looks at the sky wistfully."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He knows me well."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Once the rest of the group is ready, you make your way downstairs. The room is full of guests from the two families, all of them impeccably dressed. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you think we’re underdressed?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe we should sit near the back."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You find a seat at the back of the room where the ceremony will take place. There’s an open door nearby, and a cool breeze blows through, though it seems to be picking up into a stronger wind. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s cold out, do you think we can close that? "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t see why not! It looks like almost everyone’s here. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo gets up to shut the door. It squeaks as it falls into place and sticks. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You look to the front of the room and notice Raj and his parents, standing next to an older man and woman. They don’t look like Raj’s family, but the woman doesn’t look young enough to be the new bride. The group is looking around, as though they’re trying to find someone. Soon, Raj’s father breaks away from the group, head turning as he scans the people in the crowd. "
+		},
+		{
+			"choice": "Open the door.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You try the door, but it seems to be stuck in place. Mateo notices and tries to help, but neither of you can manage. The knocking grows louder. \nRaj’s father comes over to your group, frowning. "
+		},
+		{
+			"choice": "Ask Raj’s father who he’s looking for.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is someone missing?"
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, the bride. Her parents said she went to fix her hair, but now we can’t find her. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The knocking grows louder, and Raj’s father comes straight to the door where the rest of your party waits. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who shut this door? "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He tugs on it, but it doesn’t come free. Your group looks at each other, but no one speaks up. "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, it always does this."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He kicks the doorframe and the door springs open with one more tug.\nOutside is a young woman, about Raj’s age, wearing a lehenga that looks just as expensive as Raj’s clothes, if not more. She’s beautiful, but her hair seems to have been messed up by the wind outside. She looks incredibly angry. "
+		},
+		{
+			"character": "character-1685953774.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There you are."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She looks ready to yell at someone, but notices when she sees Raj’s father she smiles and smooths her hair. He leads her back up to the front of the room. On her way, she notices your group and turns up her nose at you. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She sure looks angry."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You nod. She does look angry as she keeps trying to fix her hair, even though she’s now smiling as she’s introduced to Raj. You find you can’t focus on her though when Raj is right there next to her. He smiles too, but there’s something else behind his eyes. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wonder if there’s anything we can do to make this better for Raj. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The ceremony is about to begin. You notice Raj and some other men take a seat, cross-legged, at the front of the room. They’re waiting for some supplies to begin, carried in by an older servant. He moves slowly. "
+		},
+		{
+			"choice": "Rush to go help.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You go take the supplies from the old man. It’s a lot to carry, there’s fruit, sweets, and a small jar holding a powdery substance. You do your best to balance it all as you go to the front of the room. As you get close to the front where Raj waits, Soot darts in and goes straight for you. You trip, and the supplies fly everywhere, including the powder, covering everyone at the front of the room. \nYou sit up where you fell, rubbing your head. You soon notice that no one is looking at you. You get up quickly, grabbing the container of powder as you go, but in your rush to get up and salvage the situation somehow, you slip on a piece of fruit and the container goes flying back out of your hands! You follow the arc of the container to realize it has now doused the bride in a layer of the powder, her being much more covered than the men at the front of the room! "
+		},
+		{
+			"choice": "Stay where you are. ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The old servant slowly walks to the front of the room. It’s a lot to carry, there’s fruit, sweets, and a small jar holding a powdery substance. As he gets close to the front where Raj waits, Soot darts in and goes straight for him. He trips, and the supplies fly everywhere, including the powder, which arcs backward to where the bride waits and coats her in a thick layer of powder. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677555513.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who’s cat is this!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj’s family’s eyes slowly turn to you, and you all shrink back in your seats. "
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Meow!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "People crowd around the bride, consoling her, offering help, but she screams at them all and runs away in a huff. Raj’s mother hurries over to you all. "
+		},
+		{
+			"character": "character-1685953850.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Look what you’ve done! Pack your things! Now!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You get a glimpse at Raj as you’re all ushered away. The expression on his face is unreadable. You hope he’s not angry with you, though his engagement ceremony ended before it had even begun, so he had every right to be. Leaving like this, you wonder if you’ll ever see him again. \nYour group silently packs their things, and Soot, who you hold to make sure she can’t run off again. You leave the house, and a car is already waiting for you outside. "
+		},
+		{
+			"character": "character-1685953850.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Extremely curtly* Well, I hope that your journey goes well. I have seen to it you all have been given enough money to buy tickets for the rest of your journey. Never come near me or my family ever again."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The doors to the mansion slam shut in everyone’s faces, and you all head towards Howrah station to board the train to Sikkim."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Do you think all of that was our fault?"
+		},
+		{
+			"choice": "“I’m not sure…”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“It *was* our cat.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I just hope Raj isn’t upset. This was so important to him. "
+		},
+		{
+			"choice": "“I wish we could have apologized.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256284-918",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "“He knows we didn’t mean to hurt him.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, everything happens for a reason!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After arriving by taxi, you all marvel at the massive size of Howrah Station."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is one of the biggest buildings in all of India, and is also one of the, if not THE, busiest train stations in the world."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "It sure looks like it."
+		},
+		{
+			"choice": "I can’t believe this place exists!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "This place is way too crowded.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It sucks that Raj couldn’t come with us, but after we messed up his engagement with that girl, it makes sense that he would never want to see us again."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I never said that!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone turns to look at Raj, who is standing next to them with his bags packed."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Raj?"
+		},
+		{
+			"choice": "“What are you doing here! Your parents are going to kill us!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“So you finally got brave enough to run away.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“How did you even… get here?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I still don’t believe that these magical beyuls exist. It’s just some made-up fantasy that only someone crazy could believe in.\nHowever, I know that I don’t want to spend the rest of my life married to some woman I don’t know to manage a company I don’t want. If that’s my fate, I want to do something fun and crazy at least before I have to accept my responsibilities. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj holds up 4 tickets to Gangtok, Sikkim."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, sure, let's find these beyuls. "
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1686001137.json",
+		"name": "Kolkata pt1"
+	}
+}
