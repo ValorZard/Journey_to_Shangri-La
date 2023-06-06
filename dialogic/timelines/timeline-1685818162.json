@@ -2438,7 +2438,22 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He looks pointedly at you.\nSandy is interrupted by a shout from the entrance of the temple, and you all instinctively freeze."
+			"text": "He looks pointedly at you."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sandy is interrupted by a shout from the entrance of the temple, and you all instinctively freeze."
 		},
 		{
 			"character": "character-1677556842.json",
@@ -2457,6 +2472,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "There is an exit in the back, hurry! "
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tensehawaii1.mp3",
+			"volume": 0
 		},
 		{
 			"animation": "[No Animation]",

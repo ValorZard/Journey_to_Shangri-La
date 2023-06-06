@@ -409,7 +409,7 @@
 			"z_index": 0
 		},
 		{
-			"animation": "[Default]",
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": true,
@@ -430,7 +430,7 @@
 			"z_index": 0
 		},
 		{
-			"animation": "[Default]",
+			"animation": "[No Animation]",
 			"animation_length": 0,
 			"change_mirror_portrait": false,
 			"change_position": true,

@@ -694,7 +694,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "…\nI can’t imagine traveling again without my trusty old colleague. We promised each other that we would find the beyuls together, and now he’s gone…"
+			"text": "…\nI can’t imagine traveling again without my trusty old colleague. We promised each other that we would find the beyuls [i]together[/i], and now he’s gone…"
 		},
 		{
 			"character": "character-1677847888.json",
@@ -736,7 +736,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There must be a reason he gave you the amulet. If you give up now, you’ll give up on his dream as well.\nDo you really want that?"
+			"text": "There must be a reason he gave you the amulet. If you give up now, you’ll give up on [i]his[/i] dream as well.\nDo you really want that?"
 		},
 		{
 			"choice": "“He told you not to give up on your dreams.”",
@@ -802,8 +802,14 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
+			"portrait": "RAJ_HAPPY",
+			"text": "Excellent!\nWorry not, Howard–you will find the beyul.\nI am sure [YOUR NAME] is more than able to help you past Kolkata.\nAnd once you find the beyuls, do share your research with me, and the mystery surrounding that amulet, Howard."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Excellent!\nWorry not, Howard–you will find the beyul.\nI am sure [YOUR NAME] is more than able to help you past Kolkata.\nAnd once you find the beyuls, do share your research with me, and the mystery surrounding that amulet, Howard.\nSpeaking of which, can I see it?"
+			"text": "Speaking of which, can I see it?"
 		},
 		{
 			"background": "res://Echo/Backgrounds/prof study.png",
@@ -849,7 +855,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m convinced it’s hiding some magical secret."
+			"text": "I’m convinced it’s hiding some [i]magical[/i] secret."
 		},
 		{
 			"character": "character-1677847888.json",

@@ -1,6 +1,61 @@
 {
 	"events": [
 		{
+			"background": "res://Echo/Backgrounds/forest.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tensehawaii1.mp3",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -9,7 +64,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "!!"
 		},
 		{
@@ -25,6 +80,47 @@
 			"text": "Two to the left! Three to the right! The rest of you, behind me!"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -35,6 +131,47 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Do not follow me."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -49,10 +186,31 @@
 			"text": "There! After him!"
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The shouts and stomping of the soldiers running after Mateo are a little too loud for comfort, and you press yourself closer to the ground just to make sure they would not see you."
+			"text": "The shouts and stomping of the soldiers running after Mateo are a little too loud for comfort, and you press yourself closer to the ground just to make sure they would not see you.\nYou are sure they are gone now, but what are you supposed to do now? "
 		},
 		{
 			"character": "",
@@ -61,7 +219,7 @@
 
 			],
 			"portrait": "",
-			"question": "You are sure they are gone now, but what are you supposed to do now? The others are likely hiding somewhere else, but you wouldn’t even know where to begin to look. Even if you did, the soldiers are still out there. Getting caught would make Mateo’s sacrifice pointless."
+			"question": "The others are likely hiding somewhere else, but you wouldn’t even know where to begin to look. Even if you did, the soldiers are still out there. Getting caught would make Mateo’s sacrifice pointless."
 		},
 		{
 			"choice": "Look for the others",
@@ -79,6 +237,27 @@
 			"set_value": "1"
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -92,7 +271,7 @@
 			"value": ""
 		},
 		{
-			"definition": "1676256272-366",
+			"definition": "1676256278-146",
 			"event_id": "dialogic_014",
 			"operation": "+",
 			"random_upper_limit": 100,
@@ -127,6 +306,48 @@
 			"text": "Hurry!"
 		},
 		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"animation_wait": false,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -155,6 +376,69 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You look back past the professor, where there is indeed a cave in the mountain face, shrouded by greenery. \nWith a nod, you lower yourself to the ground and start to slide onto the mountainside towards the Professor."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676265223.json",
@@ -205,6 +489,27 @@
 			"text": "No, you must look!"
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -213,14 +518,91 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Neutral_W_soot",
 			"text": "Professor, we have to hurry!"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "In a flurry, you tear up the last of the roots with Soot’s help, and free the Professor. \nThe three of you scuffle across the steep terrain towards the cave that Sandy had showed you earlier.\nThe three of you arrive there first, and enter as deep as you dare, using the darkness to your advantage.\nMoments later, Sandy and Raj creep into the cave as well.\nThe five of you gather around at the back of the cave, taking a moment to gather yourselves."
+			"text": "In a flurry, you tear up the last of the roots with Soot’s help, and free the Professor. "
+		},
+		{
+			"background": "res://Echo/Backgrounds/forest_cave.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The three of you scuffle across the steep terrain towards the cave that Sandy had showed you earlier.\nThe three of you arrive there first, and enter as deep as you dare, using the darkness to your advantage."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Moments later, Sandy and Raj creep into the cave as well.\nThe five of you gather around at the back of the cave, taking a moment to gather yourselves."
 		},
 		{
 			"character": "character-1677847888.json",
@@ -237,7 +619,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_sad_W_soot",
 			"text": "He–he sacrificed himself."
 		},
 		{
@@ -249,7 +631,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "He just ran off, I couldn’t stop him!"
 		},
 		{
@@ -269,6 +651,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Well, we certainly cannot be leaving him. He has helped us come so far."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -295,10 +698,31 @@
 			"text": "No. Stay put, they will not be able to detect me."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You watch as Sandy walks quickly to the exit before anyone can try to tag along, disappearing from your sight the moment he steps out. \nYou pace anxiously in the cave as you wait for Sandy and, hopefully, Mateo’s return. Soot feels your distress and lingers at your ankles, occasionally rubbing her cheek against your leg."
+			"text": "You watch as Sandy walks quickly to the exit before anyone can try to tag along, disappearing from your sight the moment he steps out. \nYou pace anxiously in the cave as you wait for Sandy and, hopefully, Mateo’s return. \nSoot feels your distress and lingers at your ankles, occasionally rubbing her cheek against your leg."
 		},
 		{
 			"character": "character-1677847888.json",
@@ -331,10 +755,57 @@
 			"text": "That must be him!"
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_shocked_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The three of you turn to face the entrance, but as your eyes adjust to the light, it's not Mateo you see. \nStanding there menacingly is an Imperial Japanese Army officer."
+			"text": "The three of you turn to face the entrance, but as your eyes adjust to the light, it's not Mateo you see. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Hiroshi_happy_hat",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Standing there menacingly is an Imperial Japanese Army officer."
 		},
 		{
 			"character": "character-1676341108.json",
@@ -347,6 +818,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "H-how do you know my name?"
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_angry_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -381,7 +873,7 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "I would beg to differ… [i]Rajesh Ghoshal[/i]."
 		},
 		{
@@ -403,6 +895,27 @@
 			"text": "You don’t want to admit it, but he’s right. There’s no way you could get out safely with all these armed men in the way. \nSeeing your lack of resistance, Hiroshi flicks his hand and the soldiers come forward to apprehend your party. \nYou don’t want to give in like this. You don’t want to, but what is there left for you to do? How can you get out of this situation?"
 		},
 		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -417,8 +930,50 @@
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Restrain them! Shoot! Shoot!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -429,8 +984,29 @@
 		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "JUAN_HAPPY",
 			"text": "Hehe, missed me? "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676265223.json",
@@ -445,6 +1021,26 @@
 			"text": "The Professor runs over to embrace him. As he does so, a large golden array appears under your feet.\nAs if someone was writing on the ground, the markings of the array form a large circle around you. \nYou think you recognize some of the markings from some of the research materials you had glimpsed in the Professor’s office before."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1677564255.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -455,6 +1051,48 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You immediately reach down to clutch Soot to your chest, despite not fully understanding what is happening.\nThe others hurry into the region of the array, and within seconds you find yourself squeezed between them.\nBodies block your vision, you still notice as the array grows brighter, light seeping through the gaps in between. \nYou shut your eyes when the light reaches a point that you can no longer bear.\nSuddenly, you feel an out-of-body sensation, but at the same time, you feel relaxed.\nFaintly you could hear Hiroshi’s enraged cries, but at the forefront of your mind is the warmth that holds you in a tight embrace."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
+		},
+		{
+			"change_timeline": "timeline-1677480158.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

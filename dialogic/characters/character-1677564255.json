@@ -14,6 +14,10 @@
 		{
 			"name": "Default",
 			"path": "res://Echo/Characters/Sandy.png"
+		},
+		{
+			"name": "",
+			"path": ""
 		}
 	],
 	"scale": 20,
