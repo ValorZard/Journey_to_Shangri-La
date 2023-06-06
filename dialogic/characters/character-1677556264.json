@@ -8,8 +8,8 @@
 	"name": "Hiroshi",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
-	"offset_y": -20,
+	"offset_x": 30,
+	"offset_y": 0,
 	"portraits": [
 		{
 			"name": "Default",
@@ -28,6 +28,6 @@
 			"path": "res://Echo/Characters/Hiroshi_happy.png"
 		}
 	],
-	"scale": 50,
+	"scale": 60,
 	"theme": ""
 }

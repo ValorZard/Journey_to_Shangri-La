@@ -4,22 +4,10 @@
 	],
 	"variables": [
 		{
-			"id": "1676351999-970",
-			"name": "Picked up Soot",
-			"type": 0,
-			"value": "True"
-		},
-		{
 			"id": "1676256261-787",
 			"name": "kind",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1677207446-648",
-			"name": "YOUR NAME",
-			"type": 0,
-			"value": "MC"
 		},
 		{
 			"id": "1677208075-146",
@@ -82,18 +70,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1684648460-366",
-			"name": "loveMateo",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1684648478-146",
-			"name": "loveRaj",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1678425930-787",
 			"name": "Raj",
 			"type": 0,
@@ -110,6 +86,18 @@
 			"name": "Wukong",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1677207446-648",
+			"name": "YOUR NAME",
+			"type": 0,
+			"value": "MC"
+		},
+		{
+			"id": "1676351999-970",
+			"name": "Picked up Soot",
+			"type": 0,
+			"value": "True"
 		}
 	]
 }
