@@ -1,0 +1,439 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and the rest of the group wait at the station for your train."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Wow! This train station makes Tokyo look empty by comparison!"
+		},
+		{
+			"choice": "Do you take the train often, Raj?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not really. Usually, my family hires drivers."
+		},
+		{
+			"choice": "(To Mateo) Yeah, definitely more people than I’ve ever seen in one place before.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your conversation is quickly interrupted as the train to Gangtok, Sikkim, pulls into the station. The party grabs their bags and boards. The crowd around you pushes and shoves to get on board. But, after fighting your way through people yelling at each other in Bengali, Hindi, Tamil, Gujarati, and more languages than you've ever heard spoken at once, you finally are able to grab a seat and rest.\nYou sigh and look out the window as the train begins to pull out of the station. More people are still trying to get on the train. Right as you’re about to turn away from the window, you see what looks like a smartly dressed Imperial Japanese Army officer jump onto the already moving train. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Was that… [i]Hiroshi?![/i]"
+		},
+		{
+			"choice": "(To yourself) “I must be imagining things.” ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "(To everyone else) “Hey guys? I think we have a problem.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you mean?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think I saw that army officer, Hiroshi, jump on the train."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo's eyes open wide. He followed us all the way out here?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From Tokyo? It can’t be!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know, it seems possible."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’d best be careful."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the train begins its trip, a cart with tea and snacks comes by. Raj buys some for the rest of the group to share. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, do you know much about Sikkim, Raj?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you talk, you hold back Soot, who’s trying very hard to drink your tea. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I know it’s its own country, technically. It’s a kingdom ruled by the Chogyal Tashi Namgyal. It’s the best way to enter the Himalayas and Tibet from here."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot settles and purrs as Mateo silently offers some water. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And, then, finally, we can get to the beyul itself!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(To Raj) You aren’t mad about what happened back at your home, are you?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course not. Actually, I’m glad you were there. There’s more than one way to make my family proud. One day they’ll know that too. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You watch as he rubs his ring finger again, but this time he seems happier. \nSuddenly, you hear a commotion from the front of the train. You peek out and see the army officer from earlier yelling and shoving people around. You lock eyes, and he starts towards you."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, guys. I think we better get a move on. The guy I told you about is here, and I think he’s after us. He’s got a sword."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Anything else?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… He’s also got a gun."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We need to go!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You all grab your stuff and rush through the crowd. You try to ask nicely for people to move away from you, but it’s not much use. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have an idea! Let's go on top of the train. They can’t catch us if we take the high ground!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You climb a ladder to the top of the train car. As you stop to catch your breath, you hear a squeak from the ladder and turn to see that Hiroshi has followed you, and is now pointing his sword at you and your party. Another army officer that you hadn’t noticed before stands with him."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s great to see you all again. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His voice is dripping with sarcasm."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re going to hand over that amulet of yours. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why do you want it?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A little[i]bird[/i] told me of the magical properties of your amulet, [i]and[/i] my men saw for themselves its magical resonance in the Temple of Bishamon. I speculate it’s a [i]compass[/i] of sorts, that points to the beyuls. Give it."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Never! I worked 30 years to get all my materials! I spent my life savings to go on this journey! And don’t even think about my amulet!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi shrugs. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, it’s up to you. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sheathes his sword and pulls out a pistol hidden in his coat pocket, then points it at the party."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "If you don’t give me the amulet, one of you will die."
+		},
+		{
+			"choice": "“Can we talk about this first?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m afraid not. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi fires, but Mateo shoves you out of the way. You feel the rush of the bullet going past you as you stumble to the side, but no one is hurt. "
+		},
+		{
+			"choice": "Fight!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You spot a broken railing on the top of the train and pull. Miraculously, it breaks off. You swing at Hiroshi l, who drops his gun and steps back, clutching his hand. The gun slides as it falls, and goes over the side of the train. Your action seems to have inspired the rest of the party, who rush towards Hiroshi and his comrade with improvised weapons of their own. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi takes a moment to recover and draws his sword. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We don’t have to fight! Just leave, we’re not giving you the amulet."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not leaving without it. You would know. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He charges toward your party, but Mateo’s distraction was enough. The Professor hits him across the face with another piece of broken rail.\nHiroshi shouts, clutching his eye and waving his sword, though he doesn’t manage to hit anything. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "His comrade charges next, sword in hand. He slashes."
+		},
+		{
+			"choice": "Block it!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Using your metal railing, you block the sword. Sparks fly as metal meets metal, but you hold strong until you can shove the sword away. "
+		},
+		{
+			"choice": "Duck! ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You successfully duck as the sword swipes above your head. With your metal railing, you swipe at the man’s knees, knocking him over. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor charges at Hiroshi again, but slips and falls onto Raj. Both of them land harmlessly onto the roof of the train, but the Professor’s broken rail slips out of his hand and rolls forward. \nHiroshi grins and steps forward toward the pile of Raj and Professor, sword drawn. He raises it high above his head, ready to strike…\nThen, Hiroshi steps on the piece of broken rail that the Professor dropped, which rolls underneath his foot. He slips, legs flying, then falls headfirst off the train and lands with a splash in the lake that the train is passing. The soldier who was with him jumps in after him. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ouch! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He sighs, then you watch his eyes widen in realization over what you all just saw. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh my god, you killed him!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi and the soldier pop out of the water of the lake, looking like angry wet ducks."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sadly, I think he’s alright. "
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1686179161.json",
+		"name": "Kolkata pt2"
+	}
+}
