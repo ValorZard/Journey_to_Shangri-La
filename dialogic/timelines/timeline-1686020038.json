@@ -1097,6 +1097,47 @@
 			"text": "Ah, but what are we doing, keeping you and your friend here with an old couple’s reminiscing? \nOur village is humble, and yet full of life. The surrounding area… One can get lost for hours and hours in its beauty. You should get up, walk and see, while your joints are still loose and limber~"
 		},
 		{
+			"condition": "<",
+			"definition": "1676256278-146",
+			"event_id": "dialogic_012",
+			"value": "10"
+		},
+		{
+			"condition": "<",
+			"definition": "1676256272-366",
+			"event_id": "dialogic_012",
+			"value": "8"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "That sounds like a wonderful idea! Thank you so much."
+		},
+		{
+			"choice": "Let Raj be.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1686178365",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -1549,6 +1590,12 @@
 			"value": ""
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1686178365",
+			"index": 0,
+			"name": "skipRajLoveEvent"
+		},
+		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1592,6 +1639,47 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "He immediately smiles, though you can tell it’s strained."
+		},
+		{
+			"condition": "<",
+			"definition": "1676256261-787",
+			"event_id": "dialogic_012",
+			"value": "10"
+		},
+		{
+			"condition": "<",
+			"definition": "1676256284-918",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You startled me. I was deep in thought!"
+		},
+		{
+			"choice": "Leave it be. He clearly doesn’t want to talk about it.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1686178372",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "character-1683825918.json",
@@ -2061,6 +2149,12 @@
 			"value": ""
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1686178372",
+			"index": 0,
+			"name": "skipMateoLoveEvent"
+		},
+		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -2172,7 +2266,7 @@
 			"text": "Out of all of them, you adore both Raj and Mateo."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1686178375",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -2200,7 +2294,7 @@
 			"text": "Out of all of them, you feel closest to Raj."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1686178375",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -2228,7 +2322,7 @@
 			"text": "Out of all of them, you feel closest to Mateo."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1686178375",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -2245,7 +2339,7 @@
 		},
 		{
 			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
+			"id": "anchor-1686178375",
 			"index": 0,
 			"name": "skipElsesAdore"
 		},
@@ -2508,6 +2602,15 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He probably wouldn’t take kindly to being interrupted. So you continue back to the village, feeling Soot yawning in your arms.\nYeah. It’s been a long day, and the sun is setting.\nIt’s time to retire for the night. "
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
