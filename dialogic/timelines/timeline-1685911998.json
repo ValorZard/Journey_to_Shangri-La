@@ -1017,7 +1017,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"condition": ">",
+			"condition": ">=",
 			"definition": "1678425930-787",
 			"event_id": "dialogic_012",
 			"value": "6"
@@ -1030,7 +1030,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"condition": ">",
+			"condition": ">=",
 			"definition": "1683827988-648",
 			"event_id": "dialogic_012",
 			"value": "6"
