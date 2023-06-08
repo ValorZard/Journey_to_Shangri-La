@@ -9,13 +9,13 @@
 	"nickname": "",
 	"nickname_bool": false,
 	"offset_x": 0,
-	"offset_y": 0,
+	"offset_y": -10,
 	"portraits": [
 		{
 			"name": "Default",
 			"path": "res://Echo/Characters/Raj's fiancée.PNG"
 		}
 	],
-	"scale": 100,
+	"scale": 27,
 	"theme": ""
 }
