@@ -1,0 +1,2132 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After a hefty amount of tissues, consoling, and back pats, the Professor’s breathing has evened out. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you feel a little better now?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor sniffles. His head is hanging low."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not really…"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why don’t you start by telling us what’s the matter?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m afraid I have some bad news. Bad news of enormous, irreparable proportions."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I could imagine so, judging by your reaction."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We won’t be able to go any further. Our journey ends here. "
+		},
+		{
+			"character": "character-1686121414.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "WHAT?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The professor looks up, new tears threatening to prick at the corners of his eyes.\nWhat on Earth happened in the short time the Professor had left them?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s illegal to continue into the Himalayas and Tibet without permission from the government here. \n… And we don’t have it. Permission, I mean."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silence overwhelms the party at the new information.\n…"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You weren’t kidding; that really is bad news of epic proportions…"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll be frank. I’m unsure of what our next steps are considering the circumstances."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Howard… You’re not truly going to let this journey end here, are you? You’ve come so far!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s all right, my boy. You don’t have to comfort this old man. No need to humor me any longer, Rajesh.\nI know you’re still tagging along because your engagement went awry. You’ve made it abundantly clear this entire time your stance on magic, and I shouldn’t have tried to force my beliefs on you. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj has a bewildered expression on his face at the Professor’s admission. He opens his mouth as if he wants to retort, but the right words don’t come to him. \nWhatever thoughts Raj has goes unspoken.\nThe Professor turns toward everyone, shamefaced."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I also must apologize to all of you for dragging you along with me, truly. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you sure there’s no other way? Maybe we can sneak through the city or find someone willing to guide us through. There’s gotta be someone like that, no?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To be truthful, I’m still wary of the soldiers from earlier. Who knows if we actually shook them off or not?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And if we protest too much about our need for passage, it could make a lot of noise and attract the wrong type of attention. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If there was some other way, I’m sure Professor Allwright would have thought of it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj glances at the Professor for confirmation."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "There is no other way. Even I have enough sense in me not to suggest charging into the Himalayas blindly!"
+		},
+		{
+			"choice": "“But that’s still possible, right?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“We should give up here, shouldn’t we?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not sure either way. \nYou’ve been with me since the beginning, [YOUR NAME], and you’ve encouraged me this far. Whatever happens from here… I’ll trust you."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can I think about it a little?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course, my dear boy."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You decide to listen to a second opinion."
+		},
+		{
+			"choice": "Raj ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It looks like he’s still thinking about the Professor’s words from earlier. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you think about all this, Raj?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It would certainly be logical to stop here. Our funds and provisions are low. It may well be that we only have enough money for the journey back if we decide to call it quits."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it’s the Professor’s life-long dream… and it’s not his alone, is it?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… What do you mean?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You want to see it too. The beyuls. Shangri-la. Magic. \nIt intersects with your research, too.\nProfessor Allwright says he’s sorry for dragging us all along, but I doubt you would have come this far if you truly didn’t really want to. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly, the expression on his face grows colder."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My research is all based on empirical data and cold, hard facts. That is how it began, and that is how it will end. I can’t allow for confounding variables to cloud it.\nThis choice is an important one. I hope you think it through thoroughly.\nIf there’s no place for magic in Raj’s heart, is there any room for you?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You turn away, slightly hurt."
+		},
+		{
+			"choice": "Mateo ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, Mateo… What do you make of all this?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not sure if I’m the right person to ask about good decisions…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo glances over at Raj."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think decisions are necessarily all “good” or all “bad,” and besides, I like listening to you talk!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I… appreciate that. I just wish I could think of something to help right now."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo’s eyes are slightly glazed over like he’s currently busy reliving a memory. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um, so what do you think about all this?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a really big decision. An important one."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know. That’s why I’m asking for a second opinion."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You mean [i]mine[/i]? What if…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo’s voice lowers to a hushed whisper as he breaks eye contact with you."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What if I successfully convince you and then you regret it later? Not just a small regret, but those really big kinds of regrets that you’ll keep thinking about for the rest of your life?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo… This isn’t like you. What’s wrong?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know… I wish I could confidently tell you to quit or keep going on, too."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s okay! No one can feel confident all the time. That’s normal."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If only it were actually like that."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s nothing! Everything just feels a little bit too dramatic right now, heheh."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo flashes you a bright smile\nYou smile back at him, albeit a lot weaker.\nIn the end, Mateo’s gaze never reconnects with yours, and you turn away, still conflicted."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you cross your arms and contemplate what to do next, you have a sneaking suspicion you’re being watched. You quickly scan the immediate area, but most people that pass by don’t even give any of you a second glance. Your gaze falls upon the statue nearby, the one you had thought looked like a plain rock earlier.\nUpon even closer inspection, the gray figure depicted by the statue is short in stature, fully clothed and donning armor covered with dragon-scale patterns. You almost mistake it for a person if not for the fur-like sideburns and a tail not too unlike a monkey’s sticking out of its back. \nThere’s no inscription or plate to indicate who or what the statue is supposed to be of. What an interesting looking rock.\nWell, it turns out you didn’t get much help from those conversations. What happens next is ultimately up to you."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What say you, [YOUR NAME]?"
+		},
+		{
+			"block_input": true,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Everyone gathers around to hear your final, critical decision. It is up to you whether or not your journey ends here."
+		},
+		{
+			"choice": "“I think we should call it quits here.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"block_input": false,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see… I see…\nI certainly don’t blame you for this decision. It’s the best choice in our current situation."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just wish it didn’t have to end like this."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s quite unfortunate, my dear boy, but that’s life.\nWe should have enough money for the return trip. If you wish to head our separate ways, then I suppose this is goodbye. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj sighs, still looking conflicted.\nMateo is in a similar state, very quiet in light of things. \nYou stare wistfully at the three people in front of you, all of their heads hanging low. What’s going on in their heads will never be known to you.\nAs will the mystery of the beyuls.\nYou’ve got a long way back."
+		},
+		{
+			"change_timeline": "timeline-1680373082.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "“We’ve got to keep going!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"block_input": false,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve made up my mind. We can’t stop here. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sometimes, knowing when to call it quits takes a good amount of bravery. But the will to persevere and persist in the face of the greatest difficulties takes a special kind of bravery, a quality that many do not have."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s a soft look of pride and fondness on the Professor’s face. Soot meows as if she’s pleased by your determination."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Woah, words of wisdom to live by. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I won’t ask you if you’re sure of your decision, [YOUR NAME]. It would be disrespectful to the amount of thought you’ve put into your choice. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re with you ‘til the end of the line, [YOUR NAME]!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Their unconditional encouragement motivates you.\nYou’re determined not to let this decision become a regret.\nNot too long after your decision, the four of you venture to the city limits where the edge of Sikkim meets the sprawling majesty of the Himalayas. On the way there, you pick up several detailed maps of the surrounding local area and amateur topography maps of parts of the Himalayas. \nYou discover what looks to be the start of a mountain path for adventurous hikers.\nMateo swallows audibly at the white-tipped mountains, as far as the eye can see until fog renders anything further hidden under its blanket of haziness. He squeezes the neck of the guitar at his hip.\nUneasiness is also written all over Raj’s expression; he mutters under his breath as he counts the party’s prepared provisions. \nThe Professor, unlike the other two of your party members, has a determined glint in his eyes. \nYou hold Soot close to your chest."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shall we?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We shall!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you’re off.\nThe first few hours pass easily. Surprisingly, there are minimal issues, save for the rapidly setting sun. You all promise to take turns holding the tubular flashlight when night time comes. \nThere’s been little talking up until now, all of you too worried about the trek for any type of conversation, but as the hours pass, the tension seems to have eased off everyone’s shoulders.\nIt’s a little tiring to hear the same repetitive crunch of rock, gravel, and snow under your feet for the last few hours.\nYou’re close enough to the Professor to see him sigh, his breath visible because of the dropping temperature as you all climb to further heights."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is something the matter, Professor?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was just thinking about how this all could have been avoided if I had prepared better up to this point. It didn’t occur to me that passage through Sikkim would be so difficult to procure! "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I didn’t think it would be so hard, either. "
+		},
+		{
+			"choice": "“What happened, exactly? Maybe talking about it will help!”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Did something go wrong? Maybe you noticed something out of the ordinary?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come to think of it, in hindsight, perhaps things were a little bit fishy…\nThe officers exchanged off looks with one another after I had pleaded my case. You see, in order to be granted passage, everyone who was lined up had to honestly describe their reason for passing through. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, no. You didn’t… Did you?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Didn’t what?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did you tell them about the beyuls?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course! They had a surprising amount of interest in what I had to say. Excitement had overcome me! I told them about how we had traveled all this way and were closing in on our final destination. I even had the chance to show off my amulet! They were even [i]more[/i] intrigued after seeing it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You fight back a groan."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of them had run off in a hurry after that, and when he came back… He told me our request for passage was rejected. \nI pleaded numerous times for them to reconsider. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor is overcome with a look of sadness."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "That was when they began shouting at me. They said I was a delusional old man and that maybe they would consider letting me through if I handed my precious amulet over. Not to worry; I didn’t fall for it, of course! "
+		},
+		{
+			"choice": "“They were wrong for doing that to you. I’m sorry you had to go through that.” ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "“That sounds incredibly suspicious.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "“If I was there I could have shown them a thing or two.” ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256272-366",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We should have gone with you."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s done is done. Who knows if things would have even turned out differently? Perhaps they’re going through a time of turmoil. Being closed off to the rest of the world wouldn’t be too far-fetched. \nStill, I appreciate the sentiment. You’ve been a great help to me, [YOUR NAME], and even better company! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You smile."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m really glad I met you, Professor Allwright."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems like the amulet was the reason all of you weren’t granted passage through Sikkim. This makes you feel uneasy, considering how much all of you have gone through because of it. \nThe wind seems to be picking up a little. You shiver as the chill passes through. \nRaj seems to take notice of this."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Are you alright?"
+		},
+		{
+			"choice": "“I’m just deep in thought.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“It’s a little cold, I’ll admit.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“I’m alright.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re not really fine, but you don’t want to voice it out loud in mild fear of it becoming a reality or jinxing all of you."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj raises an eyebrow at this."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It would take someone made entirely of steel to be okay with our situation. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I could say the same to you, especially after what happened in Kolkata."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We—no, I really messed it all up for you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You did, didn’t you?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj’s tone is a lot more amused and lighthearted than you expect."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj leans closer to you and gently pets Soot’s forehead. Soot purrs from the attention."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think I can say it now. I honestly felt relieved at the time. What kind of person dreads their own engagement ceremony? I put it off for so long… I guess it feels like no big deal for it to be delayed even longer."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you know what the funniest thing is?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj is smiling rather widely as he asks you this."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you remember that ring I sold back in Hawaii?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You nod, slowly."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That was my engagement ring. I’m meant to exchange it during the engagement ceremony, but…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj laughs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t even have it anymore. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t seem very upset."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, I… don’t feel very upset either. I should, shouldn’t I? I’m the prodigal son. I’m supposed to get married and help my family expand our business. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s okay to want your own path in life, but I also get that dealing with family matters is no easy task."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wonder if I’ll even be welcomed back after running away. Maybe my family thinks I’m throwing a tantrum—that this is just growing pains. Maybe the bride’s family will refuse to wait any longer and call the engagement off. \nIt’s always painfully on my mind, except…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj turns to you. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Except when I’m talking to you. Talking to you always seems to ease my worries. Thanks for listening to me even if I don’t know how things will turn out in the future."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gladly!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows in agreement."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You feel that this isn’t the only conflict stirring in Raj’s heart. This is your chance to ask about it."
+		},
+		{
+			"choice": "“Do you still think magic isn’t real?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hate to put you on the spot, but I’ve been worried about you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So you finally asked. I’ve been thinking about what you said earlier. That somewhere at the bottom of my heart, I also wish for the beyuls to be real. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t mean to make you upset."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think I should be the one apologizing. You asked an innocuous question and I lashed out at you. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wouldn’t say no to an apology, heh."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then let me first of all say that I’m sorry. \nI tried to ask myself some objective questions. What’s so wrong with magic being real? Why am I being so stubborn? I even saw it with my own eyes, so why am I still trying so hard to deny it? "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s hard to change deeply rooted beliefs."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But where did it even come from?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you mean?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Perhaps it was a sense of unfairness. If magic were actually real, why couldn’t it have helped me out? I felt so trapped, like I was locked up in a tower. No matter how hard I wished upon a star, things never changed. Clearly, if magic was real, it wasn’t on [i]my[/i] side. Why should I be on its side? "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is that how you still feel?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My thinking was too simple-minded. Maybe like us, magic has its own free will. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s also a forger of its own fate?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A bit like that, yes. Do you think it’s silly of me? Or hypocritical?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not at all. People are changing beings. We grow all the time! Our way of thinking can evolve. It doesn’t need to be… what’s it called?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Linear?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah! It’s okay to believe in magic. It’s also okay to not believe in it. I just thought that you were always saying it like you were reading off a script. You don’t have to put up a guise in front of us. We understand."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj hums in acknowledgement. He looks a lot more content compared to before."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I suppose ambivalence is okay, too."
+		},
+		{
+			"choice": "It’s a sensitive topic. You think it’s best to leave well enough alone.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What are you two chattering about back there? It’s my turn to hold the flashlight! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj hands the device to you and in turn, you quickly jog up to Mateo and pass the flashlight over. You watch as Raj slows his pace to fall back to the Professor’s position."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just wanted to make it clear. You’ve never forced your beliefs on me or made me uncomfortable, Howard. I know I might seem… prickly at times, but…"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… [YOUR NAME]? Earth to [YOUR NAME]? Hello?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, I’m sorry! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You turn your attention to Mateo and leave the Professor and Raj to their conversation."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We were just talking about what happened in Kolkata."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo winces. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no! It wasn’t an entirely bad conversation. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, I shouldn’t have assumed…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Mateo looks dejected at his minor mistake. Things have felt a little bit off with him ever since you guys left Tokyo."
+		},
+		{
+			"choice": "“Is everything okay with you, Mateo?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How would you feel if someone was lying to you about something? But for your own good? Hypothetically, of course! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You blink in surprise at the seemingly random inquiry."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I think the only person who would know if it’s for my own good or not is me, and if I’m being lied to then that means I wouldn’t know the truth of what’s going on."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… That’s a really good point."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not sure how I’d feel emotionally, though. What’s this about?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nothing, really! It was just a hypothetical question. "
+		},
+		{
+			"choice": "You don’t think it’s any of your business.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Mateo shifts awkwardly."
+		},
+		{
+			"choice": "“Can I know a little bit more about how you’re feeling, if you’re comfortable sharing? We’re so far away from Hawaii now.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know for sure I’ve experienced a lot of things I would have never seen if I had continued to live my life in Hawaii."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I feel the exact same way, actually. If I had never left home or if I didn’t accompany Professor Allwright… I would have missed out on so much."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s not every day you get to fight a commander of the Japanese Imperial Army on top of a train."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both burst into a fit of giggles at the memory."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Truth be told, I’ve always wanted to go into music.\nI told myself it was impossible and that there was no future for me in the industry. Whenever I wasn’t working at the pineapple cannery, I was trying to make my dream come true, but it was fruitless. It just didn’t work and I had a hard time understanding why."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is that why you were so willing to part with your guitar?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think that was even crazier than fighting on top of a train for me, in hindsight. What was I, [i]insane[/i]? How could I think about selling my guitar like that?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You shuffle closer to Mateo and picture giving him a tight hug."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And do you still feel like it’s hopeless, now?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve seen so much culture and music from other countries. I think I feel more inspiration rather than hopelessness."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think you and Raj have a lot in common, actually. You’re trapped by circumstances largely outside of your control. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… I think I’m a coward. I’m afraid of failing. And I’m also afraid of not being strong enough when I might have to face those failures over and over again.\nBut also, I now know that some things are scarier than being a bad musician."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You have a weird feeling that there’s a double meaning to Mateo’s words."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It makes sense for there to be both good and bad.\nYou should know that we’ll be here for you. [i]I’ll[/i] be here for you if you fail and have no one to turn to."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo’s expression falls into a large smile."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think you’re amazing, [YOUR NAME]."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think you’re just as amazing for trying to follow your dreams all this time, Mateo! "
+		},
+		{
+			"choice": "Stay silent.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo rubs the back of his neck. He looks like he’s about to say something more when his eyes suddenly widen to the size of saucers."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "W-What’s that…?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s what?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]That![/i] Over there! Do you see that lump in the distance?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That certainly is a lump."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You clamber over to the strange clump in the snow. Two eyes stare back at you. Soot meows in alarm."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… That’s not a lump, guys."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My word, it’s a boy! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo looks taken aback. "
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s a small kid doing up in the snowy mountains by himself?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why don’t we just ask him?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The boy smiles knowingly as you approach him."
+		},
+		{
+			"choice": "“What’s your name?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“What are you doing out here by yourself?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "“Are you cold?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The child answers in a language you can’t quite understand. You turn to the Professor and Raj to see if they recognize it."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That almost sounds Hindi… but also not quite it. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmm, this isn’t a language I’m familiar with. Considering the area, though, it might be Nepali or Tibetan. I’m unsure."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re probably correct, Howard. From the way he’s dressed—particularly the red and yellow colors—he’s probably native to the area."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If he got lost, it must have been recently."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo offers the boy some food while the rest of you chat. The boy happily accepts, saying something that must be an equivalent of thank you."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, it’s likely there’s a Sherpa population or town nearby."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How close would that be, exactly? And in which direction?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You bring up good questions, [YOUR NAME]. I’m also confused as to why he seems to be standing there."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve heard before that if you’re lost, it’s better to stay put than to wander around."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you think some people will come back looking for the kid, then?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or do you think we should keep moving and take the boy with us?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It would be fantastic if you guys happened to stumble into a town. Travel-weary and unused to the change in temperature, all of you are both physically and mentally exhausted. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "You [i]definitely[/i] cannot leave the boy behind. It’s strange to say, but it almost feels like the boy has been waiting for you all this time."
+		},
+		{
+			"choice": "Take the boy with you.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Wait here with the boy.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A little bit of waiting couldn’t hurt, right? "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How much is a little bit?"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not sure, but we definitely can’t split up."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about we wait until we don’t want to anymore?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That being said, nothing changes as the night drags on. The boy has been meticulously watching all of you after the party sat down earlier.\nEven Soot grows antsy in your arms."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think my example about waiting doesn’t apply as well in our type of situation. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It still never hurts to give it a shot! We can think of it as a little break. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of you prepare yourselves for even more walking. \nEvery couple of minutes, the boy pesters Raj, Mateo, or the Professor for more food and you watch in a daze every time it happens.\nEventually, a worried expression crosses Mateo’s face, one that he shares with Raj."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s got a really healthy appetite!"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]He[/i] is eating a hole through our provisions."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You wish that Raj were kidding. When you check how heavy Raj’s bag is compared to before you guys left Sikkim, you gasp out loud when the backpack is nearly weightless. The same applies for all the other bags your party is carrying."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How could a kid eat up to three times his weight?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Three…? Mateo, you were giving him food, too?!"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I thought you knew already! "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t! I didn’t ever see him go up to you! Or I would have stopped an hour ago!"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um, I don’t mean to alarm you two…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You all turn to the Professor."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I’ve been giving him food as well…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t see him ask Mateo or Rajesh for any, either."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your head snaps over to the boy. He’s holding your bag in his hands. Crumbs line the corners of his mouth as he grins sheepishly. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]HUH?[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s going on? \nYou gently take your bag back into your arms, careful not to drop Soot. It’s just as weightless as all the other ones.\nYour heart drops to your stomach like a heavy stone."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-It’s fine, right? It shouldn’t be that far until we reach a small town… right?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one can give you the answer you want to hear. \nYou all continue walking.\nAnd walking."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "And walking."
+		},
+		{
+			"choice": "You’re dealing with a ghost. A really hungry ghost.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "You’re beginning to lose your mind.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "This is all just a dream.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You begin to wonder if you’ve all been walking in circles. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "The mountain range in front of and behind you look identical. "
+		},
+		{
+			"choice": "Maybe you guys are the ones who are ghosts.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "For a second, you wonder if pushing the boy off the side of the mountain will end the curse that you’re obviously under.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The boy whips around and shoots you a weird look as soon as the crazy thought crosses your mind."
+		},
+		{
+			"choice": "If this was all just a dream, couldn’t you have come up with something a little nicer than getting lost in the Himalayas?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Soot meows, but it sounds disturbingly muffled as if you were listening to it under water. \nYour arms have grown tired of holding her. \nShe must sense your exhaustion because she quickly clambers onto your shoulder and stays there instead.\nYou notice that you’re beginning to have trouble breathing. \nYour chest heaves with each laborious inhale and exhale. \nThe Professor explained it to you once before back in Los Angeles. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Air thins out higher up in the atmosphere or something like that."
+		},
+		{
+			"choice": "Being a ghost would explain things. For some reason, you haven’t felt hungry in a long time. On the other hand, the boy was the only one out of all of you eating.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Lack of oxygen to the brain can be a bad thing, right?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "If you visualize the supposed town the boy belongs to hard enough, maybe you’ll teleport there.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Things don’t bode well. \nIt’s difficult to even see the area directly in front of you, let alone anything in the distance. \nYou continue to walk because you’re not sure what else to do.\nYou’ve been shaking endlessly for a while now.\nYou don’t think it’s going to stop anytime soon. \nSomeone also once told you that the shivering is your body’s way of keeping your body temperature up.\nSpeaking of which, the temperature must have dropped now that you’re even further into the night. \nThe chill penetrates through your meager layers and deep under your skin as your limbs stiffen.\nYou imagine this is what a dip in the Arctic must feel like.\nIt’s cold. \nIt’s very cold."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "And for that very reason, you think you may never feel warm again."
+		},
+		{
+			"choice": "Remember…",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "You’re not alone…",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Find the rest of your party.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With a hurried urgency in your step, you nearly collide with the warm bodies just ahead of you because the ground is so slippery.\nTheir voices tremble when they call out to you."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[YOUR NAME]? Are you okay? "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think any of us are."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s… awfully… cold…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of you huddle closer together as you slowly drag your heavy legs through the piling snow.\nYour next breath is an icy gasp, and you fight to speak."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think I can… \nCan we… pause for a moment…?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone stops moving and drops to the ground like dead weight. \nYou follow suit but find that you’re too tired to hold your head up. \nYou end up lying on your back, facing the sky."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey… Mateo… Do you think you could play us a little tune…? Just this once…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one answers you, but you think you hear the sound of guitar strings being plucked weakly from your left."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Heheh… Maybe the real treasure was… the friends we made along the way…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The silence is louder than the whistling of the prevailing high speed winds."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think… we might be dying though…"
+		},
+		{
+			"block_input": true,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "No sound comes from your cracked lips. You only manage to mouth the ominous words."
+		},
+		{
+			"choice": "Give up. This is it. ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"block_input": false,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is really it, then."
+		},
+		{
+			"change_timeline": "timeline-1680373082.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "You can still hold on. You can’t give up now.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"block_input": false,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure, it may have been enormously foolish to cross the Himalayas with no real plan.\nIt may have been even [i]more[/i] foolish to venture into the Himalayas with no mountaineering experience.\nIt may have been [i]most[/i] foolish of all to transverse the Himalayas with no one to guide you.\nAre you guys idiots, or what?\nIs it just you or do your thoughts feel really loud? Like you’re hearing them from somewhere outside your head, and your thoughts are not really your thoughts.\nThe beautiful night sky remains the same anywhere in the world. \nYour eyelids grow weak.\n… Just one [i]small[/i] nap couldn’t hurt.\nYour eyes slip shut."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You all seem verrry unprepared for this type of journey."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You feel like you’ve been hit by a truck. It’s the first thought that crosses your mind when you realize you’re awake.\nYou blink blearily at the sudden change of scenery around you. The last thing you remember is the endless night sky covered by a blanket of stars and the brightest full moon you’ve ever seen."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I may or may not have carried all of you while you guys were unconscious. I figured we could cover a lot more ground that way! Who knows how long I would have to wait for you to wake up."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You tilt your head toward the voice. \nIt's a monkey."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Monkey. "
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ooh ooh aah aah."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Return to monke.\nYou rub your eyes and your hazy vision clears up. \nIt’s not a monkey; it’s a person! And the person is wearing the exact same clothing that the lost boy had been wearing! \nThe voice bursts into laughter at your shocked expression."
+		},
+		{
+			"character": "character-1676341108.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is that what you wanted to hear?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A vivid conclusion crosses your mind like a lightning bolt. That statue back in Sikkim…!"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sun Wukong?!"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bingo! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It takes you some effort to properly sit up. You spot your unconscious companions by your side and Soot snoozing on your lap."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… Where exactly are we?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wukong points to the nearest hilltop and then drags his finger 90 degrees downward. Your gaze follows the direction in which he’s pointing until it lands on a large dip that looks like someone carved out a big chunk of the hills. In fact, it looks like what you would call a valley."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Less than a mile or so away from my beyul."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor’s eyes shoot open at Wukong’s nonchalant answer."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your [i]what[/i]?!"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My beyul. The beyul under my protection. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "YOUR [i]WHAT[/i]?!?!"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My—"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "—There’s no need to answer that again! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wukong grins mischievously. "
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What… What was all that weird stuff back in the mountains?"
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s not good for humans to be exposed to bad demonic energy over a long period of time. Ah, of course, I don’t mean me! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This time, Raj is the one who wakes up abruptly, jerking up into a sitting position. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Demonic energy? [i]Demonic energy?[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sun Wukong winks."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Demonic energy! You’re all in the clear now, though! Pretend I never said anything! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo groans at all the loud noises. He’s the last one to awaken, but when he does, all three of you are shocked into a stupor, staring blankly at the colorful person gesturing wildly in front of you."
+		},
+		{
+			"character": "character-1685837033.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To be more exact, we’re in Tibet!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1686110346.json",
+		"name": "Sikkim pt2"
+	}
+}
