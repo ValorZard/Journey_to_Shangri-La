@@ -1,6 +1,482 @@
 {
 	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: MARCH 1937\nLOCATION: ROAD TO KOLKATA"
+		},
+		{
+			"condition": "<",
+			"definition": "1676256261-787",
+			"event_id": "dialogic_012",
+			"value": "6"
+		},
+		{
+			"condition": "<",
+			"definition": "1676256284-918",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "After leaving the clinic, you notice Mateo trying to limp by himself."
+		},
+		{
+			"choice": "Leave him be.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1686179392.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "After leaving the clinic, you notice Mateo trying to limp by himself."
+		},
+		{
+			"choice": "Offer to help him.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey Mateo, let me support you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You move to support his arms."
+		},
+		{
+			"choice": "Leave him be.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1686179392.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oi–I can take care of myself!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He smiles at you easily and tries to hop away."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, hey, [i]no[/i]. Let me help you."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No need, [YOUR NAME]! I can take care of myself just fine, hehe."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Mateo, you [i]just[/i] got patched up. Please. I want to help you."
+		},
+		{
+			"choice": "Hold his arm.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Wrap your arm around his shoulder.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear Mateo breathe a quiet sigh of relief."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "See? Isn’t that better?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo smiles at you and scoots closer."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, but…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He shifts awkwardly."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can take care of myself."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You continue slowly walking together down the path. A little ways ahead, Raj and the Professor are engrossed in a passionate discussion about Sandy and the physics of magic."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Why was Mateo so resistant to accepting help?"
+		},
+		{
+			"choice": "“You keep saying that. Why?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1683827988-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo hesitates, before pasting a smile on his face."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Because I can! Why, I wouldn’t have been able to survive in Hawaii all by myself if I [i]wasn’t[/i] able to take care of myself, would I? I’m a capable person!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite his cheer, you can hear a hint of strain. You can tell he’s… forcing himself to be optimistic."
+		},
+		{
+			"choice": "Keep walking in silence.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo whistles a little tune and smiles pleasantly at you. You’ve noticed he smiles a lot."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s starting to lean against you now–a good sign."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, I never thought I’d ever lean on someone else like this, haha. Even back home, I was the one who reached out a helping hand to my parents and siblings, always darting around and helping out. I made lots of friends [i]because[/i] I was so helpful.\nHe forces himself to smile again."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve always been the strong one. The one who could protect others and make sacrifices for them. You know, I was so surprised when you interfered back in Hawaii, when I was about to sell my guitar…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo laughs warmly, and you see his cheeks are tinged with a rosy color.\nYou feel your cheeks warm, too. It’s always a pleasure to hear Mateo laugh.\nMateo holds your hand and squeezes it."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Why did you do it? You barely knew me! And even now, when I’m [i]perfectly[/i] fine, you insist I lean on you!"
+		},
+		{
+			"choice": "“Because I care about you.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1683827988-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo’s blush deepens."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You… "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo shakes his head."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I’m more trouble than helpful…"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You, trouble? You’re not trouble at all, Mateo. You helped us when we were in a pickle in Hawaii. When we were fleeing from the soldiers in Tokyo… you saved us. Don’t cut your accomplishments short, Mateo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tears prick the corners of Mateo’s eyes."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you, [YOUR NAME]."
+		},
+		{
+			"choice": "“I’m just built different.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo laughs."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You definitely are! There’s a lot I admire about you."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your blush deepens."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean it. I’m grateful to even [i]know[/i] you. You’re so brave and strong and skilled, I… I can’t even compare. I’m just a failed musician, someone who had a dream and gave it up.\nWhile you, you have dreams and ambitions you’re still actively striving for. I admire that–I admire [i]you[/i]–a lot."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Mateo…"
+		},
+		{
+			"choice": "“Thank you.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You smile and squeeze Mateo’s hand.\nHe rests his head against your shoulder."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m always happy to help…"
+		},
+		{
+			"choice": "“I admire you.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1683827988-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo flushes even more."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Me?[/i] But–what’s there to even [i]like[/i] about me?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You step closer to him and snuggle into his side."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lots, Mateo. You’re charming. You’re kind. You’re passionate. You’re selfless–and that is what worries me. It’s a virtue, yes, but… selflessness to self-detriment… isn’t.\nI don’t want you to get hurt. I care about you, Mateo, and I want to help you when you’re in need, like this."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You squeeze his shoulders.\nTears prick Mateo’s eyes."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Me? Why? I…"
+		},
+		{
+			"choice": "Because I care about you.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "I just do.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo smiles and snuggles closer into your side. His voice is barely a whisper when he speaks again:"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you, [YOUR NAME]."
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.4.5",
