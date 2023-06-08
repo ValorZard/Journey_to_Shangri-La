@@ -98,6 +98,24 @@
 			"name": "Picked up Soot",
 			"type": 0,
 			"value": "True"
+		},
+		{
+			"id": "1686193551-787",
+			"name": "choice2Done",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1686193558-366",
+			"name": "choice3Done",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1686193523-648",
+			"name": "choice1Done",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }
