@@ -780,6 +780,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "They race to your side…"
+		},
+		{
+			"change_timeline": "timeline-1686110346.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

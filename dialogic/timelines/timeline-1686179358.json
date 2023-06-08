@@ -569,6 +569,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Mateo blushes, his guilt returning to him.\nNo matter what, he wasn’t going to betray them…"
+		},
+		{
+			"change_timeline": "timeline-1686179375.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

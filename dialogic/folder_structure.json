@@ -124,7 +124,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Timelines": {
@@ -161,7 +161,8 @@
 				"timeline-1686255426.json",
 				"timeline-1686020038.json",
 				"timeline-1685911998.json",
-				"timeline-1685833747.json"
+				"timeline-1685833747.json",
+				"timeline-1686257263.json"
 			],
 			"folders": {
 				"Old timelines": {

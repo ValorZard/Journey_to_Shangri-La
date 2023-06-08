@@ -41,7 +41,7 @@
 			"text": "The ride is quiet."
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1686255403.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -83,7 +83,7 @@
 			"text": "The ride is quiet."
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1686255403.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -389,6 +389,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Mateo smiles back at you and shifts into a comfortable position, before closing his eyes.\nYou watch as his breaths become slow and even.\nAt least you could provide him this respite."
+		},
+		{
+			"change_timeline": "timeline-1686255403.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

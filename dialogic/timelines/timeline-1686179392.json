@@ -47,7 +47,7 @@
 			"value": ""
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1686255388.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -83,7 +83,7 @@
 			"value": ""
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1686255388.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -572,6 +572,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Hand in hand, you rejoin the others."
+		},
+		{
+			"change_timeline": "timeline-1686255388.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

@@ -1,0 +1,61 @@
+{
+	"events": [
+		{
+			"block_input": true,
+			"event_id": "dialogic_050",
+			"wait_time": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Stars.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/folk2-2.mp3",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[speed=16]THE END!\n[speed=4]That is all we could implement for Journey to Shangri-la. \n[speed=4]Thank you for playing!\n[speed=4]Credits:\nSrayan \"ValorZard\" Jana - Original Concept, Project Co-Lead, Script Writer\nStarr Ngo - Project Co-Lead, Script Writer\nSnowy - Original Concept, Artist\nAce - Artist\nVictor Infuso - Artist\nJennifer \"silxer\" La - UI/UX, Programming, Artist\nShengjie Zhang - Programming, UI/UX\nAdhiti \"Ae\" Chandramohan - Producer/Writer/Programmer\nKhoi Pham - Audio/Music Producer\n\"Rythmn\" - Writer/Artist\nAnd special thanks to everyone who has given us your valuable feedbacks!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 5,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 5
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 5
+		},
+		{
+			"change_scene": "res://dialogic/Menus/DialogicVisualNovelMenu.tscn",
+			"event_id": "dialogic_041"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1686257263.json",
+		"name": "End Credits"
+	}
+}

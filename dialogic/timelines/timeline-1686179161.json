@@ -452,6 +452,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Sadly, I think he’s alright. "
+		},
+		{
+			"change_timeline": "timeline-1686179498.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
