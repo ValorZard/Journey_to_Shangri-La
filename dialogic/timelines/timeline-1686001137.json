@@ -212,9 +212,12 @@
 		},
 		{
 			"character": "character-1683825918.json",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "Woah! It’s so different from Hawaii!"
+			"question": "Woah! It’s so different from Hawaii!"
 		},
 		{
 			"choice": "Ask about how Raj is able to pay for all of this.",
@@ -229,15 +232,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "..."
 		},
 		{
 			"choice": "Ask about how Raj is able to pay for all of this.",

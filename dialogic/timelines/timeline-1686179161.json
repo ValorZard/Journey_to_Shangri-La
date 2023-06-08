@@ -288,9 +288,12 @@
 		},
 		{
 			"character": "",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "Hiroshi fires, but Mateo shoves you out of the way. You feel the rush of the bullet going past you as you stumble to the side, but no one is hurt. "
+			"question": "Hiroshi fires, but Mateo shoves you out of the way. You feel the rush of the bullet going past you as you stumble to the side, but no one is hurt."
 		},
 		{
 			"choice": "Fight!",
@@ -298,6 +301,26 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Fight!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "fightAnyway"
 		},
 		{
 			"definition": "1676256272-366",
