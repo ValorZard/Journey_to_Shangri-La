@@ -1,6 +1,575 @@
 {
 	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "DATE: MARCH 1937[br]LOCATION: ???\nWhen you open your eyes again, you are met with the eyes of Soot."
+		},
+		{
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Meow[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She nudges your face with her nose, and presses her cheek against yours.\nAs she insists, you lift yourself up to a sitting position; though you are unsure of how you even end up on the ground in the first place. \nIn fact, you are currently situated in a grassy clearing so expansive that the nearest building will take hours to reach."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is everyone alright?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your attention goes back to your friends, and you find that they are also beginning to come to. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That was… [i]some[/i] ride! Fun, but I don’t know if I could ever do another one…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hurry to your feet and run towards the Professor, supporting him by the arm as he gets to his feet.\nHaving not heard from Raj, you call out to him."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Moments pass but you still don’t receive a response, so you spare a glance behind you to find him sitting dumbly in the grass."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj, my friend, you alright?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo makes his way over to you, but trips slightly on his way."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you okay? Are you hurt?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo shakes his head eagerly."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no! I’m just a little dizzy from… [i]everything[/i]."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Though his answer is vague, you choose to believe him for now and turn your attention to Raj.\nYou all watch as his expression contorts, and his brows furrow. He looks slowly around him, not even bothering to get up from the ground."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But this is–this is… [i]India[/i]?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At this, you also start to take a better look at your surroundings. While it is nothing you recognize, you are certain that you are no longer in Japan."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh my… where is Sandy? "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look around, but said man is nowhere to be seen. You begin to worry that the soldiers from before are causing him difficulties."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s not here. Is he going to be okay?"
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems he didn’t teleport with us, but I’m confident he can handle himself!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor speaks optimistically, and you try to follow in his lead by staying hopeful about Sandy’s safety. Surely, Sandy would not have an entire temple if he could not protect himself in dire situations.\nIn the meantime, Mateo’s eyes begin to sparkle as he turns to look at the Professor."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You mean he used [i]magic[/i] to get us here?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no. That’s not possible."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj cuts the Professor off firmly and gets up resolutely.\nThe Professor raises his eyebrows up with a conflicted look."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj, surely you can’t still be doubting the existence of magic? "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s no secret that Raj doesn’t believe in the existence of magic, while he was not one for grand displays, he did not hide his disapproval whenever the Professor spoke fondly of it. \nHowever, the fact that he’s reaching a breaking point is now apparent on his face."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you hear yourself, Howard?!\nDo you really believe that we can be in one place, and then suddenly another?! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "You notice the Professor and Mateo wince at Raj’s outburst."
+		},
+		{
+			"choice": "Calm Raj down.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256278-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You reach out and place a firm grip on Raj’s arm. You feel him stiffen."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Please, Raj, calm down! "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He gives you an incredulous look."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Calm down?[/i]"
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes! … I’m actually also really shocked right now.\nBut I think we should calm down and find a place to settle down first."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You emphasize your point by sweeping your gaze across the grassy clearing."
+		},
+		{
+			"choice": "Defend the Professor.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1676256261-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You put yourself between Raj and the Professor."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj, how could you yell at the Professor?\nI’m confused too, but don’t you think there’s a chance the Professor is right?"
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj presses his lips together tightly."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think it’s more important we get situated first."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo steps forward and expresses his agreement with eager nods."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We were in Japan, and now we are here! In your home country! And it is beautiful!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo stretches his arms up into the sky in a vast gesture towards the space around you, but he abruptly curls back into himself with a wince."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So you [i]are[/i] injured."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone is looking at Mateo now, and he seems to struggle to come up with an excuse this time. "
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We can come back to how we got here later. Currently, we need to address your condition. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj looks pointedly at Mateo."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know where we can get him checked out."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo shifts in his seat, not even a foot from the doctor in the small local clinic Raj has taken them to.\nRaj and the party stand outside the clinic, waiting to hear the news about Mateo.\nYou glance at Raj, who has his arms folded over his chest.\nHe’s standing a bit of a ways off, his brows scrunched in concentration. He must still not be over what happened earlier.\nYou exchange glances with the Professor, but Soot is the first one to approach Raj. \nShe leaps out of your arms and stands on Raj’s foot, meowing up at him."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you okay? I know you were kind of… shocked earlier."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj responds with a soft hum."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry about earlier, Howard. [YOUR NAME]. …Soot.\nI‘ve been thinking about it. Considerably. "
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t feel pressured Raj. If anyone can find an answer to all of this that [i]isn’t[/i] magic, it has to be you!\nMaybe I was getting a little too excited as well."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj gives you both a wry smile."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you, Howard. But no, I believe you are right. It [i]is[/i] magic. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor starts to gleam, and it’s contagious. You almost didn’t notice that you were bouncing on your heels."
+		},
+		{
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t get too excited though, I’m still a little suspicious of what exactly happened."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are eager to share the news with Mateo, and glance into the clinic to see how he is doing.\nHe’s sitting slumped over in a chair not even a foot from the doctor, who is examining his condition.\nMateo sits in the chair, overtaken with exhaustion, but the thoughts in his mind occupy him more than the pain in his side…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]… Back when the party was fleeing from Hiroshi…[/i]"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How could you do this? Why would you do something so… [i]cruel?[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo fights against the binds around his wrists, only stopping when he feels the hard knock of a metal muzzle against his head."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are killing innocents! For what?!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite his current situation, Mateo rebels boldly.\nIn return, he is forced onto his knees. It doesn’t help much that he had hurt his ankle earlier while running away.\nHiroshi scoffs."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "‘For what?’ For power! For the recognition we deserve!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With each exclamation Hiroshi took a step towards Mateo and his voice got ever louder."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But you don’t need to care, because you’re going first."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi flicks his wrist and Mateo hears the click from the gun beside his head."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no! Wait! I can give you what you want!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi, who had already been walking away, spins on his heel and looks unimpressed."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And how is a little, [i]powerless[/i] man like you going to do that?"
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m close to them. I can help you get–"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo swallows hard."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "–get the amulet. The amulet the Professor is so obsessive over. The magical amulet is full of power! And we’re headed to its place of origin, which no doubt is even more magical."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiroshi considers this for a moment. His eyes scan over Mateo, making his hairs stand on end. \nAs Mateo is really starting to feel the pressure, a loud cry comes from not far away. \nWhen he looks over, he sees one of the soldiers tumbling backwards quite a distance. Shouts ring out into the air, and he catches a glimpse of Sandy’s notable staff among the chaos. \nAn angry growl from Hiroshi brings him back to attention. \nBefore he knows it, a sharp pain blooms in his side and he falls to the ground from Hiroshi’s kick.  \nHe doesn’t get a chance to recover before Hiroshi takes hold of his collar and yanks him up to meet his face."
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If I do not get that amulet, you and your friends won’t be the only ones suffering. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He smirks. \nMateo feels his throat close. "
+		},
+		{
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ll keep in touch."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whatever expression he was making, Hiroshi must’ve been satisfied because he threw Mateo back onto the ground, immediately walking off to shout at his troops.\nIt doesn’t take long before Sandy makes his way to Mateo and ‘rescues’ him. With Sandy in the lead, the two make it back to the Professor and the others.\nEven as he throws himself around his friends as the golden array appears, he could feel sharp stares boring into his back. \nChancing a glance back, he accidentally meets Hiroshi’s eyes, which imprint an uneasiness in him which he will never forget."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]… Back to the present day…[/i]"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo felt better physically, but he could feel the guilt clawing at him from that incident. There was no way he could ever betray his friends, especially [YOUR NAME]..."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey Mateo, how are you feeling?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo perks up, banishing his unhappy thoughts."
+		},
+		{
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Great! Thanks for taking me here–you really didn’t have to!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re [i]not[/i] going to travel to Kolkata with you [i]injured[/i]. My family would absolutely scold me."
+		},
+		{
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Here, I’ll support you!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Professor moves to Mateo’s side, wrapping a supportive arm around him… even if the Professor wasn’t very strong, the gesture was kind."
+		},
+		{
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We care about you, Mateo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mateo blushes, his guilt returning to him.\nNo matter what, he wasn’t going to betray them…"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.4.5",
