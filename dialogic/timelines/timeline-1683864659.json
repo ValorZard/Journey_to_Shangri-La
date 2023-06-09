@@ -72,6 +72,47 @@
 			"text": "You follow the source of the sound and discover Mateo, curled into a corner on the floor and strumming the guitar that usually hangs on his hip. "
 		},
 		{
+			"condition": "<",
+			"definition": "1676256261-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"condition": "<",
+			"definition": "1676256284-918",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "His brows are furrowed with concentration."
+		},
+		{
+			"choice": "Let him be.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1686271357",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -1061,6 +1102,12 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1686271357",
+			"index": 0,
+			"name": "reqsNotMet"
 		},
 		{
 			"character": "",
