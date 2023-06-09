@@ -72,6 +72,47 @@
 			"text": "You follow the source of the sound and discover Mateo, curled into a corner on the floor and strumming the guitar that usually hangs on his hip. "
 		},
 		{
+			"condition": "<",
+			"definition": "1676256261-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"condition": "<",
+			"definition": "1676256284-918",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "His brows are furrowed with concentration."
+		},
+		{
+			"choice": "Let him be.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1686271357",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -1063,6 +1104,12 @@
 			"value": ""
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1686271357",
+			"index": 0,
+			"name": "reqsNotMet"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1090,55 +1137,6 @@
 			},
 			"type": 1,
 			"z_index": 0
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "While on ship, music emanates from belowdecks..."
-		},
-		{
-			"background": "res://Echo/Backgrounds/Hawaii Interlude.PNG",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 10,
-			"waiting_skippable": true
-		},
-		{
-			"background": "res://Echo/Backgrounds/Black Screen.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "... As you sail to Tokyo, you listen to Mateo's stories with rapt attention..."
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 3
 		},
 		{
 			"change_timeline": "timeline-1684311531.json",

@@ -1474,6 +1474,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "With that, the various Wukongs support you and the party, and you head back to the village. "
+		},
+		{
+			"change_timeline": "timeline-1685833747.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
