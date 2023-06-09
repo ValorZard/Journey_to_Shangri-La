@@ -18,12 +18,6 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hello [YOUR NAME]!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
 			"text": "Before we get started, you have to choose your backstory!"
 		},
 		{
