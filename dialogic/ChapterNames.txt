@@ -3,31 +3,19 @@ Intro
 MC Prologue
 LA pt.1 (revised)
 LA pt.2 (revised)
-LE: Raj 1 (LA to Hawaii)
-CG: LA Interlude
+Raj Love Event LA to Hawaii
+LA Interlude
 Hiroshi LA
 Hawaii pt. 1 (revised)
 Hawaii pt. 2 (rewritten)
-LE: Raj 2 (Hawaii)
-LE: Mateo 1 (Hawaii)
-CG: Hawaii Interlude
+Raj Love Event2 Hawaii
+Mateo Love Event Hawaii
+Hawaii Interlude
 Tokyo pt1
 Tokyo pt2
 Tokyo pt3
-Tokyo Written Interlude
-LE: Mateo 2
-LE: Raj 3
-CG: Tokyo Interlude
 Kolkata pt1
-Kolkata pt2
-LE: Mateo 3
-CG: Kolkata Interlude
-Sikkim pt1
-Sikkim pt2
-CG: Sikkim Interlude
-Shangri-La pt1
 Shangri-La pt2
 Shangri-La pt3
 Bad End
 Demo End
-End Credits
