@@ -391,6 +391,16 @@
 			"text": "And so, you remain in Shangri-La while the others return to their respective destinations.\nIt’s peaceful every day, and it gives you time to think back and reflect on everything. \nAnd the more you think about it, the more writing a book sounds like a good idea. Perhaps if it sells well, you could make a living as an author…\nSo that’s what you do–you chronicle the entire journey, working tirelessly on it, for countless days and nights.\nWukong checks up on you occasionally, and one day you give him a draft to read. He grins and laughs a lot when he goes through it, and remarks that you really could become a fully-fledged author.\nOnce the final draft is finished, you share it with the villagers as well. They all love it, and the old couple you befriended encourage you to go out and share your tale with the world.\nAnd so, after two long years of writing and refining, you do so.\nYou head back to LA and submit your work to several publishers–all of which immediately are enraptured by your story and offer to publish.\nIt’s hard to believe how fast your book hits the shelves, and soon you’re gaining popularity wherever you go…\nAlong with inspiration after inspiration. You can’t help it; you start writing in earnest, and become a well-known author.\nIt’s a good life ahead of you–one full powerful narratives!"
 		},
 		{
+			"background": "res://Echo/Backgrounds/hobbitEnding.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 10,
+			"waiting_skippable": false
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -473,6 +483,16 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "And so, you remain in Shangri-La while the others return to their respective destinations.\nIt’s a peaceful life, here in the beyul. The villagers are kind and friendly, there’s little conflict among them and the old couple are thrilled to have you back living with them. You help them out with work around the house and take up the Buddhist practices with them, and you find yourself content.\nWukong occasionally pops by to say hello whenever he’s in the village, and as time passes, the two of you grow close. You talk about your experiences with magic–with Sandy, with Wukong, with how the beyul itself is full of magic, and he talks to you about his past, his hijinks in Heaven, his time with Tripitaka, and his time caring for the villagers now.\nHe also gives you some demonstrations of his power sometimes, just for fun. He spawns monkey clones and leaps up on clouds, soaring through the sky like he belongs there.\nAnd one night, he takes you up with him."
+		},
+		{
+			"background": "res://Echo/Backgrounds/SWKEnding.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 10,
+			"waiting_skippable": false
 		},
 		{
 			"event_id": "dialogic_013"
