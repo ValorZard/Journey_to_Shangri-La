@@ -39,6 +39,15 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 5,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -159,6 +168,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You watch as he rubs his ring finger again, but this time he seems happier. \nSuddenly, you hear a commotion from the front of the train. You peek out and see the army officer from earlier yelling and shoving people around. You lock eyes, and he starts towards you."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/tensehawaii1.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -422,6 +440,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The Professor charges at Hiroshi again, but slips and falls onto Raj. Both of them land harmlessly onto the roof of the train, but the Professor’s broken rail slips out of his hand and rolls forward. \nHiroshi grins and steps forward toward the pile of Raj and Professor, sword drawn. He raises it high above his head, ready to strike…\nThen, Hiroshi steps on the piece of broken rail that the Professor dropped, which rolls underneath his foot. He slips, legs flying, then falls headfirst off the train and lands with a splash in the lake that the train is passing. The soldier who was with him jumps in after him. "
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 5,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1677847888.json",

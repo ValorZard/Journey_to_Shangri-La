@@ -4,7 +4,22 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Even though everyone is sleeping in the attic, it’s not as cramped as you thought it would be. It’s quiet and peaceful, and you all fall asleep within minutes of each other.\nYou’re deep in a dream where Soot can fly and is eating endless amounts of fish, when–\n[b]BANG![/b]\nYou startle upright at the sound of the door slamming open. Your head whips over to see–\nSoldiers. [i]Soldiers.[/i]\nBearing guns, and [i]flooding[/i] into the room."
+			"text": "Even though everyone is sleeping in the attic, it’s not as cramped as you thought it would be. It’s quiet and peaceful, and you all fall asleep within minutes of each other.\nYou’re deep in a dream where Soot can fly and is eating endless amounts of fish, when–"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/hiroshiLAfather1.ogg",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[b]BANG![/b]\nYou startle upright at the sound of the door slamming open. Your head whips over to see–\nSoldiers. [i]Soldiers.[/i]\nBearing guns, and [i]flooding[/i] into the room."
 		},
 		{
 			"character": "character-1677556412.json",
@@ -361,6 +376,15 @@
 			"text": "Hey!!!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/tensehawaii1.mp3",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -472,7 +496,22 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The ceiling above gives an ominous groan.\nYou hesitate for one more moment, before turning and running out of the huge hole in the temple.\nYou barely make it three steps away before the entire structure collapses, sending wood beams and dust flying everywhere…\nBurying everyone inside."
+			"text": "The ceiling above gives an ominous groan.\nYou hesitate for one more moment, before turning and running out of the huge hole in the temple."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 5,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You barely make it three steps away before the entire structure collapses, sending wood beams and dust flying everywhere…\nBurying everyone inside."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -543,6 +582,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A pile of wood shifts more at your voice and you run forward, helping to dig out the person–\nAnd you’re met with the barrel of a gun pointed at your face."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://Echo/Music/whatswrong1.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -786,6 +833,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Don’t worry, they’re all okay!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/hisnoot1.mp3",
+			"volume": 0
 		},
 		{
 			"character": "",

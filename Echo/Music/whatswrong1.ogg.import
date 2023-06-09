@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/whatswrong1.ogg-762bc29fe2a83eddd0830547bad429f3.oggstr"
+
+[deps]
+
+source_file="res://Echo/Music/whatswrong1.ogg"
+dest_files=[ "res://.import/whatswrong1.ogg-762bc29fe2a83eddd0830547bad429f3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

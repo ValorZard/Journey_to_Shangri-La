@@ -7,6 +7,15 @@
 			"text": "It’s been a few days since the events at the temple, and things had been blessedly peaceful. You and everyone had been taking it easy in the village. \nThe Professor hadn’t been deterred by having a temple fall on him, and had gone right back to the monks to continue researching the amulet–though they forced him to sit more often and take more breaks.\nRaj was openly learning about magic now and asking for demonstrations. He was both fascinated and perplexed by the workings of magical artifacts, and hurried to note down his observations.  \nMateo had finally plucked up the courage to play his guitar for the village children, after hours of them asking and asking. Last you saw, he’d been smiling broadly and playing freely–finally confident.\nWukong himself had been active in the village too, probably because of what had happened with Hiroshi. He was being a bit more careful, not leaving his people alone for long, just in case he’d missed someone.\nBut there had been no issues. All of Hiroshi’s men had surrendered. Those who wanted to leave had been allowed to, but those who wanted to stay and practice Buddhism had been welcomed with open arms.\nAs for you…\nYou had been spending most of your time with Soot, bringing her everywhere and letting her explore, while only carrying her with one arm as your shoulder healed.\nBut now, the bandages could come off for good, and you can finally hug Soot with both arms.\nYou’re in the middle of cuddling her when Mateo comes barreling right into you. "
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 3,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -163,6 +172,15 @@
 			"value": "6"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/fallinginlove2.ogg",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -174,6 +192,15 @@
 			"definition": "1683827988-648",
 			"event_id": "dialogic_011",
 			"value": "6"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/fallinginlove2.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -211,6 +238,15 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/folk2-2.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -310,6 +346,15 @@
 			"text": "It won’t be forever! Promise."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/folk2-2.mp3",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -323,6 +368,15 @@
 			"definition": "1685953557-648",
 			"event_id": "dialogic_012",
 			"value": "1"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/shangrila1.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -395,6 +449,15 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"change_timeline": "timeline-1686257263.json",

@@ -9,8 +9,8 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://Echo/Music/folk2-2.mp3",
+			"fade_length": 0,
+			"file": "res://Echo/Music/kolkata3.ogg",
 			"volume": 0
 		},
 		{
