@@ -10,10 +10,98 @@
 			"volume": 0
 		},
 		{
+			"background": "res://Echo/Backgrounds/Train.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "DATE: APRIL 1937[br]LOCATION: SIKKIM, INDIA\nOnce the train pulls into Gangtok, everyone rushes off. \nNaturally, you follow the ebb and flow of the crowd with Soot tucked close to your chest, trailing closely behind the Professor’s back until you’re firmly off the railway platform."
+		},
+		{
+			"background": "res://Echo/Backgrounds/sikkim_streets.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_015",
@@ -225,7 +313,7 @@
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I shall see what needs to be done next in order for us to cross into Tibet. \nIt won’t be long now! I can almost imagine the beautiful beyuls right there, in front of my very eyes! The mystery of the amulet, finally solved! Magic, swirling in the air! The world will finally get to see the culmination of my research, maybe even get a taste of that very magic—"
+			"text": "I shall see what needs to be done next in order for us to cross into Tibet. \nIt won’t be long now! I can almost imagine the beautiful beyuls right there, in front of my very eyes! \nThe mystery of the amulet, finally solved! Magic, swirling in the air! \nThe world will finally get to see the culmination of my research, maybe even get a taste of that very magic—"
 		},
 		{
 			"character": "character-1677847888.json",
@@ -238,6 +326,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Right, right. I’ll be back in a jiffy!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -443,7 +551,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sights of Sikkim are endless. \nAmongst the colorful street vendors and stylized buildings or the mountainous environment and idyllic bodies of water, you’re not sure exactly where to look.\nWith less light pollution than you’re used to, the darkening hues of the evening are like the vivid brushstrokes of oil on canvas. You really feel closer to the sky from this high up, as if you might actually be able to grasp the colors with your two hands if you just reached out and grabbed a fistful. \nLike before, it almost feels… "
+			"text": "The sights of Sikkim are endless. \nAmongst the colorful street vendors and stylized buildings or the mountainous environment and idyllic bodies of water, you’re not sure exactly where to look.\nWith less light pollution than you’re used to, the darkening hues of the evening are like the vivid brushstrokes of oil on canvas. \nYou really feel closer to the sky from this high up, as if you might actually be able to grasp the colors with your two hands if you just reached out and grabbed a fistful. \nLike before, it almost feels… "
 		},
 		{
 			"character": "character-1677847888.json",
@@ -539,7 +647,7 @@
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I… ran around for a bit, you know? Just trying to divert the soldiers’ attention so you could run away, [YOUR NAME]. My mind was a little bit messy back there… I can’t really remember it all clearly. \nNothing crazy really happened, I promise."
+			"text": "I… ran around for a bit, you know? Just trying to divert the soldiers’ attention so you could run away, [YOUR NAME]. \nMy mind was a little bit messy back there… I can’t really remember it all clearly. \nNothing crazy really happened, I promise."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -582,7 +690,7 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 5,
+			"fade_length": 1,
 			"file": "",
 			"volume": 0
 		},
@@ -590,7 +698,53 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As Mateo and Raj continue to debate over Raj’s tsundere-ness, you think you spot a lone figure sitting by a sizable rock, away from the crowds and noise. \nAs you wander toward the strange sight, it becomes very clear to you that the rock is supposed to be some sort of statue and the form is actually a person, either slumped over or curled into a ball."
+			"text": "As Mateo and Raj continue to debate over Raj’s tsundere-ness, you think you spot a lone figure sitting by a sizable rock, away from the crowds and noise. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you wander toward the strange sight, it becomes very clear to you that the rock is supposed to be some sort of statue and the form is actually a person, either slumped over or curled into a ball."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -726,6 +880,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Third time’s the charm, right? \nSoot meows in agreement. \nYou tap on their shoulder yet again.\nYour stubbornness must finally get through to them because they roll over with a grunt of what sounds like a Herculean amount of effort. \nWhere have you heard that voice before? Come to think of it, even the clothes the person is wearing looks awfully familiar… and that silver hair… \nA familiar face gazes at you from behind two hands, wet from what must be tears. The only thing missing is a huge pair of glasses."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1676265208.json",

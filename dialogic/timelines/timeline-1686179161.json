@@ -1,6 +1,90 @@
 {
 	"events": [
 		{
+			"background": "res://Echo/Backgrounds/Train.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -39,6 +123,16 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your conversation is quickly interrupted as the train to Gangtok, Sikkim, pulls into the station. \nThe party grabs their bags and boards. The crowd around you pushes and shoves to get on board. "
+		},
+		{
+			"background": "res://Echo/Backgrounds/Train2.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -51,7 +145,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your conversation is quickly interrupted as the train to Gangtok, Sikkim, pulls into the station. The party grabs their bags and boards. The crowd around you pushes and shoves to get on board. But, after fighting your way through people yelling at each other in Bengali, Hindi, Tamil, Gujarati, and more languages than you've ever heard spoken at once, you finally are able to grab a seat and rest.\nYou sigh and look out the window as the train begins to pull out of the station. More people are still trying to get on the train. Right as you’re about to turn away from the window, you see what looks like a smartly dressed Imperial Japanese Army officer jump onto the already moving train. "
+			"text": "But, after fighting your way through people yelling at each other in Bengali, Hindi, Tamil, Gujarati, and more languages than you've ever heard spoken at once, you finally are able to grab a seat and rest.\nYou sigh and look out the window as the train begins to pull out of the station. \nMore people are still trying to get on the train. Right as you’re about to turn away from the window, you see what looks like a smartly dressed Imperial Japanese Army officer jump onto the already moving train. "
 		},
 		{
 			"character": "",
@@ -167,7 +261,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You watch as he rubs his ring finger again, but this time he seems happier. \nSuddenly, you hear a commotion from the front of the train. You peek out and see the army officer from earlier yelling and shoving people around. You lock eyes, and he starts towards you."
+			"text": "You watch as he rubs his ring finger again, but this time he seems happier. \nSuddenly, you hear a commotion from the front of the train. You peek out and see the army officer from earlier yelling and shoving people around. \nYou lock eyes, and he starts towards you."
 		},
 		{
 			"audio_bus": "Master",
@@ -182,7 +276,7 @@
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Uh, guys. I think we better get a move on. The guy I told you about is here, and I think he’s after us. He’s got a sword."
+			"text": "Uh, guys. I think we better get a move on. \nThe guy I told you about is here, and I think he’s after us. He’s got a sword."
 		},
 		{
 			"character": "character-1683825918.json",
@@ -218,7 +312,33 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You climb a ladder to the top of the train car. As you stop to catch your breath, you hear a squeak from the ladder and turn to see that Hiroshi has followed you, and is now pointing his sword at you and your party. Another army officer that you hadn’t noticed before stands with him."
+			"text": "You climb a ladder to the top of the train car. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you stop to catch your breath, you hear a squeak from the ladder and turn to see that Hiroshi has followed you, and is now pointing his sword at you and your party. \nAnother army officer that you hadn’t noticed before stands with him."
 		},
 		{
 			"character": "character-1677556264.json",
@@ -311,7 +431,7 @@
 
 			],
 			"portrait": "",
-			"question": "Hiroshi fires, but Mateo shoves you out of the way. You feel the rush of the bullet going past you as you stumble to the side, but no one is hurt."
+			"question": "Hiroshi fires, but Mateo shoves you out of the way. \nYou feel the rush of the bullet going past you as you stumble to the side, but no one is hurt."
 		},
 		{
 			"choice": "Fight!",
@@ -352,7 +472,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You spot a broken railing on the top of the train and pull. Miraculously, it breaks off. You swing at Hiroshi l, who drops his gun and steps back, clutching his hand. The gun slides as it falls, and goes over the side of the train. Your action seems to have inspired the rest of the party, who rush towards Hiroshi and his comrade with improvised weapons of their own. "
+			"text": "You spot a broken railing on the top of the train and pull. \nMiraculously, it breaks off. \nYou swing at Hiroshi, who drops his gun and steps back, clutching his hand. \nThe gun slides as it falls, and goes over the side of the train. \nYour action seems to have inspired the rest of the party, who rush towards Hiroshi and his comrade with improvised weapons of their own. "
 		},
 		{
 			"event_id": "dialogic_013"
@@ -379,7 +499,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "He charges toward your party, but Mateo’s distraction was enough. The Professor hits him across the face with another piece of broken rail.\nHiroshi shouts, clutching his eye and waving his sword, though he doesn’t manage to hit anything. "
+			"text": "He charges toward your party, but Mateo’s distraction was enough. \nThe Professor hits him across the face with another piece of broken rail.\nHiroshi shouts, clutching his eye and waving his sword, though he doesn’t manage to hit anything. "
 		},
 		{
 			"character": "",
@@ -439,16 +559,33 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The Professor charges at Hiroshi again, but slips and falls onto Raj. Both of them land harmlessly onto the roof of the train, but the Professor’s broken rail slips out of his hand and rolls forward. \nHiroshi grins and steps forward toward the pile of Raj and Professor, sword drawn. He raises it high above his head, ready to strike…\nThen, Hiroshi steps on the piece of broken rail that the Professor dropped, which rolls underneath his foot. He slips, legs flying, then falls headfirst off the train and lands with a splash in the lake that the train is passing. The soldier who was with him jumps in after him. "
+			"text": "The Professor charges at Hiroshi again, but slips and falls onto Raj. \nBoth of them land harmlessly onto the roof of the train, but the Professor’s broken rail slips out of his hand and rolls forward. \nHiroshi grins and steps forward toward the pile of Raj and Professor, sword drawn. He raises it high above his head, ready to strike…\nThen, Hiroshi steps on the piece of broken rail that the Professor dropped, which rolls underneath his foot. "
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 5,
-			"file": "",
-			"volume": 0
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He slips, legs flying, then falls headfirst off the train and lands with a splash in the lake that the train is passing. The soldier who was with him jumps in after him. "
 		},
 		{
 			"character": "character-1677847888.json",
@@ -479,6 +616,44 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Sadly, I think he’s alright. "
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
 		},
 		{
 			"change_timeline": "timeline-1686179498.json",
