@@ -27,7 +27,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[speed=16]THE END!\n[speed=4]That is all we could implement for Journey to Shangri-la. \n[speed=4]Thank you for playing!\n[speed=4]Credits:\nSrayan \"ValorZard\" Jana - Original Concept, Project Co-Lead, Script Writer\nStarr Ngo - Project Co-Lead, Script Writer\nSnowy - Original Concept, Artist\nAce - Artist\nVictor Infuso - Artist\nJennifer \"silxer\" La - UI/UX, Programming, Artist\nShengjie Zhang - Programming, UI/UX\nAdhiti \"Ae\" Chandramohan - Producer/Writer/Programmer\nKhoi Pham - Audio/Music Producer\n\"Rythmn\" - Writer/Artist\nAnd special thanks to everyone who has given us your valuable feedbacks!"
+			"text": "[speed=16]THE END!\n[speed=4]That is all we could implement for Journey to Shangri-la. \n[speed=4]Thank you for playing!\n[speed=4]Credits:\nSrayan Jana - Co-lead, Writer, Producer, Programmer\nStarr - Co-lead, Writer, Producer\nSnowy - Original Concept, Artist\nAce - Artist\nVictor - Character Artist\nJennifer \"silxer\" La - UI/UX, Programming, Artist\nShengjie Zhang - Programming, UI/UX\nAdhiti \"Ae\" Chandramohan - Producer/Writer/Programmer\nKhoi Pham - Music Composer, Audio, Implementation\nYuu “Rythmn” - Writer, Artist\nHelena - Implementation/Programmer\nAlexa - Writer\nZiqing - Scriptwriter\nDanica - Programmer, UI/UX\nAngelic - Artist\nAnd special thanks to everyone who has given us your valuable feedbacks!"
 		},
 		{
 			"audio_bus": "Master",

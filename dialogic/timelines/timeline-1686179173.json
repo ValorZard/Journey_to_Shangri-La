@@ -1,17 +1,17 @@
 {
 	"events": [
 		{
+			"background": "res://Echo/Backgrounds/Train.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 0,
+			"fade_length": 1,
 			"file": "res://Echo/Music/kolkata3.ogg",
 			"volume": 0
-		},
-		{
-			"background": "res://Echo/Backgrounds/Train.png",
-			"event_id": "dialogic_021"
 		},
 		{
 			"animation": "[Default]",

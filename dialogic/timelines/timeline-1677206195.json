@@ -11,6 +11,10 @@
 			"text": "Welcome to \"Journey to Shangri-La\"! "
 		},
 		{
+			"change_timeline": "timeline-1686075628.json",
+			"event_id": "dialogic_020"
+		},
+		{
 			"change_scene": "res://Echo/PlayerName.tscn",
 			"event_id": "dialogic_041"
 		}

@@ -187,6 +187,16 @@
 			"text": "And so, you travel the Himalayas with Raj.\nYou enter countless beyuls and spend time with the residents, learning of their culture and folklore.\nRaj diligently records down everything he learns, and even starts teaching you how to conduct anthropological studies. \nWhile your notes aren’t nearly as diligent or neat as his, you still enjoy the process of getting to know cultures unlike your own.\nAnd now that you’ve experienced magic firsthand, you can see threads of it in the people’s words and culture. You can see how magic had shaped their culture, so long ago.\nAnd now, so can Raj. He no longer denies it.\nIt’s a peaceful life of travel, and the two of you often stop to take in the sights of nature.\n… And on the clearest, cloudless nights, the two of you stargaze, just as you did once before."
 		},
 		{
+			"background": "res://Echo/Backgrounds/RajEnding.PNG",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 10,
+			"waiting_skippable": false
+		},
+		{
 			"choice": "Go with Mateo",
 			"condition": ">=",
 			"definition": "1683827988-648",
@@ -233,6 +243,16 @@
 			"text": "And so, you travel with Mateo to his hometown in Guadalajara, Mexico. Throughout the trip, Mateo more openly strums his guitar and sings for you. He teaches you some chords on the guitar, standing behind you with his arms wrapped around you, hands gently guiding yours on the fretboard. In these moments, he takes the opportunity to kiss your cheek for the romantic verses he composes–you’ve never felt this happy before.\nYou sing together, and spend your traveling days happily creating tunes for your fellow ship passengers and other travelers on your journey to Guadalajara. Mateo is the happiest you have ever seen him. He walks with confidence and plays with confidence for his family. His parents and grandparents and siblings welcome you into their home, tossing each other knowing glances.\nMateo doesn’t hide his affection for you, and pulls you into a deep kiss."
 		},
 		{
+			"background": "res://Echo/Backgrounds/MateoEnding.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 10,
+			"waiting_skippable": false
+		},
+		{
 			"choice": "Go with Professor ",
 			"condition": "",
 			"definition": "",
@@ -271,6 +291,16 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "And so, you return to LA with the Professor.\nWith the opened amulet and firsthand experiences in the beyuls, the Professor is able to publish paper after paper, gaining acclaim as UCLA’s best Anthropologist.\nHe earns countless grants and awards, and he uses that money to give you a scholarship for higher education. It’s enough money to pay off your entire tuition, and then some.\nYou become a full-time student while still working part-time as his academic assistant. \nYour choice of major? Anthropology. Going on the wild adventure to the beyuls had sparked your interest in the field, and the Professor encouraged you all the way.\nYou slowly transition from an academic assistant to the Professor to his trusted research partner, working with him through your undergraduate education into a graduate education in Anthropology. \nAnd when he retires, he gifts his office to you for your own use, and promises to pop by and visit whenever he can. \nIt’s a good life ahead of you–one full of anthropological research!"
+		},
+		{
+			"background": "res://Echo/Backgrounds/ProfEnding.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 10,
+			"waiting_skippable": false
 		},
 		{
 			"choice": "Stay in Shangri-La",
@@ -458,6 +488,16 @@
 			"fade_length": 1,
 			"file": "",
 			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3,
+			"waiting_skippable": false
 		},
 		{
 			"change_timeline": "timeline-1686257263.json",
