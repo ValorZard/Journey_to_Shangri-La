@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/keepgoing2.ogg-b096abb1b27ca652ac9bb3d0fc2dfd6b.oggstr"
+
+[deps]
+
+source_file="res://Echo/Music/keepgoing2.ogg"
+dest_files=[ "res://.import/keepgoing2.ogg-b096abb1b27ca652ac9bb3d0fc2dfd6b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

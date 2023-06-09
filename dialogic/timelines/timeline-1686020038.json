@@ -578,7 +578,22 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "After breakfast, you bid goodbye to the kind Sherpa family that let you stay the night, and set off with Wukong leading the way.\nAs promised, it isn’t far from his beyul now.\nFollowing Wukong’s lead, you finally walk up the last hill, and…"
+			"text": "After breakfast, you bid goodbye to the kind Sherpa family that let you stay the night, and set off with Wukong leading the way.\nAs promised, it isn’t far from his beyul now."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/shangrila1.ogg",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Following Wukong’s lead, you finally walk up the last hill, and…"
 		},
 		{
 			"character": "",

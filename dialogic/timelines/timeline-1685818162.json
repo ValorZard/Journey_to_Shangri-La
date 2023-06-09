@@ -9,7 +9,7 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 1,
+			"fade_length": 0,
 			"file": "res://Echo/Music/tokyo4.mp3",
 			"volume": 0
 		},

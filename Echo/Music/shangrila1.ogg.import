@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/shangrila1.ogg-4e29694563a089c1d776458fe0c5c618.oggstr"
+
+[deps]
+
+source_file="res://Echo/Music/shangrila1.ogg"
+dest_files=[ "res://.import/shangrila1.ogg-4e29694563a089c1d776458fe0c5c618.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

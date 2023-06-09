@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/kolkata3.ogg",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -569,6 +578,15 @@
 			"text": "Aww, Raj! I know you secretly missed it."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 5,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -738,6 +756,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s horrible! Awful! The worst possible scenario! My most dreaded nightmares have come true! My beyuls…"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://Echo/Music/whatswrong1.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",

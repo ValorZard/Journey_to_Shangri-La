@@ -49,6 +49,15 @@
 			"text": "We won’t be able to go any further. Our journey ends here. "
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 0,
+			"file": "res://Echo/Music/ourjourneyendshere1.ogg",
+			"volume": 0
+		},
+		{
 			"character": "character-1686121414.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -468,6 +477,15 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/keepgoing2.ogg",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
