@@ -1,4 +1,4 @@
-[gd_scene load_steps=39 format=2]
+[gd_scene load_steps=46 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://dialogic/Menus/BackgroundImage.jpg" type="Texture" id=2]
@@ -20,7 +20,8 @@
 [ext_resource path="res://Echo/Stats/IMG_1299.PNG" type="Texture" id=18]
 [ext_resource path="res://Echo/Stats/IMG_1307.PNG" type="Texture" id=19]
 [ext_resource path="res://Echo/Stats/IMG_1290.PNG" type="Texture" id=20]
-[ext_resource path="res://Echo/PlayerName.tscn" type="PackedScene" id=21]
+[ext_resource path="res://Echo/Backgrounds/Stars.jpg" type="Texture" id=21]
+[ext_resource path="res://dialogic/Menus/PlayerName.gd" type="Script" id=22]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -184,6 +185,29 @@ corner_radius_top_right = 30
 corner_radius_bottom_right = 30
 corner_radius_bottom_left = 30
 
+[sub_resource type="StyleBoxFlat" id=18]
+bg_color = Color( 0.054902, 0.0156863, 0.184314, 1 )
+
+[sub_resource type="StyleBoxFlat" id=19]
+bg_color = Color( 0.698039, 0.858824, 1, 1 )
+border_width_left = 1
+border_width_top = 1
+border_width_right = 1
+border_width_bottom = 1
+border_color = Color( 0.0705882, 0.117647, 0.321569, 1 )
+
+[sub_resource type="Theme" id=20]
+/styles/Color = SubResource( 19 )
+
+[sub_resource type="StyleBoxFlat" id=21]
+bg_color = Color( 0.160784, 0.0980392, 0.34902, 1 )
+
+[sub_resource type="StyleBoxFlat" id=22]
+bg_color = Color( 0.501961, 0.317647, 0.831373, 1 )
+
+[sub_resource type="StyleBoxFlat" id=23]
+bg_color = Color( 0.054902, 0.0156863, 0.184314, 1 )
+
 [node name="DialogicVisualNovelManager" type="Control"]
 pause_mode = 2
 anchor_right = 1.0
@@ -221,9 +245,10 @@ margin_right = -11.0
 margin_bottom = -481.0
 
 [node name="ColorRect" type="ColorRect" parent="Menus/MenuContainer/StatsMenu"]
+anchor_left = 1.0
 anchor_right = 1.0
-anchor_bottom = 1.0
-margin_left = 48.0
+margin_left = -167.0
+margin_bottom = 109.0
 grow_horizontal = 0
 grow_vertical = 0
 size_flags_horizontal = 0
@@ -272,11 +297,12 @@ rect_scale = Vector2( 0.0716416, 0.0708907 )
 stretch_mode = 1
 
 [node name="RichTextLabel" type="RichTextLabel" parent="Menus/MenuContainer/StatsMenu"]
-anchor_right = 0.627
-anchor_bottom = 1.009
-margin_left = 59.0
-margin_right = 79.195
-margin_bottom = 0.0190048
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -161.0
+margin_top = 1.0
+margin_right = -6.0
+margin_bottom = 111.0
 custom_fonts/normal_font = SubResource( 17 )
 text = "Kindness: 0
 Bravery: 0
@@ -712,7 +738,7 @@ custom_constants/separation = 10
 alignment = 1
 
 [node name="Title" type="Label" parent="Menus/MenuContainer/MainMenu/Buttons"]
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 62.0
 custom_fonts/font = SubResource( 12 )
 text = "Journey to Shangri-La"
@@ -722,7 +748,7 @@ __meta__ = {
 
 [node name="NewGame_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 72.0
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 109.0
 size_flags_vertical = 3
 text = "New Game"
@@ -734,7 +760,7 @@ __meta__ = {
 
 [node name="LoadGame_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 119.0
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 156.0
 size_flags_vertical = 3
 text = "Load Game"
@@ -746,7 +772,7 @@ __meta__ = {
 
 [node name="ChapSelect_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 166.0
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 203.0
 size_flags_vertical = 3
 text = "Chapters"
@@ -758,7 +784,7 @@ __meta__ = {
 
 [node name="Settings_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 213.0
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 250.0
 size_flags_vertical = 3
 text = "Settings"
@@ -770,7 +796,7 @@ __meta__ = {
 
 [node name="Credits_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 260.0
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 297.0
 size_flags_vertical = 3
 text = "Credits"
@@ -782,7 +808,7 @@ __meta__ = {
 
 [node name="Quit_Button" type="Button" parent="Menus/MenuContainer/MainMenu/Buttons"]
 margin_top = 307.0
-margin_right = 256.0
+margin_right = 403.0
 margin_bottom = 344.0
 size_flags_vertical = 3
 text = "Quit"
@@ -954,12 +980,68 @@ stream = ExtResource( 4 )
 volume_db = -0.25
 autoplay = true
 
-[node name="PlayerName" parent="Menus/MenuContainer" instance=ExtResource( 21 )]
+[node name="PlayerName" type="Control" parent="Menus/MenuContainer"]
 visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 22 )
 
-[node name="Popup" type="Popup" parent="Menus/MenuContainer"]
-margin_right = 40.0
-margin_bottom = 40.0
+[node name="TextureRect" type="TextureRect" parent="Menus/MenuContainer/PlayerName"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+texture = ExtResource( 21 )
+expand = true
+
+[node name="Label" type="Label" parent="Menus/MenuContainer/PlayerName/TextureRect"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -187.0
+margin_top = -108.0
+margin_right = 64.0
+margin_bottom = -71.0
+rect_scale = Vector2( 1.5, 1.5 )
+custom_colors/font_color = Color( 0.913725, 0.901961, 1, 1 )
+text = "What's your name?"
+align = 1
+
+[node name="Input" type="LineEdit" parent="Menus/MenuContainer/PlayerName"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -146.0
+margin_top = -30.0
+margin_right = 147.0
+margin_bottom = 15.0
+custom_colors/selection_color = Color( 1, 0.592157, 0.631373, 1 )
+custom_colors/font_color = Color( 1, 0.815686, 0.815686, 1 )
+custom_colors/clear_button_color = Color( 1, 0.815686, 0.815686, 1 )
+custom_styles/normal = SubResource( 18 )
+align = 1
+clear_button_enabled = true
+placeholder_text = "Your Name"
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="ConfirmButton" type="Button" parent="Menus/MenuContainer/PlayerName"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -51.0
+margin_top = 31.0
+margin_right = 63.0
+margin_bottom = 68.0
+rect_scale = Vector2( 0.9, 0.9 )
+theme = SubResource( 20 )
+custom_colors/font_color_disabled = Color( 0.784314, 0.784314, 0.784314, 1 )
+custom_styles/hover = SubResource( 21 )
+custom_styles/pressed = SubResource( 22 )
+custom_styles/normal = SubResource( 23 )
+disabled = true
+text = "Done"
 
 [connection signal="button_down" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_button_down"]
 [connection signal="button_up" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_button_up"]
@@ -991,3 +1073,6 @@ margin_bottom = 40.0
 [connection signal="pressed" from="Menus/MenuContainer/LooseProgressWarning/WarningPanel/VBoxContainer/HBoxContainer/Back" to="Menus/MenuContainer/LooseProgressWarning" method="_on_Back_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/LooseSaveWarning/WarningPanel/VBoxContainer/HBoxContainer/Ok" to="Menus/MenuContainer/LooseSaveWarning" method="_on_Ok_pressed"]
 [connection signal="pressed" from="Menus/MenuContainer/LooseSaveWarning/WarningPanel/VBoxContainer/HBoxContainer/Back" to="Menus/MenuContainer/LooseSaveWarning" method="_on_Back_pressed"]
+[connection signal="gui_input" from="Menus/MenuContainer/PlayerName/Input" to="Menus/MenuContainer/PlayerName" method="_on_Input_gui_input"]
+[connection signal="text_changed" from="Menus/MenuContainer/PlayerName/Input" to="Menus/MenuContainer/PlayerName" method="_on_Input_text_changed"]
+[connection signal="pressed" from="Menus/MenuContainer/PlayerName/ConfirmButton" to="Menus/MenuContainer/PlayerName" method="_on_ConfirmButton_pressed"]

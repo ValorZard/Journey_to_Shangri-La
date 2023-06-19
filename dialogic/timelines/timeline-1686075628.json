@@ -3,7 +3,7 @@
 		{
 			"background": "res://Echo/Backgrounds/Stars.jpg",
 			"event_id": "dialogic_021",
-			"fade_duration": 0
+			"fade_duration": 1
 		},
 		{
 			"audio_bus": "Master",
@@ -13,6 +13,41 @@
 			"fade_length": 0,
 			"file": "res://Echo/Music/homescreen3.mp3",
 			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Welcome to \"Journey to Shangri-La\"! "
+		},
+		{
+			"call_node": {
+				"arguments": [
+
+				],
+				"method_name": "show_player_name_input",
+				"target_node_path": "/root/Node2D/DialogicVisualNovelManager/Menus/MenuContainer"
+			},
+			"event_id": "dialogic_042"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Your name has been updated!"
+		},
+		{
+			"choice": "Yay!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "",
@@ -184,6 +219,6 @@
 	"metadata": {
 		"dialogic-version": "1.4.5",
 		"file": "timeline-1686075628.json",
-		"name": "Intro Backstory"
+		"name": "Intro"
 	}
 }
