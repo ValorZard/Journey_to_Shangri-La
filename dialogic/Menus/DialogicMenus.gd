@@ -29,6 +29,10 @@ func add_game_node(node):
 	$MainMenu.hide()
 	$SubMenus.hide()
 	$MenuAnimations.play_backwards("Fade")
+	#hide()
+	
+func show_player_name_input():
+	$PlayerName.show()
 
 func stop_previous_game() -> void:
 	for child in get_node(Game).get_children():

@@ -72,7 +72,7 @@ _global_script_classes=[ {
 "base": "Control",
 "class": "PlayerNameInput",
 "language": "GDScript",
-"path": "res://Echo/PlayerName.gd"
+"path": "res://dialogic/Menus/PlayerName.gd"
 }, {
 "base": "Node",
 "class": "StatsFunc",
