@@ -12,13 +12,9 @@ func _on_Input_text_changed(new_name : String):
 # Sets the character's name and hides itself
 func _on_ConfirmButton_pressed():
 	Dialogic.set_variable("YOUR NAME", player_name)
-	var dialog = Dialogic.start("Intro Backstory")
-	add_child(dialog)
 	hide()
 
 func _on_Input_gui_input(event):
 	if event is InputEventKey and event.scancode == KEY_ENTER:
 		Dialogic.set_variable("YOUR NAME", player_name)
-		var dialog = Dialogic.start("Intro Backstory")
-		add_child(dialog)
 		hide()

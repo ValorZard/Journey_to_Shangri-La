@@ -1,4 +1,4 @@
-[gd_scene load_steps=38 format=2]
+[gd_scene load_steps=39 format=2]
 
 [ext_resource path="res://addons/dialogic/Example Assets/Fonts/DefaultBoldFont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://dialogic/Menus/BackgroundImage.jpg" type="Texture" id=2]
@@ -20,6 +20,7 @@
 [ext_resource path="res://Echo/Stats/IMG_1299.PNG" type="Texture" id=18]
 [ext_resource path="res://Echo/Stats/IMG_1307.PNG" type="Texture" id=19]
 [ext_resource path="res://Echo/Stats/IMG_1290.PNG" type="Texture" id=20]
+[ext_resource path="res://Echo/PlayerName.tscn" type="PackedScene" id=21]
 
 [sub_resource type="StyleBoxFlat" id=1]
 bg_color = Color( 0.360784, 0.392157, 0.407843, 1 )
@@ -952,6 +953,13 @@ flat = true
 stream = ExtResource( 4 )
 volume_db = -0.25
 autoplay = true
+
+[node name="PlayerName" parent="Menus/MenuContainer" instance=ExtResource( 21 )]
+visible = false
+
+[node name="Popup" type="Popup" parent="Menus/MenuContainer"]
+margin_right = 40.0
+margin_bottom = 40.0
 
 [connection signal="button_down" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_button_down"]
 [connection signal="button_up" from="Menus/MenuContainer/InGameMenu/Stats_Button" to="Menus/MenuContainer" method="_on_Stats_Button_button_up"]

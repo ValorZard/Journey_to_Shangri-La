@@ -11,12 +11,37 @@
 			"text": "Welcome to \"Journey to Shangri-La\"! "
 		},
 		{
-			"change_timeline": "timeline-1686075628.json",
-			"event_id": "dialogic_020"
+			"call_node": {
+				"arguments": [
+
+				],
+				"method_name": "show_player_name_input",
+				"target_node_path": "/root/Node2D/DialogicVisualNovelManager/Menus/MenuContainer"
+			},
+			"event_id": "dialogic_042"
 		},
 		{
-			"change_scene": "res://Echo/PlayerName.tscn",
-			"event_id": "dialogic_041"
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Your name has been updated!"
+		},
+		{
+			"choice": "Yay!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1686075628.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
