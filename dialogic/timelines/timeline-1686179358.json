@@ -1,10 +1,49 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/folk2-2.mp3",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/grassplain.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "DATE: MARCH 1937[br]LOCATION: ???\nWhen you open your eyes again, you are met with the eyes of Soot."
+			"text": "DATE: MARCH 1937[br]LOCATION: ???"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When you open your eyes again, you are met with the eyes of Soot."
 		},
 		{
 			"character": "character-1676341130.json",
@@ -13,16 +52,116 @@
 			"text": "[i]Meow[/i]."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "She nudges your face with her nose, and presses her cheek against yours.\nAs she insists, you lift yourself up to a sitting position; though you are unsure of how you even end up on the ground in the first place. \nIn fact, you are currently situated in a grassy clearing so expansive that the nearest building will take hours to reach."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Is everyone alright?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -81,8 +220,29 @@
 		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "JUAN_HAPPY",
 			"text": "No, no! I’m just a little dizzy from… [i]everything[/i]."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -123,7 +283,7 @@
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Happy_Professor",
 			"text": "It seems he didn’t teleport with us, but I’m confident he can handle himself!"
 		},
 		{
@@ -131,6 +291,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The Professor speaks optimistically, and you try to follow in his lead by staying hopeful about Sandy’s safety. Surely, Sandy would not have an entire temple if he could not protect himself in dire situations.\nIn the meantime, Mateo’s eyes begin to sparkle as he turns to look at the Professor."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1683825918.json",
@@ -161,6 +342,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s no secret that Raj doesn’t believe in the existence of magic, while he was not one for grand displays, he did not hide his disapproval whenever the Professor spoke fondly of it. \nHowever, the fact that he’s reaching a breaking point is now apparent on his face."
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677847888.json",
@@ -289,6 +491,27 @@
 			"text": "We were in Japan, and now we are here! In your home country! And it is beautiful!"
 		},
 		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -297,7 +520,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_shocked_W_soot",
 			"text": "So you [i]are[/i] injured."
 		},
 		{
@@ -305,6 +528,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Everyone is looking at Mateo now, and he seems to struggle to come up with an excuse this time. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677847888.json",
@@ -325,6 +569,51 @@
 			"text": "I know where we can get him checked out."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/waitingroom.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -334,7 +623,144 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Mateo shifts in his seat, not even a foot from the doctor in the small local clinic Raj has taken them to.\nRaj and the party stand outside the clinic, waiting to hear the news about Mateo.\nYou glance at Raj, who has his arms folded over his chest.\nHe’s standing a bit of a ways off, his brows scrunched in concentration. He must still not be over what happened earlier.\nYou exchange glances with the Professor, but Soot is the first one to approach Raj. \nShe leaps out of your arms and stands on Raj’s foot, meowing up at him."
+			"text": "Mateo shifts in his seat, not even a foot from the doctor in the small local clinic Raj has taken them to."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/grassplain.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Raj and the party stand outside the clinic, waiting to hear the news about Mateo.\nYou glance at Raj, who has his arms folded over his chest.\nHe’s standing a bit of a ways off, his brows scrunched in concentration. He must still not be over what happened earlier.\nYou exchange glances with the Professor, but Soot is the first one to approach Raj. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676341130.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She leaps out of your arms and stands on Raj’s foot, meowing up at him."
 		},
 		{
 			"character": "character-1676265208.json",
@@ -381,8 +807,29 @@
 		{
 			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "Don’t get too excited though, I’m still a little suspicious of what exactly happened."
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -391,16 +838,100 @@
 			"text": "You are eager to share the news with Mateo, and glance into the clinic to see how he is doing.\nHe’s sitting slumped over in a chair not even a foot from the doctor, who is examining his condition.\nMateo sits in the chair, overtaken with exhaustion, but the thoughts in his mind occupy him more than the pain in his side…"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/forest.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": false,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[i]… Back when the party was fleeing from Hiroshi…[/i]"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/tensehawaii1.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "How could you do this? Why would you do something so… [i]cruel?[/i]"
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -419,6 +950,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Despite his current situation, Mateo rebels boldly.\nIn return, he is forced onto his knees. It doesn’t help much that he had hurt his ankle earlier while running away.\nHiroshi scoffs."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1677556264.json",
@@ -484,13 +1035,61 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hiroshi considers this for a moment. His eyes scan over Mateo, making his hairs stand on end. \nAs Mateo is really starting to feel the pressure, a loud cry comes from not far away. \nWhen he looks over, he sees one of the soldiers tumbling backwards quite a distance. Shouts ring out into the air, and he catches a glimpse of Sandy’s notable staff among the chaos. \nAn angry growl from Hiroshi brings him back to attention. \nBefore he knows it, a sharp pain blooms in his side and he falls to the ground from Hiroshi’s kick.  \nHe doesn’t get a chance to recover before Hiroshi takes hold of his collar and yanks him up to meet his face."
+			"text": "Hiroshi considers this for a moment. His eyes scan over Mateo, making his hairs stand on end. \nAs Mateo is really starting to feel the pressure, a loud cry comes from not far away. \nWhen he looks over, he sees one of the soldiers tumbling backwards quite a distance. Shouts ring out into the air, and he catches a glimpse of Sandy’s notable staff among the chaos. \nAn angry growl from Hiroshi brings him back to attention. "
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Before he knows it, a sharp pain blooms in his side and he falls to the ground from Hiroshi’s kick.  \nHe doesn’t get a chance to recover before Hiroshi takes hold of his collar and yanks him up to meet his face."
 		},
 		{
 			"character": "character-1677556264.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If I do not get that amulet, you and your friends won’t be the only ones suffering. "
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Hiroshi_happy_hat",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
 		},
 		{
 			"character": "",
@@ -505,10 +1104,93 @@
 			"text": "We’ll keep in touch."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677556264.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Whatever expression he was making, Hiroshi must’ve been satisfied because he threw Mateo back onto the ground, immediately walking off to shout at his troops.\nIt doesn’t take long before Sandy makes his way to Mateo and ‘rescues’ him. With Sandy in the lead, the two make it back to the Professor and the others.\nEven as he throws himself around his friends as the golden array appears, he could feel sharp stares boring into his back. \nChancing a glance back, he accidentally meets Hiroshi’s eyes, which imprint an uneasiness in him which he will never forget."
+			"text": "Whatever expression he was making, Hiroshi must’ve been satisfied because he threw Mateo back onto the ground, immediately walking off to shout at his troops."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/forest_cave.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It doesn’t take long before Sandy makes his way to Mateo and ‘rescues’ him. With Sandy in the lead, the two make it back to the Professor and the others.\nEven as he throws himself around his friends as the golden array appears, he could feel sharp stares boring into his back. \nChancing a glance back, he accidentally meets Hiroshi’s eyes, which imprint an uneasiness in him which he will never forget."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677564255.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/grassplain.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -521,6 +1203,75 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Mateo felt better physically, but he could feel the guilt clawing at him from that incident. There was no way he could ever betray his friends, especially [YOUR NAME]..."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265208.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "MC_Neutral_W_soot",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677847888.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1676265223.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Echo/Music/folk2-2.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1676265208.json",
@@ -537,19 +1288,40 @@
 		{
 			"character": "character-1683825918.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "JUAN_HAPPY",
 			"text": "Great! Thanks for taking me here–you really didn’t have to!"
 		},
 		{
-			"character": "",
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1683825918.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677847888.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "RAJ_HAPPY",
 			"text": "We’re [i]not[/i] going to travel to Kolkata with you [i]injured[/i]. My family would absolutely scold me."
 		},
 		{
 			"character": "character-1676265223.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Happy_Professor",
 			"text": "Here, I’ll support you!"
 		},
 		{
@@ -561,7 +1333,7 @@
 		{
 			"character": "character-1676265208.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "MC_Happy_W_soot",
 			"text": "We care about you, Mateo."
 		},
 		{
@@ -569,6 +1341,44 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Mateo blushes, his guilt returning to him.\nNo matter what, he wasn’t going to betray them…"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"background": "res://Echo/Backgrounds/Black Screen.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
 		},
 		{
 			"change_timeline": "timeline-1686179375.json",
